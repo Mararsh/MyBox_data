@@ -32,7 +32,7 @@
 				<li>Caches. Many caching technicals have been applied in every levels, such as pages loading at front-end and data persistences at back-end.</li>				
 				<li>Delayed loading. By only fetching and presenting necessary data, size of reading, transferring,and storing can be reduced.</li>
 			</ul>
-		<p>But problem "Stale Read" can arise when benefit from performance optimization technicals. For example, cache of persistence  objects can cause slave database unaware of data changes: After a row is updated, its persistence object is re-written in cache of master database, but not refreshed in master database. Thus slave database does not know this row has been updated, and queries on slave database will get expired row. The root reason is that cache prevents from synchronization between master and slave.</p>
+		<p>But problem "Stale Read" can arise when benefit from performance optimization technicals. For example, cache of persistence objects can cause queries of slave database unaware of data changes: When a row is updated in master database, slave database gets the update but its JPA cache does not know this row has been updated since the update comes from outside but not its JPA, and queries on slave database will get expired row. </p>
 		<p>How to avoid Stale Read while take advantage of performance optimization technicals?</p>
 	</div>
 
