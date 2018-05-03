@@ -3,7 +3,7 @@
 I will use this field to plant some "vegetables", including some steps and summarizations. 
 
 ![tomato ](https://mararsh.github.io/Vegetables_Garden/tomato.png)
-[利用Selenium实现网页自动化测试](https://mararsh.github.io/Vegetables_Garden/selenium.html)
+[利用Selenium实现网页自动化测试](https://mararsh.github.io/Vegetables_Garden/selenuim.html)
 
 ![tomato ](https://mararsh.github.io/Vegetables_Garden/tomato.png)
 [WebSocket的使用方式](https://mararsh.github.io/Vegetables_Garden/websocket_using.html)
