@@ -1,6 +1,6 @@
 ## Welcome to my vegetables garden
 
-I will use this field to plant some "vegetables", including some steps and summarizations. 
+I will use this field to plant some "vegetables", including my solutions and coding for some problems. 
 
 ![tomato ](https://mararsh.github.io/Vegetables_Garden/tomato.png)
 [利用Selenium实现网页自动化测试](https://mararsh.github.io/Vegetables_Garden/selenuim.html)
