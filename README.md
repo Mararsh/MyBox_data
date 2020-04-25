@@ -7,8 +7,8 @@
 
 | 内容 | 格式 | 大小 | 链接 |    
 | --- | --- | --- |  --- |   
-| 全部-中文 | zip | 26mb | [Geography_Codes_Chinese.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.0/Geography_Codes_Chinese.zip) |       
-| 全部-英文 | zip | 3046kb | [Geography_Codes_English.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.0/Geography_Codes_English.zip) |       
+| 全球、中国省份/城市/区县/乡镇/村庄-中文 | zip | 26mb | [Geography_Codes_Chinese.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.0/Geography_Codes_Chinese.zip) |       
+| 全球、中国省份/城市/区县-英文 | zip | 3046kb | [Geography_Codes_English.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.0/Geography_Codes_English.zip) |       
 | 洲 | html | 5kb | [国家.htm](http://mararsh.github.io/MyBox_data/地理代码/洲.htm) |       
 | 洲 | json | 2kb | [国家.json](http://mararsh.github.io/MyBox_data/地理代码/洲.json) |       
 | 洲 | xlsx | 5kb | [国家.xlsx](http://mararsh.github.io/MyBox_data/地理代码/洲.xlsx) |       
