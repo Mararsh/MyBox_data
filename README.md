@@ -7,6 +7,8 @@
 
 | 内容 | 格式 | 大小 | 链接 |    
 | --- | --- | --- |  --- |   
+| 全部-中文 | zip | 26mb | [Geography_Codes_Chinese.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.0/Geography_Codes_Chinese.zip) |       
+| 全部-英文 | zip | 3046kb | [Geography_Codes_English.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.0/Geography_Codes_English.zip) |       
 | 洲 | html | 5kb | [国家.htm](http://mararsh.github.io/MyBox_data/地理代码/洲.htm) |       
 | 洲 | json | 2kb | [国家.json](http://mararsh.github.io/MyBox_data/地理代码/洲.json) |       
 | 洲 | xlsx | 5kb | [国家.xlsx](http://mararsh.github.io/MyBox_data/地理代码/洲.xlsx) |       
@@ -19,10 +21,23 @@
 | 国家 | xml | 150kb | [国家.xml](http://mararsh.github.io/MyBox_data/地理代码/国家.xml) |       
 | 国家 | csv(MyBox外部格式) | 107kb | [国家_external.csv](http://mararsh.github.io/MyBox_data/地理代码/国家_external.csv) |       
 | 国家 | csv(MyBox内部格式) | 103kb | [国家_internal.csv](http://mararsh.github.io/MyBox_data/地理代码/国家_internal.csv) |       
-| 中国省份 | html | 165kb | [中国省份.htm](http://mararsh.github.io/MyBox_data/地理代码/中国/中国省份/中国省份.htm) |       
-| 中国省份 | json | 152kb | [中国省份.json](http://mararsh.github.io/MyBox_data/地理代码/中国/中国省份/中国省份.json) |       
-| 中国省份 | xlsx | 72kb | [中国省份.xlsx](http://mararsh.github.io/MyBox_data/地理代码/中国/中国省份/中国省份.xlsx) |       
-| 中国省份 | xml | 150kb | [中国省份.xml](http://mararsh.github.io/MyBox_data/地理代码/中国/中国省份/中国省份.xml) |       
-| 中国省份 | csv(MyBox外部格式) | 107kb | [中国省份_external.csv](http://mararsh.github.io/MyBox_data/地理代码/中国/中国省份/中国省份_external.csv) |       
-| 中国省份 | csv(MyBox内部格式) | 103kb | [中国省份_internal.csv](http://mararsh.github.io/MyBox_data/地理代码/中国/中国省份/中国省份_internal.csv) |       
-
+| 中国省份 | html | 14kb | [中国省份.htm](http://mararsh.github.io/MyBox_data/地理代码/中国/中国省份/中国省份.htm) |       
+| 中国省份 | json | 9kb | [中国省份.json](http://mararsh.github.io/MyBox_data/地理代码/中国/中国省份/中国省份.json) |       
+| 中国省份 | xlsx | 8kb | [中国省份.xlsx](http://mararsh.github.io/MyBox_data/地理代码/中国/中国省份/中国省份.xlsx) |       
+| 中国省份 | xml | 9kb | [中国省份.xml](http://mararsh.github.io/MyBox_data/地理代码/中国/中国省份/中国省份.xml) |       
+| 中国省份 | csv(MyBox外部格式) | 4kb | [中国省份_external.csv](http://mararsh.github.io/MyBox_data/地理代码/中国/中国省份/中国省份_external.csv) |       
+| 中国省份 | csv(MyBox内部格式) | 4kb | [中国省份_internal.csv](http://mararsh.github.io/MyBox_data/地理代码/中国/中国省份/中国省份_internal.csv) |       
+| 中国城市 | html | 118kb | [中国城市.htm](http://mararsh.github.io/MyBox_data/地理代码/中国/中国城市/中国城市.htm) |       
+| 中国城市 | json | 84kb | [中国城市.json](http://mararsh.github.io/MyBox_data/地理代码/中国/中国城市/中国城市.json) |       
+| 中国城市 | xlsx | 42kb | [中国城市.xlsx](http://mararsh.github.io/MyBox_data/地理代码/中国/中国城市/中国城市.xlsx) |       
+| 中国城市 | xml | 83kb | [中国城市.xml](http://mararsh.github.io/MyBox_data/地理代码/中国/中国城市/中国城市.xml) |       
+| 中国城市 | csv(MyBox外部格式) | 39kb | [中国城市_external.csv](http://mararsh.github.io/MyBox_data/地理代码/中国/中国城市/中国城市_external.csv) |       
+| 中国城市 | csv(MyBox内部格式) | 35kb | [中国城市_internal.csv](http://mararsh.github.io/MyBox_data/地理代码/中国/中国城市/中国城市_internal.csv) |       
+| 中国区县 | html | 1041kb | [中国区县.htm](http://mararsh.github.io/MyBox_data/地理代码/中国/中国区县/中国区县.htm) |       
+| 中国区县 | json | 783kb | [中国区县.json](http://mararsh.github.io/MyBox_data/地理代码/中国/中国区县/中国区县.json) |       
+| 中国区县 | xlsx | 325kb | [中国区县.xlsx](http://mararsh.github.io/MyBox_data/地理代码/中国/中国区县/中国区县.xlsx) |       
+| 中国区县 | xml | 769kb | [中国区县.xml](http://mararsh.github.io/MyBox_data/地理代码/中国/中国区县/中国区县.xml) |       
+| 中国区县 | csv(MyBox外部格式) | 359kb | [中国区县_external.csv](http://mararsh.github.io/MyBox_data/地理代码/中国/中国区县/中国区县_external.csv) |       
+| 中国区县 | csv(MyBox内部格式) | 310kb | [中国区县_internal.csv](http://mararsh.github.io/MyBox_data/地理代码/中国/中国区县/中国区县_internal.csv) |       
+| 中国乡镇 | csv(MyBox外部格式) | 5394kb | [中国乡镇_external.csv](http://mararsh.github.io/MyBox_data/地理代码/中国/中国乡镇/中国乡镇_external.csv) |       
+| 中国乡镇 | csv(MyBox内部格式) | 4495kb | [中国乡镇_internal.csv](http://mararsh.github.io/MyBox_data/地理代码/中国/中国乡镇/中国乡镇_internal.csv) | 
