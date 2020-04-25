@@ -1,0 +1,11 @@
+Level,Longitude,Latitude,Chinese Name,English Name,Code 1,Code 2,Code 3,Code 4,Code 5,Alias 1,Alias 2,Alias 3,Alias 4,Alias 5,Square Kilometers,Population,Continent,Country,Province,City,County,Town,Village,Building,Comments
+Global,148.770017,27.499299,地球,Earth,,,,,,,,,,,,,Earth,,,,,,,,
+Continent,111.23125,33.47486,亚洲,Asia,AS,,,,,,,,,,,,Asia,,,,,,,,
+Continent,24.918,54.376174,欧洲,Europe,EU,,,,,,,,,,,,Europe,,,,,,,,
+Continent,27.118551,8.777388,非洲,Africa,AF,,,,,,,,,,,,Africa,,,,,,,,
+Continent,135.406058,-24.375757,大洋洲,Oceania,OC,,,,,,,,,,,,Oceania,,,,,,,,
+Continent,33.643453,-74.561146,南极洲,Antarctica,AT,,,,,,,,,,,,Antarctica,,,,,,,,
+Continent,-104.695554,59.336138,北美洲,North America,NA,,,,,,,,,,,,North America,,,,,,,,
+Continent,-60.396237,-16.81103,南美洲,South America,SA,,,,,,,,,,,,South America,,,,,,,,
+Continent,149.828482,23.206392,其它,Others,,,,,,,,,,,,,Others,,,,,,,,
+Global,149.828483,23.206393,全球,Global,,,,,,,,,,,,,Global,,,,,,,,

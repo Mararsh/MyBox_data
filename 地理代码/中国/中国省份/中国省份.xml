@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GeographyCodes>
+    <GeographyCode  level="省"  longitude="116.407526" latitude="39.90403" chinese_name="北京" english_name="Beijing" code1="110000" code2="10" alias1="北京市" continent="亚洲" country="中国" province="北京"     />
+    <GeographyCode  level="省"  longitude="117.200983" latitude="39.084158" chinese_name="天津" english_name="Tianjin" code1="120000" code2="22" alias1="天津市" continent="亚洲" country="中国" province="天津"     />
+    <GeographyCode  level="省"  longitude="114.468664" latitude="38.037057" chinese_name="河北" english_name="Hebei" code1="130000" alias1="河北省" alias2="Hebei Province" continent="亚洲" country="中国" province="河北"     />
+    <GeographyCode  level="省"  longitude="112.562398" latitude="37.873531" chinese_name="山西" english_name="Shanxi" code1="140000" alias1="山西省" alias2="Shanxi Province" continent="亚洲" country="中国" province="山西"     />
+    <GeographyCode  level="省"  longitude="111.765617" latitude="40.817498" chinese_name="内蒙古" english_name="Inner Mongolia" code1="150000" alias1="内蒙古自治区" continent="亚洲" country="中国" province="内蒙古"     />
+    <GeographyCode  level="省"  longitude="123.42944" latitude="41.835441" chinese_name="辽宁" english_name="Liaoning" code1="210000" alias1="辽宁省" alias2="Liaoning Province" continent="亚洲" country="中国" province="辽宁"     />
+    <GeographyCode  level="省"  longitude="125.32599" latitude="43.896536" chinese_name="吉林" english_name="Jilin" code1="220000" alias1="吉林省" alias2="Jilin Province" continent="亚洲" country="中国" province="吉林"     />
+    <GeographyCode  level="省"  longitude="126.661669" latitude="45.742347" chinese_name="黑龙江" english_name="Heilongjiang" code1="230000" alias1="黑龙江省" alias2="Heilongjiang Province" continent="亚洲" country="中国" province="黑龙江"     />
+    <GeographyCode  level="省"  longitude="121.473701" latitude="31.230416" chinese_name="上海" english_name="Shanghai" code1="310000" code2="21" alias1="上海市" continent="亚洲" country="中国" province="上海"     />
+    <GeographyCode  level="省"  longitude="118.763232" latitude="32.061707" chinese_name="江苏" english_name="Jiangsu" code1="320000" alias1="江苏省" alias2="Jiangsu Province" continent="亚洲" country="中国" province="江苏"     />
+    <GeographyCode  level="省"  longitude="120.152791" latitude="30.267446" chinese_name="浙江" english_name="Zhejiang" code1="330000" alias1="浙江省" alias2="Zhejiang Province" continent="亚洲" country="中国" province="浙江"     />
+    <GeographyCode  level="省"  longitude="117.284922" latitude="31.861184" chinese_name="安徽" english_name="Anhui" code1="340000" alias1="安徽省" alias2="Anhui Province" continent="亚洲" country="中国" province="安徽"     />
+    <GeographyCode  level="省"  longitude="119.295144" latitude="26.100779" chinese_name="福建" english_name="Fujian" code1="350000" alias1="福建省" alias2="Fujian Province" continent="亚洲" country="中国" province="福建"     />
+    <GeographyCode  level="省"  longitude="115.909228" latitude="28.675696" chinese_name="江西" english_name="Jiangxi" code1="360000" alias1="江西省" alias2="Jiangxi Province" continent="亚洲" country="中国" province="江西"     />
+    <GeographyCode  level="省"  longitude="117.020359" latitude="36.66853" chinese_name="山东" english_name="Shandong" code1="370000" alias1="山东省" alias2="Shandong Province" continent="亚洲" country="中国" province="山东"     />
+    <GeographyCode  level="省"  longitude="113.753602" latitude="34.765515" chinese_name="河南" english_name="Henan" code1="410000" alias1="河南省" alias2="Henan Province" continent="亚洲" country="中国" province="河南"     />
+    <GeographyCode  level="省"  longitude="114.341861" latitude="30.546498" chinese_name="湖北" english_name="Hubei" code1="420000" alias1="湖北省" alias2="Hubei Province" continent="亚洲" country="中国" province="湖北"     />
+    <GeographyCode  level="省"  longitude="112.98381" latitude="28.112444" chinese_name="湖南" english_name="Hunan" code1="430000" alias1="湖南省" alias2="Hunan Province" continent="亚洲" country="中国" province="湖南"     />
+    <GeographyCode  level="省"  longitude="113.26653" latitude="23.132191" chinese_name="广东" english_name="Guangdong" code1="440000" alias1="广东省" alias2="Guangdong Province" continent="亚洲" country="中国" province="广东"     />
+    <GeographyCode  level="省"  longitude="108.327546" latitude="22.815478" chinese_name="广西" english_name="Guangxi" code1="450000" alias1="广西壮族自治区" alias2="Guangxi Province" continent="亚洲" country="中国" province="广西"     />
+    <GeographyCode  level="省"  longitude="110.349228" latitude="20.017377" chinese_name="海南" english_name="Hainan" code1="460000" alias1="海南省" alias2="Hainan Province" continent="亚洲" country="中国" province="海南"     />
+    <GeographyCode  level="省"  longitude="106.551556" latitude="29.563009" chinese_name="重庆" english_name="Chongqing" code1="500000" code2="23" alias1="重庆市" continent="亚洲" country="中国" province="重庆"     />
+    <GeographyCode  level="省"  longitude="104.075931" latitude="30.651651" chinese_name="四川" english_name="Sichuan" code1="510000" alias1="四川省" alias2="Sichuan Province" continent="亚洲" country="中国" province="四川"     />
+    <GeographyCode  level="省"  longitude="106.70741" latitude="26.598194" chinese_name="贵州" english_name="Guizhou" code1="530000" alias1="贵州省" alias2="Guizhou Province" continent="亚洲" country="中国" province="贵州"     />
+    <GeographyCode  level="省"  longitude="102.710002" latitude="25.045806" chinese_name="云南" english_name="Yunnan" code1="530000" alias1="云南省" alias2="Yunnan Province" continent="亚洲" country="中国" province="云南"     />
+    <GeographyCode  level="省"  longitude="91.117212" latitude="29.646922" chinese_name="西藏" english_name="Xizang" code1="540000" alias1="西藏自治区" alias2="Xizang Province" alias3="Tibet" continent="亚洲" country="中国" province="西藏"     />
+    <GeographyCode  level="省"  longitude="108.954239" latitude="34.265472" chinese_name="陕西" english_name="Shaanxi" code1="610000" alias1="陕西省" alias2="Shaanxi Province" alias3="Shensi" continent="亚洲" country="中国" province="陕西"     />
+    <GeographyCode  level="省"  longitude="103.826308" latitude="36.059421" chinese_name="甘肃" english_name="Gansu" code1="620000" alias1="甘肃省" alias2="Gansu Province" continent="亚洲" country="中国" province="甘肃"     />
+    <GeographyCode  level="省"  longitude="101.780199" latitude="36.620901" chinese_name="青海" english_name="Qinghai" code1="630000" alias1="青海省" alias2="Qinghai Province" continent="亚洲" country="中国" province="青海"     />
+    <GeographyCode  level="省"  longitude="106.258754" latitude="38.471317" chinese_name="宁夏" english_name="Ningxia" code1="640000" alias1="宁夏回族自治区" alias2="Ningxia Province" continent="亚洲" country="中国" province="宁夏"     />
+    <GeographyCode  level="省"  longitude="87.627704" latitude="43.793026" chinese_name="新疆" english_name="Xinjiang" code1="650000" alias1="新疆维吾尔自治区" alias2="Xinjiang Province" continent="亚洲" country="中国" province="新疆"     />
+    <GeographyCode  level="省"  longitude="113.543028" latitude="22.186835" chinese_name="澳门" english_name="Macau" code1="820000" alias1="澳门特别行政区" continent="亚洲" country="中国" province="澳门"     />
+    <GeographyCode  level="省"  longitude="114.163825" latitude="22.276284" chinese_name="香港" english_name="Hong Kong" code1="810000" alias1="香港特别行政区" continent="亚洲" country="中国" province="香港"     />
+    <GeographyCode  level="省"  longitude="121.508903" latitude="25.044319" chinese_name="台湾" english_name="Taiwan" code1="710000" alias1="台湾省" continent="亚洲" country="中国" province="台湾"     />
+</GeographyCodes>

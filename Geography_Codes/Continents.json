@@ -1,0 +1,12 @@
+{"GeographyCodes": [
+    {"level":"Global","longitude":148.770017,"latitude":27.499299,"chinese_name":"地球","english_name":"Earth","continent":"Earth"    },
+    {"level":"Continent","longitude":111.23125,"latitude":33.47486,"chinese_name":"亚洲","english_name":"Asia","code1":"AS","continent":"Asia"    },
+    {"level":"Continent","longitude":24.918,"latitude":54.376174,"chinese_name":"欧洲","english_name":"Europe","code1":"EU","continent":"Europe"    },
+    {"level":"Continent","longitude":27.118551,"latitude":8.777388,"chinese_name":"非洲","english_name":"Africa","code1":"AF","continent":"Africa"    },
+    {"level":"Continent","longitude":135.406058,"latitude":-24.375757,"chinese_name":"大洋洲","english_name":"Oceania","code1":"OC","continent":"Oceania"    },
+    {"level":"Continent","longitude":33.643453,"latitude":-74.561146,"chinese_name":"南极洲","english_name":"Antarctica","code1":"AT","continent":"Antarctica"    },
+    {"level":"Continent","longitude":-104.695554,"latitude":59.336138,"chinese_name":"北美洲","english_name":"North America","code1":"NA","continent":"North America"    },
+    {"level":"Continent","longitude":-60.396237,"latitude":-16.81103,"chinese_name":"南美洲","english_name":"South America","code1":"SA","continent":"South America"    },
+    {"level":"Continent","longitude":149.828482,"latitude":23.206392,"chinese_name":"其它","english_name":"Others","continent":"Others"    },
+    {"level":"Global","longitude":149.828483,"latitude":23.206393,"chinese_name":"全球","english_name":"Global","continent":"Global"    }
+]}
