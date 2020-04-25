@@ -21,23 +21,23 @@ Here are data for MyBox.
 | Countries | xml | 81kb | [Countries.xml](http://mararsh.github.io/MyBox_data/Geography_Codes/Global/Countries.xml) |       
 | Countries | csv(MyBox external format) | 40kb | [Countries_external.csv](http://mararsh.github.io/MyBox_data/Geography_Codes/Global/Countries_external.csv) |       
 | Countries | csv(MyBox internal format) | 34kb | [Countries_internal.csv](http://mararsh.github.io/MyBox_data/Geography_Codes/Global/Countries_internal.csv) | 
-| China Provinces | html | 14kb | [China Provinces.htm](http://mararsh.github.io/MyBox_data/Geography_Codes/China/China Provinces/China Provinces.htm) |       
-| China Provinces | json | 9kb | [China Provinces.json](http://mararsh.github.io/MyBox_data/Geography_Codes/China/China Provinces/China Provinces.json) |       
-| China Provinces | xlsx | 8kb | [China Provinces.xlsx](http://mararsh.github.io/MyBox_data/Geography_Codes/China/China Provinces/China Provinces.xlsx) |       
-| China Provinces | xml | 9kb | [China Provinces.xml](http://mararsh.github.io/MyBox_data/Geography_Codes/China/China Provinces/China Provinces.xml) |       
-| China Provinces | csv(MyBox external format) | 5kb | [China Provinces_external.csv](http://mararsh.github.io/MyBox_data/Geography_Codes/China/China Provinces/China Provinces_external.csv) |       
-| China Provinces | csv(MyBox internal format) | 4kb | [China Provinces_internal.csv](http://mararsh.github.io/MyBox_data/Geography_Codes/China/China Provinces/China Provinces_internal.csv) | 
-| China Cities | html | 125kb | [China Cities.htm](http://mararsh.github.io/MyBox_data/Geography_Codes/China/China Cities/China Cities.htm) |       
-| China Cities | json | 90kb | [China Cities.json](http://mararsh.github.io/MyBox_data/Geography_Codes/China/China Cities/China Cities.json) |       
-| China Cities | xlsx | 42kb | [China Cities.xlsx](http://mararsh.github.io/MyBox_data/Geography_Codes/China/China Cities/China Cities.xlsx) |       
-| China Cities | xml | 89kb | [China Cities.xml](http://mararsh.github.io/MyBox_data/Geography_Codes/China/China Cities/China Cities.xml) |       
-| China Cities | csv(MyBox external format) | 45kb | [China Cities_external.csv](http://mararsh.github.io/MyBox_data/Geography_Codes/China/China Cities/China Cities_external.csv) |       
-| China Cities | csv(MyBox internal format) | 35kb | [China Cities_internal.csv](http://mararsh.github.io/MyBox_data/Geography_Codes/China/China Cities/China Cities_internal.csv) | 
-| China Counties | html | 1104kb | [China Counties.htm](http://mararsh.github.io/MyBox_data/Geography_Codes/China/China Counties/China Counties.htm) |       
-| China Counties | json | 846kb | [China Counties.json](http://mararsh.github.io/MyBox_data/Geography_Codes/China/China Counties/China Counties.json) |       
-| China Counties | xlsx | 326kb | [China Counties.xlsx](http://mararsh.github.io/MyBox_data/Geography_Codes/China/China Counties/China Counties.xlsx) |       
-| China Counties | xml | 833kb | [China Counties.xml](http://mararsh.github.io/MyBox_data/Geography_Codes/China/China Counties/China Counties.xml) |       
-| China Counties | csv(MyBox external format) | 422kb | [China Counties_external.csv](http://mararsh.github.io/MyBox_data/Geography_Codes/China/China Counties/China Counties_external.csv) |       
-| China Counties | csv(MyBox internal format) | 310kb | [China Counties_internal.csv](http://mararsh.github.io/MyBox_data/Geography_Codes/China/China Counties/China Counties_internal.csv) | 
-| China Towns | csv(MyBox external format) | 5394kb | [China Towns_external.csv](http://mararsh.github.io/MyBox_data/Geography_Codes/China/China Towns/China Towns_external.csv) |       
-| China Towns | csv(MyBox internal format) | 4495kb | [China Towns_internal.csv](http://mararsh.github.io/MyBox_data/Geography_Codes/China/China Towns/China Towns_internal.csv) | 
+| ChinaProvinces | html | 14kb | [ChinaProvinces.htm](http://mararsh.github.io/MyBox_data/Geography_Codes/China/ChinaProvinces/ChinaProvinces.htm) |       
+| ChinaProvinces | json | 9kb | [ChinaProvinces.json](http://mararsh.github.io/MyBox_data/Geography_Codes/China/ChinaProvinces/ChinaProvinces.json) |       
+| ChinaProvinces | xlsx | 8kb | [ChinaProvinces.xlsx](http://mararsh.github.io/MyBox_data/Geography_Codes/China/ChinaProvinces/ChinaProvinces.xlsx) |       
+| ChinaProvinces | xml | 9kb | [ChinaProvinces.xml](http://mararsh.github.io/MyBox_data/Geography_Codes/China/ChinaProvinces/ChinaProvinces.xml) |       
+| ChinaProvinces | csv(MyBox external format) | 5kb | [ChinaProvinces_external.csv](http://mararsh.github.io/MyBox_data/Geography_Codes/China/ChinaProvinces/ChinaProvinces_external.csv) |       
+| ChinaProvinces | csv(MyBox internal format) | 4kb | [ChinaProvinces_internal.csv](http://mararsh.github.io/MyBox_data/Geography_Codes/China/ChinaProvinces/ChinaProvinces_internal.csv) | 
+| ChinaCities | html | 125kb | [ChinaCities.htm](http://mararsh.github.io/MyBox_data/Geography_Codes/China/ChinaCities/ChinaCities.htm) |       
+| ChinaCities | json | 90kb | [ChinaCities.json](http://mararsh.github.io/MyBox_data/Geography_Codes/China/ChinaCities/ChinaCities.json) |       
+| ChinaCities | xlsx | 42kb | [ChinaCities.xlsx](http://mararsh.github.io/MyBox_data/Geography_Codes/China/ChinaCities/ChinaCities.xlsx) |       
+| ChinaCities | xml | 89kb | [ChinaCities.xml](http://mararsh.github.io/MyBox_data/Geography_Codes/China/ChinaCities/ChinaCities.xml) |       
+| ChinaCities | csv(MyBox external format) | 45kb | [ChinaCities_external.csv](http://mararsh.github.io/MyBox_data/Geography_Codes/China/ChinaCities/ChinaCities_external.csv) |       
+| ChinaCities | csv(MyBox internal format) | 35kb | [ChinaCities_internal.csv](http://mararsh.github.io/MyBox_data/Geography_Codes/China/ChinaCities/ChinaCities_internal.csv) | 
+| ChinaCounties | html | 1104kb | [ChinaCounties.htm](http://mararsh.github.io/MyBox_data/Geography_Codes/China/ChinaCounties/ChinaCounties.htm) |       
+| ChinaCounties | json | 846kb | [ChinaCounties.json](http://mararsh.github.io/MyBox_data/Geography_Codes/China/ChinaCounties/ChinaCounties.json) |       
+| ChinaCounties | xlsx | 326kb | [ChinaCounties.xlsx](http://mararsh.github.io/MyBox_data/Geography_Codes/China/ChinaCounties/ChinaCounties.xlsx) |       
+| ChinaCounties | xml | 833kb | [ChinaCounties.xml](http://mararsh.github.io/MyBox_data/Geography_Codes/China/ChinaCounties/ChinaCounties.xml) |       
+| ChinaCounties | csv(MyBox external format) | 422kb | [ChinaCounties_external.csv](http://mararsh.github.io/MyBox_data/Geography_Codes/China/ChinaCounties/ChinaCounties_external.csv) |       
+| ChinaCounties | csv(MyBox internal format) | 310kb | [ChinaCounties_internal.csv](http://mararsh.github.io/MyBox_data/Geography_Codes/China/ChinaCounties/ChinaCounties_internal.csv) | 
+| ChinaTowns | csv(MyBox external format) | 5394kb | [ChinaTowns_external.csv](http://mararsh.github.io/MyBox_data/Geography_Codes/China/ChinaTowns/ChinaTowns_external.csv) |       
+| ChinaTowns | csv(MyBox internal format) | 4495kb | [ChinaTowns_internal.csv](http://mararsh.github.io/MyBox_data/Geography_Codes/China/ChinaTowns/ChinaTowns_internal.csv) | 
