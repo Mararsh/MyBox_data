@@ -4,8 +4,8 @@
 Here are data for MyBox.
 
 “MyBox internal format” and “MyBox external format” can be imported into MyBox v6.3 and later versions.    
-MyBox internal format refers to data ids for foreign keys. Its advantage is quicker importing/exporting, while its disadvantage is that data are dependant on others.   
-MyBox external format holds all of data values. Its advantage is self-consistent, while its disadvantage is slow importing/exporting.    
+-  MyBox internal format refers to data ids for foreign keys. Its advantage is quicker importing/exporting, while its disadvantage is that data are dependant on others.   
+-  MyBox external format holds all of data values. Its advantage is self-consistent, while its disadvantage is slow importing/exporting.    
 
 ## 地理代码
 
