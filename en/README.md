@@ -1,13 +1,25 @@
-# [中文ReadMe](https://github.com/Mararsh/MyBox_data)  ![ReadMe](https://mararsh.github.io/MyBox_data/iconFlower.png)  
+# [中文ReadMe](https://github.com/Mararsh/MyBox_data)  ![ReadMe](https://mararsh.github.io/MyBox_data/iconOK.png)  
 
 # Data of MyBox
 Here are data for MyBox.
+
+## Application
+Except for "MyBox external format", other formats are self-consistent, that is data are written as values and can be used directly by other applications.    
 
 “MyBox internal format” and “MyBox external format” can be imported into MyBox v6.3 and later versions.    
 -  MyBox internal format refers to data ids for foreign keys. Its advantage is quicker importing/exporting, while its disadvantage is that data are dependant on others.   
 -  MyBox external format holds all of data values. Its advantage is self-consistent, while its disadvantage is slow importing/exporting.    
 
-## 地理代码
+## Data Sources
+
+| Reference | Link |    
+| --- | --- | --- |  --- |   
+| Coordinates and description of countries | https://github.com/wizardcode/world-area |       
+| Area, populations, and codes of countries | https://www.geonames.org/countries/ |       
+| Addresses of China | http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/ |       
+ 
+
+## Download
 
 | Contents | Format | Size | Link |    
 | --- | --- | --- |  --- |   

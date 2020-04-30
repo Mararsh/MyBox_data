@@ -1,13 +1,23 @@
-# [ReadMe in English](https://github.com/Mararsh/MyBox_data/tree/master/en)  ![ReadMe](https://mararsh.github.io/MyBox_data/iconFlower.png)   
+# [ReadMe in English](https://github.com/Mararsh/MyBox_data/tree/master/en)  ![ReadMe](https://mararsh.github.io/MyBox_data/iconOK.png)   
 
 # MyBox的数据
-这里存放与MyBox有关的数据资源。
 
-“MyBox内部格式”和“MyBox外部格式”可导入MyBox v6.3及以后的版本。   
+## 适用范围
+除了“MyBox内部格式”，其它格式均是自洽的：数据都是显值，可以被第三方应用直接使用。
+
+“MyBox内部格式”和“MyBox外部格式”可用MyBox v6.3及以后的版本来导入/导出。   
 -  MyBox内部格式：外键引用数据标识。好处是快速导入/导出，坏处是数据相互依赖。   
--  MyBox外部格式：数据都是显值。好处是自洽、可用于其它软件，坏处是导入/导出很慢。   
+-  MyBox外部格式：数据都是显值。好处是自洽、可用于其它软件，坏处是导入/导出慢。
 
-## 地理代码
+## 数据源
+| 引用内容 | 链接 |    
+| --- | --- | --- |  --- |   
+| 国家的坐标/描述 | https://github.com/wizardcode/world-area |       
+| 国家的代码/人口/面积 | https://www.geonames.org/countries/ |       
+| 中国行政地名 | http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/ |       
+ 
+
+## 下载
 
 | 内容 | 格式 | 大小 | 链接 |    
 | --- | --- | --- |  --- |   
