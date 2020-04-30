@@ -17,6 +17,7 @@ Except for "MyBox external format", other formats are self-consistent, that is d
 | Coordinates and description of countries | https://github.com/wizardcode/world-area |       
 | Area, populations, and codes of countries | https://www.geonames.org/countries/ |       
 | Addresses of China | http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/ |       
+| Coordinates of Chinese addresses | https://lbs.amap.com/api/webservice/guide/api/georegeo   |     
  
 
 ## Download

@@ -14,7 +14,8 @@
 | --- | --- |   
 | 国家的坐标/描述 | https://github.com/wizardcode/world-area |       
 | 国家的代码/人口/面积 | https://www.geonames.org/countries/ |       
-| 中国行政地名 | http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/ |       
+| 中国行政地名 | http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/ |     
+| 中国地址坐标 | https://lbs.amap.com/api/webservice/guide/api/georegeo   |     
  
 
 ## 下载
