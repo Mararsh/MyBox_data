@@ -4,7 +4,7 @@
 Here are data for MyBox.
 
 ## Application
-Except for "MyBox external format", other formats are self-consistent, that is data are written as values and can be used directly by other applications.    
+Except for "MyBox internal format", other formats are self-consistent, that is data are written as values and can be used directly by other applications.    
 
 “MyBox internal format” and “MyBox external format” can be imported into MyBox v6.3 and later versions.    
 -  MyBox internal format refers to data ids for foreign keys. Its advantage is quicker importing/exporting, while its disadvantage is that data are dependant on others.   
@@ -21,6 +21,8 @@ Except for "MyBox external format", other formats are self-consistent, that is d
  
 
 ## Download
+
+All files are in UTF-8 encoding. Except for xlsx, all formats can be viewed and updated by any text editor.    
 
 | Contents | Format | Size | Link |    
 | --- | --- | --- |  --- |   

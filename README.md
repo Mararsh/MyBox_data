@@ -20,6 +20,8 @@
 
 ## 下载
 
+所有文件均是UTF-8编码。除了xlsx，其它格式均可用任意文本编辑器来查看和修改。  
+
 | 内容 | 格式 | 大小 | 链接 |    
 | --- | --- | --- |  --- |   
 | 全球、中国省份/城市/区县/乡镇/村庄-中文 | zip | 26mb | [Geography_Codes_Chinese.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.0/Geography_Codes_Chinese.zip) |       
