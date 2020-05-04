@@ -30,7 +30,6 @@ Last Updated: 2020-4-25
 | --- | --- | --- |  --- |   
 | Global, China's provinces/cities/counties/towns/villages-Chinese | zip | 26mb | [Geography_Codes_Chinese.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.0/Geography_Codes_Chinese.zip) |       
 | Global, China's provinces/cities/counties-English | zip | 3046kb | [Geography_Codes_English.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.0/Geography_Codes_English.zip) |       
-| Continents | html | 5kb | [Continents.htm](http://mararsh.github.io/MyBox_data/Geography_Codes/Global/Continents.htm) |       
 
 
 | Contents | html | json | xlsx | xml | MyBox external format | MyBox internal format |
