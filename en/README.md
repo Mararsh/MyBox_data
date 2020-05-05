@@ -1,7 +1,6 @@
 # [中文ReadMe](https://github.com/Mararsh/MyBox_data)  ![ReadMe](https://mararsh.github.io/MyBox_data/iconOK.png)  
 
-# Data of MyBox
-Here are data for MyBox.
+# Data of MyBox  
 
 ## Application
 Except for "MyBox internal format", other formats are self-consistent, that is data are written as values and can be used directly by other applications.    
