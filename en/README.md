@@ -127,6 +127,24 @@ Following are direct links which can be visited by codes.
         }
 ``` 
 
-		
+
+### Data Constrains
+Geography code should:
+1. Be subordinate to an existed geography code.
+2. Its level should be lower than its ancestors'.
+3. Has either Chinese name or English name.
+	
+Geography code is not necessary to belong to parent level by level. That is, it can cross levels. Example, a village can be subordinate to Antarctica directly. And a city can be child of a country without province/state level.    
+ 
+
+### Data Matching
+One of following can determine an address:
+1. dataid(assigned by MyBox automatically). This is accurate matching.
+2. level + ancestors + chinese_name/english_name/alias. This is accurate matching.
+3. level + chinese_name/english_name/alias. This is fuzzy matching. Duplaited names in same level can cause false matching.    
+      
+Matching of name or alias is case-insensitive. 
+
+
 
 
