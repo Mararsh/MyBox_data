@@ -159,6 +159,17 @@
         }
 ``` 
 
+```
+    public static final String Create_Index_nameIndex
+            = " CREATE INDEX  Geography_Code_name_index on Geography_Code ( "
+            + "  level, chinese_name, english_name, alias1, alias2, alias3, alias4, alias5"
+            + " )";
+    public static final String Create_Index_levelIndex
+            = " CREATE INDEX  Geography_Code_level_index on Geography_Code ( "
+            + "  level, continent, country ,province ,city ,county ,town , village , building "
+            + " )";
+```
+
 ### 数据约束
 地理代码应当：
 1. 从属于一个已存在的地理代码。
@@ -167,14 +178,104 @@
 
 地理代码不必逐级从属，即可以跨级定义，例如：一个村庄直接属于南极洲；又如：城市直接属于国家，而没有省/州一级。   
 
+
 ### 数据匹配
 以下方式之一可以确定一个地址：
-1. 数据标识（由MyBox自动赋值）。这是精确匹配。
-2. 级别 + 祖先 + 中文名或英文名或任一别名。这是精确匹配。
-3. 级别 + 中文名或英文名或任一别名。这是模糊匹配，可能有同级重名导致匹配错误的情况。
+1. 匹配数据标识（由MyBox自动赋值）。这是精确匹配。
+2. 匹配“级别 + 祖先 + 中文名或英文名或任一别名”。这是精确匹配。
+3. 匹配“级别 + 中文名或英文名或任一别名”。这是模糊匹配，可能有同级重名导致匹配错误的情况。
+匹配名字或者别名时，不区分大小写。    
 
-匹配名字或者别名时，不区分大小写。
+有时候“代码”（code1/2/3/4/5）也可以辅助查找。    
 
 
+```
+    public static String nameEqual(String value) {
+        String v = stringValue(value).toLowerCase();
+        return " ( ( chinese_name IS NOT NULL AND LCASE(chinese_name)='" + v + "' ) OR "
+                + " ( english_name IS NOT NULL AND LCASE(english_name)='" + v + "' ) OR "
+                + " ( alias1 IS NOT NULL AND LCASE(alias1)='" + v + "' ) OR "
+                + " ( alias2 IS NOT NULL AND LCASE(alias2)='" + v + "' ) OR "
+                + " ( alias3 IS NOT NULL AND LCASE(alias3)='" + v + "' ) OR "
+                + " ( alias4 IS NOT NULL AND LCASE(alias4)='" + v + "' ) OR "
+                + " ( alias5 IS NOT NULL AND LCASE(alias5)='" + v + "' ) ) ";
+    }
+	
+    public static String codeEqual(GeographyCode code) {
+        if (code.getDataid() > 0) {
+            return " ( dataid=" + code.getDataid() + " ) ";
+        }
+        int level = code.getLevel();
+        String s = " ( level=" + level;
+        if (code.getChineseName() != null) {
+            String name = stringValue(code.getChineseName()).toLowerCase();
+            s += " AND  ( ( chinese_name IS NOT NULL AND LCASE(chinese_name)='" + name + "' ) OR "
+                    + " ( alias1 IS NOT NULL AND LCASE(alias1)='" + name + "' ) OR "
+                    + " ( alias2 IS NOT NULL AND LCASE(alias2)='" + name + "' ) OR "
+                    + " ( alias3 IS NOT NULL AND LCASE(alias3)='" + name + "' ) OR "
+                    + " ( alias4 IS NOT NULL AND LCASE(alias4)='" + name + "' ) OR "
+                    + " ( alias5 IS NOT NULL AND LCASE(alias5)='" + name + "' ) ) ";
+
+        } else if (code.getEnglishName() != null) {
+            String name = stringValue(code.getEnglishName()).toLowerCase();
+            s += " AND ( ( english_name IS NOT NULL AND LCASE(english_name)='" + name + "' ) OR "
+                    + " ( alias1 IS NOT NULL AND LCASE(alias1)='" + name + "' ) OR "
+                    + " ( alias2 IS NOT NULL AND LCASE(alias2)='" + name + "' ) OR "
+                    + " ( alias3 IS NOT NULL AND LCASE(alias3)='" + name + "' ) OR "
+                    + " ( alias4 IS NOT NULL AND LCASE(alias4)='" + name + "' ) OR "
+                    + " ( alias5 IS NOT NULL AND LCASE(alias5)='" + name + "' ) ) ";
+        }
+
+        switch (level) {
+            case 4:
+                s += " AND country=" + code.getCountry();
+                break;
+            case 5:
+                s += " AND country=" + code.getCountry() + " AND "
+                        + " province=" + code.getProvince();
+                break;
+            case 6:
+                s += " AND country=" + code.getCountry() + " AND "
+                        + " province=" + code.getProvince() + " AND "
+                        + " city=" + code.getCity();
+                break;
+            case 7:
+                s += " AND country=" + code.getCountry() + " AND "
+                        + " province=" + code.getProvince() + " AND "
+                        + " city=" + code.getCity() + " AND "
+                        + " county=" + code.getCounty();
+                break;
+            case 8:
+                s += " AND country=" + code.getCountry() + " AND "
+                        + " province=" + code.getProvince() + " AND "
+                        + " city=" + code.getCity() + " AND "
+                        + " county=" + code.getCounty() + " AND "
+                        + " town=" + code.getTown();
+                break;
+            case 9:
+            case 10:
+                s += " AND country=" + code.getCountry() + " AND "
+                        + " province=" + code.getProvince() + " AND "
+                        + " city=" + code.getCity() + " AND "
+                        + " county=" + code.getCounty() + " AND "
+                        + " town=" + code.getTown() + " AND "
+                        + " village=" + code.getVillage();
+                break;
+        }
+        s += " ) ";
+        return s;
+    }
+	
+	
+   public static String codeEqual(String value) {
+        String v = stringValue(value).toLowerCase();
+        return " ( ( code1 IS NOT NULL AND LCASE(code1)='" + v + "' ) OR "
+                + " ( code2 IS NOT NULL AND LCASE(code2)='" + v + "' ) OR "
+                + " ( code3 IS NOT NULL AND LCASE(code3)='" + v + "' ) OR "
+                + " ( code4 IS NOT NULL AND LCASE(code4)='" + v + "' ) OR "
+                + " ( code5 IS NOT NULL AND LCASE(code5)='" + v + "' ) )  ";
+    }
+	
+```
 
 
