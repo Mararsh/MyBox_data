@@ -25,7 +25,7 @@ All files are in UTF-8 encoding. Except for xlsx, all formats can be viewed and 
 
 ### Download
 
-Last Updated: 2020-4-25  
+Last Updated: 2020-5-7 
 
 | Contents | Format | Size | Link |    
 | --- | --- | --- |  --- |   
@@ -152,8 +152,8 @@ One of following can determine an address:
 1. Match “dataid"(assigned by MyBox automatically). This is accurate matching.
 2. Match "level + ancestors + chinese_name/english_name/alias". This is accurate matching.
 3. Match "level + chinese_name/english_name/alias". This is fuzzy matching. Duplaited names in same level can cause false matching.    
-      
-Matching of name or alias is case-insensitive. 
+       
+Matching of name or alias is case-insensitive.    
 
 ```
     public static String nameEqual(String value) {
