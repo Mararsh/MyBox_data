@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 738407,8,106.256801,38.472304,崇安社区居委会,,640104,0951,640104001002,111,,,,,,,,,2,100,1029,1523,4868,51360,738407,,
 738408,8,106.256801,38.472304,兴隆社区居委会,,640104,0951,640104001003,111,,,,,,,,,2,100,1029,1523,4868,51360,738408,,
 738409,8,106.262198,38.486777,北安社区居委会,,640104,0951,640104001005,111,,,,,,,,,2,100,1029,1523,4868,51360,738409,,

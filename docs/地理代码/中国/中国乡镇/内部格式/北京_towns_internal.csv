@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 10001,7,116.407242,39.916108,东华门街道,,110101,010,110101001000,,,,,,,,,,2,100,1000,1201,2001,10001,,,
 10002,7,116.410591,39.92696,景山街道,,110101,010,110101002000,,,,,,,,,,2,100,1000,1201,2001,10002,,,
 10003,7,116.40098,39.93576,交道口街道,,110101,010,110101003000,,,,,,,,,,2,100,1000,1201,2001,10003,,,

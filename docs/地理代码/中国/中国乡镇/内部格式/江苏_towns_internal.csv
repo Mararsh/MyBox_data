@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 20512,7,118.802657,32.042837,梅园新村街道,,320102,025,320102002000,,,,,,,,,,2,100,1009,1274,2767,20512,,,
 20513,7,118.789148,32.053642,新街口街道,,320102,025,320102003000,,,,,,,,,,2,100,1009,1274,2767,20513,,,
 20514,7,118.787036,32.065113,玄武门街道,,320102,025,320102005000,,,,,,,,,,2,100,1009,1274,2767,20514,,,

@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 490988,8,114.289922,30.584002,保成社区,,420102,027,420102002003,111,,,,,,,,,2,100,1016,1368,3607,32455,490988,,
 490989,8,114.287527,30.585334,泰宁社区,,420102,027,420102002004,111,,,,,,,,,2,100,1016,1368,3607,32455,490989,,
 490990,8,114.292417,30.584333,先锋社区,,420102,027,420102002005,111,,,,,,,,,2,100,1016,1368,3607,32455,490990,,

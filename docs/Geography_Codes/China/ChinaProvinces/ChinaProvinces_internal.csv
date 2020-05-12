@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 1000,4,116.407526,39.90403,北京,Beijing,110000,10,,,,北京市,,,,,,,2,100,1000,,,,,,
 1001,4,117.200983,39.084158,天津,Tianjin,120000,22,,,,天津市,,,,,,,2,100,1001,,,,,,
 1002,4,114.468664,38.037057,河北,Hebei,130000,,,,,河北省,Hebei Province,,,,,,2,100,1002,,,,,,

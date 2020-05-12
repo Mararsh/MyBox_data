@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 741248,8,87.598766,43.738733,燕儿窝南社区居委会,,650102,0991,650102002002,111,,,,,,,,,2,100,1030,1528,4890,51620,741248,,
 741249,8,87.598766,43.738733,红雁池社区居委会,,650102,0991,650102002005,111,,,,,,,,,2,100,1030,1528,4890,51620,741249,,
 741250,8,87.603264,43.738805,燕儿窝北路西社区居委会,,650102,0991,650102002006,111,,,,,,,,,2,100,1030,1528,4890,51620,741250,,

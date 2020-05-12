@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 51620,7,87.598766,43.738733,燕儿窝街道,,650102,0991,650102002000,,,,,,,,,,2,100,1030,1528,4890,51620,,,
 51621,7,87.63186,43.76214,胜利路街道,,650102,0991,650102003000,,,,,,,,,,2,100,1030,1528,4890,51621,,,
 51622,7,87.619154,43.777882,团结路街道,,650102,0991,650102004000,,,,,,,,,,2,100,1030,1528,4890,51622,,,

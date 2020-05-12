@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 594121,8,108.380367,30.801545,东方广场社区居民委员会,,500101,023,500101001001,111,,,,,,,,,2,100,1021,1436,4109,39146,594121,,
 594122,8,108.3752,30.799656,乌龙池社区居民委员会,,500101,023,500101001002,111,,,,,,,,,2,100,1021,1436,4109,39146,594122,,
 594123,8,108.379923,30.800755,王家坡社区居民委员会,,500101,023,500101001003,111,,,,,,,,,2,100,1021,1436,4109,39146,594123,,

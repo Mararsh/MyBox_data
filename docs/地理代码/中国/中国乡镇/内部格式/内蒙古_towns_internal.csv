@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 14486,7,111.66704,40.841739,海拉尔东路街道,,150102,0471,150102001000,,,,,,,,,,2,100,1004,1225,2346,14486,,,
 14487,7,111.665059,40.827792,锡林路街道,,150102,0471,150102002000,,,,,,,,,,2,100,1004,1225,2346,14487,,,
 14488,7,111.671109,40.819498,中山东路街道,,150102,0471,150102003000,,,,,,,,,,2,100,1004,1225,2346,14488,,,

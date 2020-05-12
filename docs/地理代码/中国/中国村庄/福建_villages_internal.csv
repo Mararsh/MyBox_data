@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 322838,8,119.300491,26.094751,中山社区,,350102,0591,350102001001,111,,,,,,,,,2,100,1012,1314,3085,25067,322838,,
 322839,8,119.304703,26.088905,庆城社区,,350102,0591,350102001002,111,,,,,,,,,2,100,1012,1314,3085,25067,322839,,
 322840,8,119.302694,26.096683,观风亭社区,,350102,0591,350102001004,111,,,,,,,,,2,100,1012,1314,3085,25067,322840,,

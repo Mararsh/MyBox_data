@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 47480,7,91.132694,29.649356,八廓街道,,540102,0891,540102002000,,,,,,,,,,2,100,1025,1484,4550,47480,,,
 47481,7,91.137981,29.649606,吉日街道,,540102,0891,540102003000,,,,,,,,,,2,100,1025,1484,4550,47481,,,
 47482,7,91.131496,29.655325,吉崩岗街道,,540102,0891,540102004000,,,,,,,,,,2,100,1025,1484,4550,47482,,,

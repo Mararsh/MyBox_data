@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 256905,8,118.802529,32.043332,梅园新村社区居委会,,320102,025,320102002001,111,,,,,,,,,2,100,1009,1274,2767,20512,256905,,
 256906,8,118.799337,32.045028,大行宫社区居委会,,320102,025,320102002002,111,,,,,,,,,2,100,1009,1274,2767,20512,256906,,
 256907,8,118.802384,32.048158,大影壁社区居委会,,320102,025,320102002005,111,,,,,,,,,2,100,1009,1274,2767,20512,256907,,

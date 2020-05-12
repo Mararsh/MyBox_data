@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 39146,7,108.379923,30.800755,高笋塘街道,,500101,023,500101001000,,,,,,,,,,2,100,1021,1436,4109,39146,,,
 39147,7,108.356664,30.817549,太白街道,,500101,023,500101017000,,,,,,,,,,2,100,1021,1436,4109,39147,,,
 39148,7,108.392121,30.783296,牌楼街道,,500101,023,500101018000,,,,,,,,,,2,100,1021,1436,4109,39148,,,

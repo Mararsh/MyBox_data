@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 23431,7,117.307179,31.856484,明光路街道,,340102,0551,340102001000,,,,,,,,,,2,100,1011,1298,2965,23431,,,
 23432,7,117.301437,31.862853,胜利路街道,,340102,0551,340102003000,,,,,,,,,,2,100,1011,1298,2965,23432,,,
 23433,7,117.316549,31.872984,三里街街道,,340102,0551,340102004000,,,,,,,,,,2,100,1011,1298,2965,23433,,,

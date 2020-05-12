@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 29878,7,113.618688,34.736062,林山寨街道,,410102,0371,410102001000,,,,,,,,,,2,100,1015,1350,3425,29878,,,
 29879,7,113.612523,34.753785,建设路街道,,410102,0371,410102002000,,,,,,,,,,2,100,1015,1350,3425,29879,,,
 29880,7,113.618535,34.756445,棉纺路街道,,410102,0371,410102003000,,,,,,,,,,2,100,1015,1350,3425,29880,,,

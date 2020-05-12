@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 40174,7,104.072329,30.64772,督院街街道,,510104,028,510104020000,,,,,,,,,,2,100,1022,1438,4147,40174,,,
 40175,7,104.069611,30.653686,盐市口街道,,510104,028,510104021000,,,,,,,,,,2,100,1022,1438,4147,40175,,,
 40176,7,104.078586,30.656295,春熙路街道,,510104,028,510104022000,,,,,,,,,,2,100,1022,1438,4147,40176,,,

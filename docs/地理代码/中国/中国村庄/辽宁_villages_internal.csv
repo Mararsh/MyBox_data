@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 208699,8,123.384191,41.766976,水源地社区,,210102,024,210102001002,111,,,,,,,,,2,100,1005,1237,2455,15734,208699,,
 208700,8,123.382098,41.766834,砂阳南社区,,210102,024,210102001003,111,,,,,,,,,2,100,1005,1237,2455,15734,208700,,
 208701,8,123.387013,41.766839,南京南社区,,210102,024,210102001005,111,,,,,,,,,2,100,1005,1237,2455,15734,208701,,

@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 18359,7,126.625929,45.770393,兆麟街道,,230102,0451,230102001000,,,,,,,,,,2,100,1007,1260,2624,18359,,,
 18360,7,126.62051,45.761337,新阳路街道,,230102,0451,230102002000,,,,,,,,,,2,100,1007,1260,2624,18360,,,
 18361,7,126.620077,45.756876,抚顺街道,,230102,0451,230102003000,,,,,,,,,,2,100,1007,1260,2624,18361,,,

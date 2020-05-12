@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 1,1,148.770017,27.499299,地球,Earth,,,,,,,,,,,,,1,,,,,,,,
 2,2,111.23125,33.47486,亚洲,Asia,AS,,,,,,,,,,,,2,,,,,,,,
 3,2,24.918,54.376174,欧洲,Europe,EU,,,,,,,,,,,,3,,,,,,,,

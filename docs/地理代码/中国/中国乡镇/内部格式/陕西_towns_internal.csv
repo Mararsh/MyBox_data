@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 48181,7,108.958216,34.2617,西一路街道,,610102,029,610102001000,,,,,,,,,,2,100,1026,1491,4628,48181,,,
 48182,7,109.002434,34.270758,长乐中路街道,,610102,029,610102002000,,,,,,,,,,2,100,1026,1491,4628,48182,,,
 48183,7,108.96849,34.27171,中山门街道,,610102,029,610102003000,,,,,,,,,,2,100,1026,1491,4628,48183,,,

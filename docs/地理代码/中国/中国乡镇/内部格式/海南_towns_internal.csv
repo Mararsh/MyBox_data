@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 38920,7,110.290371,20.002589,秀英街道,,460105,0898,460105001000,,,,,,,,,,2,100,1020,1431,4083,38920,,,
 38921,7,110.285858,20.010722,海秀街道,,460105,0898,460105002000,,,,,,,,,,2,100,1020,1431,4083,38921,,,
 38922,7,110.201664,20.011946,长流镇,,460105,0898,460105100000,,,,,,,,,,2,100,1020,1431,4083,38922,,,

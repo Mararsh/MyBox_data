@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 15734,7,123.384534,41.761616,浑河湾街道,,210102,024,210102001000,,,,,,,,,,2,100,1005,1237,2455,15734,,,
 15735,7,123.39529,41.780481,新华街道,,210102,024,210102002000,,,,,,,,,,2,100,1005,1237,2455,15735,,,
 15736,7,123.411347,41.808486,西塔街道,,210102,024,210102007000,,,,,,,,,,2,100,1005,1237,2455,15736,,,

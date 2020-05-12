@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 690595,8,91.135205,29.647753,绕赛社区居委会,,540102,0891,540102002001,111,,,,,,,,,2,100,1025,1484,4550,47480,690595,,
 690596,8,91.131896,29.647559,白林社区居委会,,540102,0891,540102002002,111,,,,,,,,,2,100,1025,1484,4550,47480,690596,,
 690597,8,91.12972,29.647687,鲁固社区居委会,,540102,0891,540102002003,111,,,,,,,,,2,100,1025,1484,4550,47480,690597,,

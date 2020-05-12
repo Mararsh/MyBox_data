@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 676044,8,102.701281,25.04414,翠湖西路社区,,530102,0871,530102001001,111,,,,,,,,,2,100,1024,1468,4421,46034,676044,,
 676045,8,102.708442,25.048579,水晶宫社区,,530102,0871,530102001002,111,,,,,,,,,2,100,1024,1468,4421,46034,676045,,
 676046,8,102.711535,25.045,五华山社区,,530102,0871,530102001003,111,,,,,,,,,2,100,1024,1468,4421,46034,676046,,

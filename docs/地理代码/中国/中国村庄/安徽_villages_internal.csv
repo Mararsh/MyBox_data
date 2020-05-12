@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 304592,8,117.309021,31.865925,填海巷社区居委会,,340102,0551,340102001001,111,,,,,,,,,2,100,1011,1298,2965,23431,304592,,
 304593,8,117.307179,31.856484,金大塘社区居委会,,340102,0551,340102001002,111,,,,,,,,,2,100,1011,1298,2965,23431,304593,,
 304594,8,117.307596,31.851988,全椒路社区居委会,,340102,0551,340102001003,111,,,,,,,,,2,100,1011,1298,2965,23431,304594,,

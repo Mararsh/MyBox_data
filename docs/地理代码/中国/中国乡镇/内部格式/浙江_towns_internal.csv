@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 22045,7,120.158768,30.23765,清波街道,,330102,0571,330102001000,,,,,,,,,,2,100,1010,1287,2874,22045,,,
 22046,7,120.170441,30.255597,湖滨街道,,330102,0571,330102003000,,,,,,,,,,2,100,1010,1287,2874,22046,,,
 22047,7,120.176654,30.23965,小营街道,,330102,0571,330102004000,,,,,,,,,,2,100,1010,1287,2874,22047,,,

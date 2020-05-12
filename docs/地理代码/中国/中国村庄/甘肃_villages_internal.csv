@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 716064,8,103.8335,36.049769,畅家巷社区居委会,,620102,0931,620102001001,111,,,,,,,,,2,100,1027,1501,4735,49513,716064,,
 716065,8,103.833485,36.049783,张家园社区居委会,,620102,0931,620102001002,111,,,,,,,,,2,100,1027,1501,4735,49513,716065,,
 716066,8,103.82855,36.052437,中街子社区居委会,,620102,0931,620102001003,111,,,,,,,,,2,100,1027,1501,4735,49513,716066,,

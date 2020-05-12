@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 46034,7,102.701292,25.043924,华山街道,,530102,0871,530102001000,,,,,,,,,,2,100,1024,1468,4421,46034,,,
 46035,7,102.713495,25.038405,护国街道,,530102,0871,530102002000,,,,,,,,,,2,100,1024,1468,4421,46035,,,
 46036,7,102.696104,25.041404,大观街道,,530102,0871,530102003000,,,,,,,,,,2,100,1024,1468,4421,46036,,,

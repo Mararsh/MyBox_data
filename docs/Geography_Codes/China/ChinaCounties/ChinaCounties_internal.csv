@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 2001,6,116.416357,39.928353,东城区,,110101,010,110101000000,,,东城,,,,,,,2,100,1000,1201,2001,,,,
 2002,6,116.365868,39.912289,西城区,,110102,010,110102000000,,,西城,,,,,,,2,100,1000,1201,2002,,,,
 2003,6,116.601144,39.948574,朝阳区,,110105,010,110105000000,,,朝阳,,,,,,,2,100,1000,1201,2003,,,,

@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 28016,7,117.036726,36.665082,解放路街道,,370102,0531,370102001000,,,,,,,,,,2,100,1014,1334,3269,28016,,,
 28017,7,117.039982,36.642855,千佛山街道,,370102,0531,370102002000,,,,,,,,,,2,100,1014,1334,3269,28017,,,
 28018,7,117.01786,36.659508,趵突泉街道,,370102,0531,370102003000,,,,,,,,,,2,100,1014,1334,3269,28018,,,

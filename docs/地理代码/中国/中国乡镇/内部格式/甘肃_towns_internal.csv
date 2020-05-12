@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 49513,7,103.833485,36.049783,酒泉路街道,,620102,0931,620102001000,,,,,,,,,,2,100,1027,1501,4735,49513,,,
 49514,7,103.82213,36.061549,张掖路街道,,620102,0931,620102002000,,,,,,,,,,2,100,1027,1501,4735,49514,,,
 49515,7,103.878983,36.060588,雁南街道,,620102,0931,620102003000,,,,,,,,,,2,100,1027,1501,4735,49515,,,

@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 51360,7,106.256801,38.472304,凤凰北街街道,,640104,0951,640104001000,,,,,,,,,,2,100,1029,1523,4868,51360,,,
 51361,7,106.269627,38.478796,解放西街街道,,640104,0951,640104002000,,,,,,,,,,2,100,1029,1523,4868,51361,,,
 51362,7,106.286858,38.470203,文化街街道,,640104,0951,640104003000,,,,,,,,,,2,100,1029,1523,4868,51362,,,

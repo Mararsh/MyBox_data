@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 194219,8,111.66704,40.841739,公主府社区居委会,,150102,0471,150102001001,111,,,,,,,,,2,100,1004,1225,2346,14486,194219,,
 194220,8,111.66704,40.841739,内蒙古军区社区居委会,,150102,0471,150102001006,111,,,,,,,,,2,100,1004,1225,2346,14486,194220,,
 194221,8,111.66704,40.841739,哲里木路社区居委会,,150102,0471,150102001007,111,,,,,,,,,2,100,1004,1225,2346,14486,194221,,

@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 35941,7,113.2483,23.107235,沙面街道,,440103,020,440103001000,,,,,,,,,,2,100,1018,1396,3850,35941,,,
 35942,7,113.247694,23.110019,岭南街道,,440103,020,440103002000,,,,,,,,,,2,100,1018,1396,3850,35942,,,
 35943,7,113.243446,23.11782,华林街道,,440103,020,440103003000,,,,,,,,,,2,100,1018,1396,3850,35943,,,

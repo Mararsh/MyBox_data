@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 100001,8,116.413146,39.922958,多福巷社区居委会,,110101,010,110101001001,111,,,,,,,,,2,100,1000,1201,2001,10001,100001,,
 100002,8,116.406051,39.919478,银闸社区居委会,,110101,010,110101001002,111,,,,,,,,,2,100,1000,1201,2001,10001,100002,,
 100003,8,116.408328,39.923083,东厂社区居委会,,110101,010,110101001005,111,,,,,,,,,2,100,1000,1201,2001,10001,100003,,

@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 10641,7,114.514005,38.051387,建北街道,,130102,0311,130102001000,,,,,,,,,,2,100,1002,1203,2033,10641,,,
 10642,7,114.517235,38.044668,青园街道,,130102,0311,130102002000,,,,,,,,,,2,100,1002,1203,2033,10642,,,
 10643,7,114.52378,38.049301,广安街道,,130102,0311,130102003000,,,,,,,,,,2,100,1002,1203,2033,10643,,,

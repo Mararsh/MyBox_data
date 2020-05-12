@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 10340,7,117.18696,39.12523,劝业场街道,,120101,022,120101001000,,,,,,,,,,2,100,1001,1202,2017,10340,,,
 10341,7,117.212052,39.118992,小白楼街道,,120101,022,120101002000,,,,,,,,,,2,100,1001,1202,2017,10341,,,
 10342,7,117.200739,39.110617,五大道街道,,120101,022,120101003000,,,,,,,,,,2,100,1001,1202,2017,10342,,,

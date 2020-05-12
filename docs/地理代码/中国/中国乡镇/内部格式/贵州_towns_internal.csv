@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 44520,7,106.701026,26.551774,后巢乡,,520102,0851,520102200000,,,,,,,,,,2,100,1023,1459,4333,44520,,,
 44521,7,106.725975,26.561126,云关乡,,520102,0851,520102201000,,,,,,,,,,2,100,1023,1459,4333,44521,,,
 44522,7,106.791194,26.535375,小碧布依族苗族乡,,520102,0851,520102202000,,,,,,,,,,2,100,1023,1459,4333,44522,,,

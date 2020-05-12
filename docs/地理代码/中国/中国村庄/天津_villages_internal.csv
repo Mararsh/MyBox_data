@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 107170,8,117.202228,39.123457,花园路社区居委会,,120101,022,120101001001,111,,,,,,,,,2,100,1001,1202,2017,10340,107170,,
 107171,8,117.198969,39.121521,滨西社区居委会,,120101,022,120101001002,111,,,,,,,,,2,100,1001,1202,2017,10340,107171,,
 107172,8,117.193228,39.120603,兆丰路社区居委会,,120101,022,120101001004,111,,,,,,,,,2,100,1001,1202,2017,10340,107172,,

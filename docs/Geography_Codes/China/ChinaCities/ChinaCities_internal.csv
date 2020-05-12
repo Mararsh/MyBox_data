@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 1201,5,116.407526,39.90403,市辖区,,110000,010,500100000000,,,,,,,,,,2,100,1000,1201,,,,,
 1202,5,117.200983,39.084158,市辖区,,120000,022,120100000000,,,,,,,,,,2,100,1001,1202,,,,,
 1203,5,114.514859,38.042306,石家庄,,130100,0311,130100000000,,,石家庄市,,,,,,,2,100,1002,1203,,,,,

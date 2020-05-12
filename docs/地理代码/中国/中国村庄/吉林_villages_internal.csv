@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 225117,8,125.3478,43.855655,华阳社区,,220102,0431,220102001001,111,,,,,,,,,2,100,1006,1251,2555,17315,225117,,
 225118,8,125.327101,43.844634,恒安社区,,220102,0431,220102001002,111,,,,,,,,,2,100,1006,1251,2555,17315,225118,,
 225119,8,125.34854,43.858403,百屹社区,,220102,0431,220102001003,111,,,,,,,,,2,100,1006,1251,2555,17315,225119,,

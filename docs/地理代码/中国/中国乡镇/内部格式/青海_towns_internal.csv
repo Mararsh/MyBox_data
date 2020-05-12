@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 50938,7,101.801476,36.615698,东关大街街道,,630102,0971,630102001000,,,,,,,,,,2,100,1028,1515,4823,50938,,,
 50939,7,101.8012,36.6191,清真巷街道,,630102,0971,630102002000,,,,,,,,,,2,100,1028,1515,4823,50939,,,
 50940,7,101.796876,36.616019,大众街街道,,630102,0971,630102003000,,,,,,,,,,2,100,1028,1515,4823,50940,,,

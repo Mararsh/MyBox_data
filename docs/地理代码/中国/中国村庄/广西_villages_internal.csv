@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 574633,8,108.319961,22.813467,兴宁社区居委会,,450102,0771,450102001003,111,,,,,,,,,2,100,1019,1417,3972,37641,574633,,
 574634,8,108.323846,22.816744,北宁社区居委会,,450102,0771,450102001004,111,,,,,,,,,2,100,1019,1417,3972,37641,574634,,
 574635,8,108.315723,22.81589,高峰社区居委会,,450102,0771,450102001006,111,,,,,,,,,2,100,1019,1417,3972,37641,574635,,

@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 236800,8,126.625929,45.770393,省报社社区居委会,,230102,0451,230102001001,111,,,,,,,,,2,100,1007,1260,2624,18359,236800,,
 236801,8,126.632681,45.768238,索菲亚社区居委会,,230102,0451,230102001002,111,,,,,,,,,2,100,1007,1260,2624,18359,236801,,
 236802,8,126.627775,45.766641,兆麟社区居委会,,230102,0451,230102001003,111,,,,,,,,,2,100,1007,1260,2624,18359,236802,,

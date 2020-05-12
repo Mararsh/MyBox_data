@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 658371,8,106.701026,26.551774,山水黔城居委会,,520102,0851,520102200001,111,,,,,,,,,2,100,1023,1459,4333,44520,658371,,
 658372,8,106.701026,26.551774,太慈村委会,,520102,0851,520102200201,111,,,,,,,,,2,100,1023,1459,4333,44520,658372,,
 658373,8,106.703778,26.547253,朝阳村委会,,520102,0851,520102200202,111,,,,,,,,,2,100,1023,1459,4333,44520,658373,,

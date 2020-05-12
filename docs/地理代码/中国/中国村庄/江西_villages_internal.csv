@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 340090,8,115.901247,28.678269,上营坊社区居委会,,360102,0791,360102001001,111,,,,,,,,,2,100,1013,1323,3169,26233,340090,,
 340091,8,115.898755,28.682277,民德路社区居委会,,360102,0791,360102001002,111,,,,,,,,,2,100,1013,1323,3169,26233,340091,,
 340092,8,115.898075,28.683688,经堂巷社区居委会,,360102,0791,360102001003,111,,,,,,,,,2,100,1013,1323,3169,26233,340092,,

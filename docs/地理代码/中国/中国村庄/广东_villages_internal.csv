@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 548920,8,113.247338,23.107211,翠洲社区居民委员会,,440103,020,440103001101,111,,,,,,,,,2,100,1018,1396,3850,35941,548920,,
 548921,8,113.247694,23.110019,扬仁东社区居民委员会,,440103,020,440103002101,111,,,,,,,,,2,100,1018,1396,3850,35942,548921,,
 548922,8,113.247694,23.110019,扬仁西社区居民委员会,,440103,020,440103002102,111,,,,,,,,,2,100,1018,1396,3850,35942,548922,,

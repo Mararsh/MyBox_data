@@ -1,4 +1,4 @@
-dataid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
+gcid,levelid,longitude,latitude,chinese_name,english_name,code1,code2,code3,code4,code5,alias1,alias2,alias3,alias4,alias5,area,population,continentid,countryid,provinceid,cityid,countyid,townid,villageid,buildingid,comments
 20278,7,121.471941,31.226107,南京东路街道,,310101,021,310101002000,,,,,,,,,,2,100,1008,1273,2751,20278,,,
 20279,7,121.481432,31.239541,外滩街道,,310101,021,310101013000,,,,,,,,,,2,100,1008,1273,2751,20279,,,
 20280,7,121.487103,31.206786,半淞园路街道,,310101,021,310101015000,,,,,,,,,,2,100,1008,1273,2751,20280,,,
