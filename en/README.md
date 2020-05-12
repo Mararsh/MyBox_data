@@ -25,12 +25,12 @@ All files are in UTF-8 encoding. Except for xlsx, all formats can be viewed and 
 
 ### Download
 
-Last Updated: 2020-5-7 
+Last Updated: 2020-5-12 
 
 | Contents | Format | Size | Link |    
 | --- | --- | --- |  --- |   
-| Global, China's provinces/cities/counties/towns/villages-Chinese | zip | 103mb | [Geography_Codes_Chinese.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.1/Geography_Codes_Chinese.zip) |       
-| Global, China's provinces/cities/counties-English | zip | 3046kb | [Geography_Codes_English.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.0/Geography_Codes_English.zip) |       
+| Global, China's provinces/cities/counties/towns/villages-Chinese | zip | 103mb | [Geography_Codes_Chinese.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.2/Geography_Codes_Chinese.zip) |       
+| Global, China's provinces/cities/counties-English | zip | 3235kb | [Geography_Codes_English.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.2/Geography_Codes_English.zip) |       
 
 ### Referred by Programs 
 
