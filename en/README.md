@@ -25,7 +25,7 @@ All files are in UTF-8 encoding. Except for xlsx, all formats can be viewed and 
 
 ### Download
 
-Last Updated: 2020-5-12 
+Last Updated: 2020-5-12  Fix errors about 2 countries.
 
 | Contents | Format | Size | Link |    
 | --- | --- | --- |  --- |   
