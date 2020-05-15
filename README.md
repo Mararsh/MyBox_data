@@ -25,13 +25,15 @@
 
 ### 下载
 
-最后更新时间：2020-5-12 修正2个国家的错误信息
+最后更新时间：2020-5-15 修正国家“布基纳法索”的名字错误
   
 
 | 内容 | 格式 | 大小 | 链接 |    
 | --- | --- | --- |  --- |   
-| 全球、中国省份/城市/区县/乡镇/村庄-中文 | zip | 103mb | [Geography_Codes_Chinese.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.2/Geography_Codes_Chinese.zip) |       
-| 全球、中国省份/城市/区县/乡镇-英文 | zip | 3235kb | [Geography_Codes_English.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.2/Geography_Codes_English.zip) |       
+| 全球地理编码-中文 | zip | 318kb | [Global_zh.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.2/Global_zh.zip) |       
+| 中国地理编码-中文 | zip | 103mb | [China_zh.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.2/China_zh.zip) |       
+| 全球地理编码-英文 | zip | 319kb | [Global_en.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.2/Global_en.zip) |       
+| 中国地理编码-英文 | zip | 2915kb | [China_en.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.2/China_en.zip) |       
 
 ### 程序引用
 

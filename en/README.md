@@ -25,12 +25,15 @@ All files are in UTF-8 encoding. Except for xlsx, all formats can be viewed and 
 
 ### Download
 
-Last Updated: 2020-5-12  Fix errors about 2 countries.
+Last Updated: 2020-5-15  Fix error about country "Burkina Faso".
 
 | Contents | Format | Size | Link |    
 | --- | --- | --- |  --- |   
-| Global, China's provinces/cities/counties/towns/villages-Chinese | zip | 103mb | [Geography_Codes_Chinese.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.2/Geography_Codes_Chinese.zip) |       
-| Global, China's provinces/cities/counties-English | zip | 3235kb | [Geography_Codes_English.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.2/Geography_Codes_English.zip) |       
+| Global Geography Codes in Chinese | zip | 318kb | [Global_zh.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.2/Global_zh.zip) |       
+| Chinese Geography Codes in Chinese | zip | 103mb | [China_zh.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.2/China_zh.zip) |       
+| Global Geography Codes in English | zip | 319kb | [Global_en.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.2/Global_en.zip) |       
+| Chinese Geography Codes in English | zip | 2915kb | [China_en.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.2/China_en.zip) |       
+
 
 ### Referred by Programs 
 
