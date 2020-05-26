@@ -1,6 +1,6 @@
-# [中文ReadMe](https://github.com/Mararsh/MyBox_data)  ![ReadMe](https://mararsh.github.io/MyBox_data/iconTips.png)  
+# [中文ReadMe](https://github.com/Mararsh/MyBox_data/tree/master/GeographyCode)  ![ReadMe](https://mararsh.github.io/MyBox_data/iconTips.png)  
 
-# Data of MyBox  
+# Geography Code  
 
 ## Application
 All formats are self-consistent, in which data are written as values and can be used directly by other applications. (Internal format is not supported importing and exporting)        
