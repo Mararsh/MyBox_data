@@ -1,4 +1,4 @@
-# [ReadMe in English](https://github.com/Mararsh/MyBox_data/tree/master/en)  ![ReadMe](https://mararsh.github.io/MyBox_data/iconOK.png)   
+# [ReadMe in English](https://github.com/Mararsh/MyBox_data/tree/master/en)   ![ReadMe](https://mararsh.github.io/MyBox/iconTips.png)    
 
 # 地理代码
 
@@ -162,6 +162,11 @@
             + "  level, continent, country ,province ,city ,county ,town , village , building "
             + " )";
 
+    public static final String Create_Index_codeIndex
+            = " CREATE INDEX  Geography_Code_code_index on Geography_Code ( "
+            + "  level, country ,province ,city ,county ,town , village , building "
+            + " )";
+
     public static final String Create_Index_gcidIndex
             = " CREATE INDEX  Geography_Code_gcid_index on Geography_Code ( "
             + "  gcid DESC, level, continent, country ,province ,city ,county ,town , village , building "
@@ -208,20 +213,16 @@
         String s = "level=" + level;
         switch (level) {
             case 3:
-                s += " AND continent=" + code.getContinent();
                 break;
             case 4:
-                s += " AND continent=" + code.getContinent()
-                        + " AND country=" + code.getCountry();
+                s += " AND country=" + code.getCountry();
                 break;
             case 5:
-                s += " AND continent=" + code.getContinent()
-                        + " AND country=" + code.getCountry()
+                s += " AND country=" + code.getCountry()
                         + " AND province=" + code.getProvince();
                 break;
             case 6:
-                s += " AND continent=" + code.getContinent()
-                        + " AND country=" + code.getCountry()
+                s += " AND country=" + code.getCountry()
                         + " AND province=" + code.getProvince()
                         + " AND city=" + code.getCity();
                 break;
@@ -232,8 +233,7 @@
                         + " AND county=" + code.getCounty();
                 break;
             case 8:
-                s += " AND continent=" + code.getContinent()
-                        + " AND country=" + code.getCountry()
+                s += " AND country=" + code.getCountry()
                         + " AND province=" + code.getProvince()
                         + " AND city=" + code.getCity()
                         + " AND county=" + code.getCounty()
@@ -241,8 +241,7 @@
                 break;
             case 9:
             case 10:
-                s += " AND continent=" + code.getContinent()
-                        + " AND country=" + code.getCountry()
+                s += " AND country=" + code.getCountry()
                         + " AND province=" + code.getProvince()
                         + " AND city=" + code.getCity()
                         + " AND county=" + code.getCounty()
@@ -271,7 +270,6 @@
         }
         return s;
     }
-
 
     public static String codeEqual(String value) {
         String v = stringValue(value).toLowerCase();
