@@ -2,22 +2,17 @@
 
 # 地理代码
 
-## 适用范围   
+## 适用范围    
 
-除了“MyBox内部格式”，其它格式均是自洽的：数据都是显值，可以被第三方应用直接使用。    
-
+所有文件均是自洽的：数据都是显值，可以被第三方应用直接使用。("MyBox内部格式"仅供参考，不支持导出导入)       
 所有文件均是UTF-8编码。除了xlsx，其它格式均可用任意文本编辑器来查看和修改。   
-
-“MyBox内部格式”和“MyBox外部格式”可用MyBox v6.3及以后的版本来导入/导出。   
--  MyBox内部格式：外键引用数据标识。好处是快速导入/导出，坏处是数据相互依赖。   
--  MyBox外部格式：数据都是值。好处是不依赖其它数据，坏处是导入/导出慢。
 
 ## 数据源
 
 | 引用内容 | 链接 |    
-| --- | --- |   
-| 国家的坐标/描述 | https://github.com/wizardcode/world-area |       
+| --- | --- |     
 | 国家的代码/人口/面积 | https://www.geonames.org/countries/ |       
+| 国家的坐标/描述 | https://github.com/wizardcode/world-area |       
 | 中国行政地名 | http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/ |     
 | 中国地址坐标 | https://lbs.amap.com/api/webservice/guide/api/georegeo   |     
  
@@ -36,7 +31,7 @@
 
 ## 程序引用
 
-以下均是直接链接，可以被代码访问到。   
+以下均是直接链接，可以被代码访问到。("MyBox内部格式"仅供参考，不支持导出导入)   
 
 | 内容 | html | json | xlsx | xml | MyBox外部格式 | MyBox内部格式 |
 | --- | --- | --- | --- | --- | --- | --- |
