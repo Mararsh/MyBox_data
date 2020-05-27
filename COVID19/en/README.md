@@ -1,43 +1,93 @@
-# [ReadMe in English](https://github.com/Mararsh/MyBox_data/tree/master/en)  ![ReadMe](https://mararsh.github.io/MyBox_data/iconOK.png)   
+# [中文ReadMe](https://github.com/Mararsh/MyBox_data/tree/master/COVID19)  ![ReadMe](https://mararsh.github.io/MyBox_data/iconOK.png)   
 
-# COVID-19疫情报告
+# Epidemic Reports of COVID-19
 
-## 适用范围   
+## Application
+All formats are self-consistent, in which data are written as values and can be used directly by other applications. (Internal format is not supported importing and exporting)        
+All files are in UTF-8 encoding. Except for xlsx, all formats can be viewed and updated by any text editor.      
 
-所有文件均是自洽的：数据都是显值，可以被第三方应用直接使用。    
-所有文件均是UTF-8编码。除了xlsx，其它格式均可用任意文本编辑器来查看和修改。
+## Data Sources
 
-## 数据源
-
-| 引用内容 | 链接 |    
+| Reference | Link |    
 | --- | --- |   
-| 来自约翰霍普金斯大学的COVID-19历史数据（国家） | https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series/ |       
-| 来自约翰霍普金斯大学的COVID-19每日数据（国家） | https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports |       
-| 来自百度的COVID-19每日数据（国家和中国省市） | https://voice.baidu.com/act/newpneumonia/newpneumonia/?from=osari_pc_3 |       
-| 来自腾讯的COVID-19历史数据（中国省市） | https://api.inews.qq.com/newsqa/v1/query/pubished/daily/list? |       
+| COVID-19 histroical data from JHU (Global) | https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series/ |       
+| COVID-19 daily data from JHU (Global) | https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports |       
+| COVID-19 daily data from Baidu (Global and Chinese provinces) | https://voice.baidu.com/act/newpneumonia/newpneumonia/?from=osari_pc_3 |       
+| COVID-19 histroical data from Tecent (Chinese provinces) | https://api.inews.qq.com/newsqa/v1/query/pubished/daily/list? |       
  
-## 下载
+## Download
 
-最后更新时间：2020-5-21 
+Last Updated: 2020-05-27
 
-| 内容 | 格式 | 大小 | 链接 |    
-| --- | --- | --- |  --- |   
-| 来自约翰霍普金斯大学的COVID-19历史数据-中文 | zip | 318kb | [Global_zh.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.2/Global_zh.zip) |       
-| 来自约翰霍普金斯大学的COVID-19历史数据-英文 | zip | 103mb | [China_zh.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.2/China_zh.zip) |       
-
-
-## 程序引用
-
-以下均是直接链接，可以被代码访问到。   
-
-| 内容 | html | json | xlsx | xml | MyBox外部格式 | 
-| 来自约翰霍普金斯大学的COVID-19历史数据-国家-按地址排序 | --- | --- | --- | --- | --- |        
-| 来自约翰霍普金斯大学的COVID-19历史数据-国家-按时间排序 | --- | --- | --- | --- | --- |        
-| 来自约翰霍普金斯大学的COVID-19历史数据-全部-按地址排序 | --- | --- | --- | --- | --- |        
-| 来自约翰霍普金斯大学的COVID-19历史数据-全部-按时间排序 | --- | --- | --- | --- | --- |        
+| Contents | Format | Size | Link |    
+| --- | --- |  --- |   
+| COVID-19 histroical data from JHU-Chinese | 19mb | [Global_zh.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.2/COVID-19_JHU_Chinese.zip) |       
+| COVID-19 histroical data from JHU-English | 19mb | [China_zh.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.2/COVID-19_JHU_English.zip) |       
 
 
- 
+### Referred by Programs 
+
+Following are direct links which can be visited by codes.      
+
+| Contents | html | json | xlsx | xml | csv | 
+| --- | --- | --- | --- | --- | --- | 
+| COVID-19 histroical data from JHU-All-order by location |  [10048kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Locations.htm) | [9889kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Locations.json) | [2401kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Locations.xlsx) | [13615kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Locations.xml) | [4093kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Locations.csv) |        
+| COVID-19 histroical data from JHU-All-order by time |  [10048kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times.htm) | [9889kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times.json) | [2600kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times.xlsx) | [13651kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times.xml) | [4093kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times.csv) |         
+| COVID-19 histroical data from JHU-Countries-order by location |  [6346kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Countries_Times.htm) | [6910kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Countries_Times.json) | [1584kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Countries_Times.xlsx) | [8550kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Countries_Times.xml) | [2573kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Countries_Times.csv) |   
+| COVID-19 histroical data from JHU-Countries-order by time |  [6346kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times_Countries.htm) | [6910kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times_Countries.json) | [1720kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times_Countries.xlsx) | [85509kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times_Countries.xml) | [2573kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times_Countries.csv) |   
+| COVID-19 histroical data from Tecent-till 2020-05-27 |  [1579kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Tencent_2020-05-27.htm) | [1473kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Tencent_2020-05-27.json) | [336kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Tencent_2020-05-27.xlsx) | [1783kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Tencent_2020-05-27.xml) | [674kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Tencent_2020-05-27.csv) |   
+| COVID-19 daily data from Baidu-2020-05-27 |  [351kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Baidu_2020-05-27.htm) | [296kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Baidu_2020-05-27.json) | [101kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Baidu_2020-05-27.xlsx) | [474kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Baidu_2020-05-27.xml) | [143kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Baidu_2020-05-27.csv) |  
 
 
+
+### Data Defination
+```
+        Create_Table_Statement
+                = " CREATE TABLE Epidemic_Report ( "
+                + "  epid BIGINT NOT NULL GENERATED BY DEFAULT AS IDENTITY (START WITH 1, INCREMENT BY 1), "
+                + "  data_set VARCHAR(1024) NOT NULL, "
+                + "  time TIMESTAMP NOT NULL, "
+                + "  locationid BIGINT NOT NULL, "
+                + "  confirmed BIGINT, "
+                + "  healed BIGINT, "
+                + "  dead BIGINT, "
+                + "  increased_confirmed BIGINT, "
+                + "  increased_healed BIGINT, "
+                + "  increased_dead BIGINT, "
+                + "  source SMALLINT NOT NULL, " // 1:predefined 2:added 3:filled 4:statistic others:unknown
+                + "  PRIMARY KEY (epid), "
+                + "  FOREIGN KEY (locationid) REFERENCES Geography_Code (gcid) ON DELETE CASCADE ON UPDATE RESTRICT"
+                + " )";
+
+    Create_View_StatisticView
+            = " CREATE VIEW Epidemic_Report_Statistic_View AS "
+            + "  SELECT Epidemic_Report.*, Geography_Code.*,  "
+            + "  CASE WHEN confirmed <= 0 THEN 0 ELSE healed * DOUBLE('1000.0') / confirmed END AS healed_confirmed_permillage, "
+            + "  CASE WHEN confirmed <= 0 THEN 0 ELSE dead * DOUBLE('1000.0') / confirmed END AS dead_confirmed_permillage, "
+            + "  CASE WHEN population <= 0 THEN 0 ELSE confirmed * DOUBLE('1000.0') / population END AS confirmed_population_permillage, "
+            + "  CASE WHEN population <= 0 THEN 0 ELSE healed * DOUBLE('1000.0') / population END AS healed_population_permillage, "
+            + "  CASE WHEN population <= 0 THEN 0 ELSE dead * DOUBLE('1000.0') / population END AS dead_population_permillage, "
+            + "  CASE WHEN area <= 0 THEN 0 ELSE confirmed * DOUBLE('1000.0') / area END AS confirmed_area_permillage, "
+            + "  CASE WHEN area <= 0 THEN 0 ELSE healed * DOUBLE('1000.0') / area END AS healed_area_permillage, "
+            + "  CASE WHEN area <= 0 THEN 0 ELSE dead * DOUBLE('1000.0') / area END AS dead_area_permillage "
+            + "  FROM Epidemic_Report JOIN Geography_Code ON Epidemic_Report.locationid=Geography_Code.gcid";
+
+
+    Create_Index_DatasetTimeDesc
+            = " CREATE INDEX  Epidemic_Report_DatasetTimeDesc_index on Epidemic_Report ( "
+            + "  data_set, time DESC, locationid, confirmed DESC"
+            + " )";
+
+    Create_Index_DatasetTimeAsc
+            = " CREATE INDEX  Epidemic_Report_DatasetTimeAsc_index on Epidemic_Report ( "
+            + "  data_set, time ASC, locationid, confirmed DESC"
+            + " )";
+
+    Create_Index_TimeAsc
+            = " CREATE INDEX  Epidemic_Report_timeAsc_index on Epidemic_Report ( "
+            + "  time ASC, locationid, confirmed DESC"
+            + " )";
+
+
+```
 

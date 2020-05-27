@@ -1,0 +1,849 @@
+Data Set,Time,Confirmed,Healed,Dead,Increased Confirmed,Increased Healed,Increased Dead,Healed/Confirmed(Permillage),Dead/Confirmed(Permillage),Confirmed/Population(Permillage),Dead/Population(Permillage),Healed/Population(Permillage),Confirmed/Area(Permillage),Healed/Area(Permillage),Dead/Area(Permillage),Data Source,Level,Continent,Country,Province,City,County,Town,Village,Building,Longitude,Latitude
+COVID-19_Baidu,2020-05-27 23:59:00,5709490,2451752,352758,0,0,0,429.42,61.78,0.0,0.0,0.0,0.0,0.0,0.0,Statistic Data,Global,,,,,,,,,148.770017,27.499299
+COVID-19_Baidu,2020-05-27 23:59:00,1943776,926931,169786,0,0,0,476.87,87.35,0.0,0.0,0.0,0.0,0.0,0.0,Statistic Data,Continent,Europe,,,,,,,,24.918,54.376174
+COVID-19_Baidu,2020-05-27 23:59:00,1930930,597861,116727,0,0,0,309.62,60.45,0.0,0.0,0.0,0.0,0.0,0.0,Statistic Data,Continent,North America,,,,,,,,-104.695554,59.336138
+COVID-19_Baidu,2020-05-27 23:59:00,1725808,479816,100625,0,0,0,278.02,58.31,5.56,0.32,1.55,179.23,49.83,10.45,Inputted Data,Country,North America,The United States of America,,,,,,,-95.712891,37.09024
+COVID-19_Baidu,2020-05-27 23:59:00,1016382,595201,28453,0,0,0,585.61,27.99,0.0,0.0,0.0,0.0,0.0,0.0,Statistic Data,Continent,Asia,,,,,,,,111.23125,33.47486
+COVID-19_Baidu,2020-05-27 23:59:00,686365,272324,33981,0,0,0,396.76,49.51,0.0,0.0,0.0,0.0,0.0,0.0,Statistic Data,Continent,South America,,,,,,,,-60.396237,-16.81103
+COVID-19_Baidu,2020-05-27 23:59:00,394507,158593,24593,0,0,0,402.0,62.34,1.96,0.12,0.79,46.35,18.63,2.89,Inputted Data,Country,South America,The Federative Republic of Brazil,,,,,,,-51.92528,-14.235004
+COVID-19_Baidu,2020-05-27 23:59:00,373622,64866,29451,0,0,0,173.61,78.83,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,纽约州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,370680,142208,3968,0,0,0,383.64,10.7,2.63,0.03,1.01,21.68,8.32,0.23,Inputted Data,Country,Europe,Russian Federation,,,,,,,105.318756,61.52401
+COVID-19_Baidu,2020-05-27 23:59:00,283339,196958,27117,0,0,0,695.13,95.71,6.09,0.58,4.24,561.31,390.18,53.72,Inputted Data,Country,Europe,The Kingdom of Spain,,,,,,,-3.74922,40.463667
+COVID-19_Baidu,2020-05-27 23:59:00,265227,1161,37048,0,0,0,4.38,139.68,4.25,0.59,0.02,1083.36,4.74,151.33,Inputted Data,Country,Europe,The United Kingdom of Great Britain and Northern Ireland,,,,,,,-3.435973,55.378051
+COVID-19_Baidu,2020-05-27 23:59:00,230555,144658,32955,0,0,0,627.43,142.94,3.82,0.55,2.4,765.38,480.22,109.4,Inputted Data,Country,Europe,The Republic of Italy,,,,,,,12.56738,41.87194
+COVID-19_Baidu,2020-05-27 23:59:00,182722,65879,28530,0,0,0,360.54,156.14,2.82,0.44,1.02,334.03,120.43,52.15,Inputted Data,Country,Europe,The French Republic,,,,,,,2.213749,46.227638
+COVID-19_Baidu,2020-05-27 23:59:00,181288,162800,8498,0,0,0,898.02,46.88,2.22,0.1,1.99,507.78,456.0,23.8,Inputted Data,Country,Europe,The Federal Republic of Germany,,,,,,,10.451526,51.165691
+COVID-19_Baidu,2020-05-27 23:59:00,158762,121507,4397,0,0,0,765.34,27.7,2.04,0.06,1.56,203.39,155.66,5.63,Inputted Data,Country,Asia,The Republic of Turkey,,,,,,,35.243322,38.963745
+COVID-19_Baidu,2020-05-27 23:59:00,157015,13907,11197,0,0,0,88.57,71.31,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,新泽西州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,153230,64729,4365,0,0,0,422.43,28.49,0.13,0.0,0.06,46.61,19.69,1.33,Inputted Data,Country,Asia,The Republic of India,,,,,,,78.96288,20.593684
+COVID-19_Baidu,2020-05-27 23:59:00,141591,111176,7564,0,0,0,785.19,53.42,1.84,0.1,1.45,85.92,67.46,4.59,Inputted Data,Country,Asia,The Islamic Republic of Iran,,,,,,,53.688046,32.427908
+COVID-19_Baidu,2020-05-27 23:59:00,129751,52906,3788,0,0,0,407.75,29.19,4.34,0.13,1.77,100.96,41.16,2.95,Inputted Data,Country,South America,The Republic of Peru,,,,,,,-75.015152,-9.189967
+COVID-19_Baidu,2020-05-27 23:59:00,122019,50143,3629,0,0,0,410.94,29.74,0.0,0.0,0.0,0.0,0.0,0.0,Statistic Data,Continent,Africa,,,,,,,,27.118551,8.777388
+COVID-19_Baidu,2020-05-27 23:59:00,113195,3615,4923,0,0,0,31.94,43.49,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,伊利诺伊州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,99776,20840,3852,0,0,0,208.87,38.61,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,加利福尼亚州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,93693,32549,6473,0,0,0,347.4,69.09,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,马萨诸塞州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,87417,47044,15896,0,0,0,538.16,181.84,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,伦巴第,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,86647,45339,6639,0,0,0,523.26,76.62,2.57,0.2,1.35,8.68,4.54,0.66,Inputted Data,Country,North America,Canada,,,,,,,-106.346771,56.130366
+COVID-19_Baidu,2020-05-27 23:59:00,84545,79780,4645,0,0,0,943.64,54.94,0.06,0.0,0.06,8.81,8.31,0.48,Statistic Data,Country,Asia,People's Republic of China,,,,,,,104.195397,35.86166
+COVID-19_Baidu,2020-05-27 23:59:00,77961,30915,806,0,0,0,396.54,10.34,4.66,0.05,1.85,102.99,40.84,1.06,Inputted Data,Country,South America,Republic of Chile,,,,,,,-71.542969,-35.675147
+COVID-19_Baidu,2020-05-27 23:59:00,76726,48450,411,0,0,0,631.47,5.36,2.98,0.02,1.88,39.13,24.71,0.21,Inputted Data,Country,Asia,Kingdom of Saudi Arabia,,,,,,,45.079162,23.885942
+COVID-19_Baidu,2020-05-27 23:59:00,74560,52219,8134,0,0,0,700.36,109.09,0.66,0.07,0.46,37.8,26.47,4.12,Inputted Data,Country,North America,The United States of Mexico,,,,,,,-102.552784,23.634501
+COVID-19_Baidu,2020-05-27 23:59:00,72876,41602,5194,0,0,0,570.86,71.27,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,宾夕法尼亚州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,68135,63618,4512,0,0,0,933.71,66.22,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Hubei,,,,,,114.341861,30.546498
+COVID-19_Baidu,2020-05-27 23:59:00,59151,19142,1225,0,0,0,323.61,20.71,0.32,0.01,0.1,73.58,23.81,1.52,Inputted Data,Country,Asia,the Islamic Republic of Pakistan,,,,,,,69.345116,30.375321
+COVID-19_Baidu,2020-05-27 23:59:00,57744,36405,1563,0,0,0,630.46,27.07,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,得克萨斯州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,57592,15465,9364,0,0,0,268.53,162.59,5.54,0.9,1.49,1887.64,506.88,306.92,Inputted Data,Country,Europe,The Kingdom Of Belgium,,,,,,,4.469936,50.503887
+COVID-19_Baidu,2020-05-27 23:59:00,55104,33168,5266,0,0,0,601.92,95.56,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,密歇根州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,52255,8514,2259,0,0,0,162.93,43.23,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,佛罗里达州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,50340,46466,3869,0,0,0,923.04,76.86,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,武汉,,,,,114.305392,30.593098
+COVID-19_Baidu,2020-05-27 23:59:00,48947,13283,30,0,0,0,271.38,0.61,58.21,0.04,15.8,4279.71,1161.41,2.62,Inputted Data,Country,Asia,The State of Qatar,,,,,,,51.183884,25.354826
+COVID-19_Baidu,2020-05-27 23:59:00,47687,3283,2333,0,0,0,68.84,48.92,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,马里兰州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,45578,322,5856,0,0,0,7.06,128.48,2.74,0.35,0.02,1097.58,7.75,141.02,Inputted Data,Country,Europe,The Kingdom of Netherlands,,,,,,,5.291266,52.132633
+COVID-19_Baidu,2020-05-27 23:59:00,43983,697,1895,0,0,0,15.85,43.08,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,佐治亚州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,41303,6622,3769,0,0,0,160.33,91.25,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,康涅狄格州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,39342,5227,1236,0,0,0,132.86,31.42,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,弗吉尼亚州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,38956,15923,214,0,0,0,408.74,5.49,4.02,0.02,1.64,187.65,76.7,1.03,Inputted Data,Country,Europe,The Republic of Belarus,,,,,,,27.953389,53.709807
+COVID-19_Baidu,2020-05-27 23:59:00,38292,7925,544,0,0,0,206.96,14.21,0.25,0.0,0.05,265.92,55.03,3.78,Inputted Data,Country,Asia,People's Republic of Bangladesh,,,,,,,90.356331,23.684994
+COVID-19_Baidu,2020-05-27 23:59:00,38068,28700,2701,0,0,0,753.91,70.95,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,路易斯安那州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,37355,18003,3203,0,0,0,481.94,85.74,2.53,0.22,1.22,131.74,63.49,11.3,Inputted Data,Country,South America,The Republic of Ecuador,,,,,,,-78.183406,-1.831239
+COVID-19_Baidu,2020-05-27 23:59:00,34440,4971,4125,0,0,0,144.34,119.77,3.5,0.42,0.51,76.54,11.05,9.17,Inputted Data,Country,Europe,The Kingdom of Sweden,,,,,,,18.643501,60.128161
+COVID-19_Baidu,2020-05-27 23:59:00,33075,6014,2012,0,0,0,181.83,60.83,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,俄亥俄州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,32876,16444,23,0,0,0,500.18,0.7,6.99,0.0,3.5,47440.12,23728.72,33.19,Inputted Data,Country,Asia,Republic of Singapore,,,,,,,103.811032,1.364418
+COVID-19_Baidu,2020-05-27 23:59:00,32078,1954,2004,0,0,0,60.91,62.47,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,印第安纳州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,31086,15982,253,0,0,0,514.12,8.14,6.25,0.05,3.21,375.07,192.83,3.05,Inputted Data,Country,Asia,The United Arab Emirates,,,,,,,53.847818,23.424076
+COVID-19_Baidu,2020-05-27 23:59:00,31007,18096,1342,0,0,0,583.61,43.28,2.9,0.13,1.7,335.61,195.86,14.53,Inputted Data,Country,Europe,the Portuguese Republic,,,,,,,-8.224454,39.399872
+COVID-19_Baidu,2020-05-27 23:59:00,30776,28200,1917,0,0,0,916.3,62.29,3.63,0.23,3.32,745.36,682.97,46.43,Inputted Data,Country,Europe,Swiss Confederation,,,,,,,8.227512,46.818188
+COVID-19_Baidu,2020-05-27 23:59:00,30314,19561,3812,0,0,0,645.28,125.75,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,皮埃蒙特,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,27611,19389,4076,0,0,0,702.22,147.62,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,艾米利亚-罗马涅,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,24735,21060,1615,0,0,0,851.43,65.29,5.35,0.35,4.56,351.95,299.66,22.98,Inputted Data,Country,Europe,The Republic of Ireland,,,,,,,-8.24389,53.41291
+COVID-19_Baidu,2020-05-27 23:59:00,24565,1722,1352,0,0,0,70.1,55.04,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,科罗拉多州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,24454,14954,801,0,0,0,611.52,32.76,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,北卡罗来纳州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,24264,12741,524,0,0,0,525.1,21.6,0.5,0.01,0.26,19.89,10.44,0.43,Inputted Data,Country,Africa,The Republic of South Africa,,,,,,,22.937506,-30.559482
+COVID-19_Baidu,2020-05-27 23:59:00,23851,6057,1473,0,0,0,253.95,61.76,0.1,0.01,0.02,12.43,3.16,0.77,Inputted Data,Country,Asia,The Republic of Indonesia,,,,,,,119.730443,-5.640499
+COVID-19_Baidu,2020-05-27 23:59:00,23267,7946,175,0,0,0,341.51,7.52,8.34,0.06,2.85,1305.67,445.9,9.82,Inputted Data,Country,Asia,The State of Kuwait,,,,,,,47.481766,29.31166
+COVID-19_Baidu,2020-05-27 23:59:00,23003,5511,776,0,0,0,239.58,33.73,0.48,0.02,0.12,20.2,4.84,0.68,Inputted Data,Country,South America,The Republic of Colombia,,,,,,,-74.297333,4.570868
+COVID-19_Baidu,2020-05-27 23:59:00,22303,10330,1025,0,0,0,463.17,45.96,0.58,0.03,0.27,71.33,33.04,3.28,Inputted Data,Country,Europe,The Republic of Poland,,,,,,,19.145136,51.919438
+COVID-19_Baidu,2020-05-27 23:59:00,21960,15523,908,0,0,0,706.88,41.35,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,明尼苏达州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,21905,7995,658,0,0,0,364.99,30.04,0.48,0.01,0.18,36.28,13.24,1.09,Inputted Data,Country,Europe,Ukraine,,,,,,,31.16558,48.379433
+COVID-19_Baidu,2020-05-27 23:59:00,21209,5954,1086,0,0,0,280.73,51.2,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,华盛顿州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,20965,13334,343,0,0,0,636.01,16.36,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,田纳西州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,19105,14788,1886,0,0,0,774.04,98.72,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,威尼托,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,18756,5027,797,0,0,0,268.02,42.49,0.23,0.01,0.06,18.73,5.02,0.8,Inputted Data,Country,Africa,the Arab Republic of Egypt,,,,,,,30.802498,26.820553
+COVID-19_Baidu,2020-05-27 23:59:00,18594,12162,1219,0,0,0,654.08,65.56,2.53,0.17,1.66,210.43,137.64,13.8,Inputted Data,Country,Europe,Romania,,,,,,,24.96676,45.943161
+COVID-19_Baidu,2020-05-27 23:59:00,18187,9855,481,0,0,0,541.87,26.45,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,爱荷华州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,16783,70,807,0,0,0,4.17,48.08,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,亚利桑那州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,16771,14486,281,0,0,0,863.75,16.76,2.28,0.04,1.97,807.46,697.45,13.53,Inputted Data,Country,Asia,The State of Israel,,,,,,,34.851612,31.046051
+COVID-19_Baidu,2020-05-27 23:59:00,16662,13810,862,0,0,0,828.83,51.73,0.13,0.01,0.11,44.1,36.55,2.28,Inputted Data,Country,Asia,Japan,,,,,,,138.252924,36.204824
+COVID-19_Baidu,2020-05-27 23:59:00,16557,15182,643,0,0,0,916.95,38.84,2.02,0.08,1.85,197.44,181.04,7.67,Inputted Data,Country,Europe,The Republic Of Austria,,,,,,,14.550072,47.516231
+COVID-19_Baidu,2020-05-27 23:59:00,15863,9405,517,0,0,0,592.89,32.59,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,威斯康星州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,15650,7951,580,0,0,0,508.05,37.06,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,亚拉巴马州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,15264,8534,468,0,0,0,559.09,30.66,1.55,0.05,0.87,313.24,175.13,9.6,Inputted Data,Country,North America,The Dominican Republic,,,,,,,-70.162651,18.735693
+COVID-19_Baidu,2020-05-27 23:59:00,15049,3506,904,0,0,0,232.97,60.07,0.15,0.01,0.04,50.16,11.69,3.01,Inputted Data,Country,Asia,Republic of the Philippines,,,,,,,121.774017,12.879721
+COVID-19_Baidu,2020-05-27 23:59:00,14210,1084,634,0,0,0,76.28,44.62,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,罗得岛州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,13731,9401,652,0,0,0,684.66,47.48,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,密西西比州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,13536,10696,1191,0,0,0,790.19,87.99,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,退伍军人事务,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,13228,4167,484,0,0,0,315.01,36.59,0.32,0.01,0.1,4.78,1.51,0.17,Inputted Data,Country,South America,The Republic of Argentina,,,,,,,-63.616672,-38.416097
+COVID-19_Baidu,2020-05-27 23:59:00,12619,349,153,0,0,0,27.66,12.12,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,内布拉斯加州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,12616,3046,696,0,0,0,241.44,55.17,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,密苏里州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,12456,1138,227,0,0,0,91.36,18.22,0.43,0.01,0.04,19.24,1.76,0.35,Inputted Data,Country,Asia,the Islamic Republic of Afghanistan,,,,,,,67.709953,33.93911
+COVID-19_Baidu,2020-05-27 23:59:00,11447,6379,313,0,0,0,557.26,27.34,3.36,0.09,1.87,146.38,81.57,4.0,Inputted Data,Country,North America,The Republic of Panama,,,,,,,-80.782127,8.537981
+COVID-19_Baidu,2020-05-27 23:59:00,11428,10044,563,0,0,0,878.89,49.26,2.08,0.1,1.83,265.19,233.07,13.06,Inputted Data,Country,Europe,The Kingdom of Denmark,,,,,,,9.501785,56.26392
+COVID-19_Baidu,2020-05-27 23:59:00,11265,10295,269,0,0,0,913.89,23.88,0.23,0.01,0.21,114.39,104.54,2.73,Inputted Data,Country,Asia,Republic of Korea,,,,,,,127.766922,35.907757
+COVID-19_Baidu,2020-05-27 23:59:00,11227,6067,239,0,0,0,540.39,21.29,1.04,0.02,0.56,109.69,59.28,2.34,Inputted Data,Country,Europe,Serbia and Montenegro,,,,,,,21.005859,44.016521
+COVID-19_Baidu,2020-05-27 23:59:00,10416,6043,446,0,0,0,580.17,42.82,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,南卡罗来纳州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,10070,7527,1021,0,0,0,747.47,101.39,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,托斯卡纳,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,9550,6681,1431,0,0,0,699.58,149.84,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,利古里亚,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,9366,4938,15,0,0,0,527.23,1.6,12.69,0.02,6.69,14084.21,7425.56,22.56,Inputted Data,Country,Asia,The Kingdom of Bahrain,,,,,,,50.56,26.07
+COVID-19_Baidu,2020-05-27 23:59:00,9304,4669,37,0,0,0,501.83,3.98,0.61,0.0,0.3,3.42,1.72,0.01,Inputted Data,Country,Asia,The Republic of Kazakhstan,,,,,,,66.923684,48.019573
+COVID-19_Baidu,2020-05-27 23:59:00,9264,3961,210,0,0,0,427.57,22.67,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,堪萨斯州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,9173,5114,35,0,0,0,557.51,3.82,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,美国国防部报告,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,9066,4802,335,0,0,0,529.67,36.95,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,特拉华州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,9052,6279,317,0,0,0,693.66,35.02,0.86,0.03,0.6,114.78,79.62,4.02,Inputted Data,Country,Europe,The Czech Republic,,,,,,,15.472962,49.817492
+COVID-19_Baidu,2020-05-27 23:59:00,8951,3115,394,0,0,0,348.01,44.02,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,肯塔基州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,8747,8129,124,0,0,0,929.35,14.18,0.0,0.0,0.0,0.0,0.0,0.0,Statistic Data,Continent,Oceania,,,,,,,,135.406058,-24.375757
+COVID-19_Baidu,2020-05-27 23:59:00,8697,4918,617,0,0,0,565.48,70.94,0.25,0.02,0.14,3.65,2.06,0.26,Inputted Data,Country,Africa,People's Democratic Republic of Algeria,,,,,,,1.659626,28.033886
+COVID-19_Baidu,2020-05-27 23:59:00,8620,5346,101,0,0,0,620.19,11.72,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,犹他州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,8383,7727,235,0,0,0,921.75,28.03,1.67,0.05,1.54,25.86,23.83,0.72,Inputted Data,Country,Europe,The Kingdom of Norway,,,,,,,8.468946,60.472024
+COVID-19_Baidu,2020-05-27 23:59:00,8373,2177,38,0,0,0,260.0,4.54,2.82,0.01,0.73,39.41,10.25,0.18,Inputted Data,Country,Asia,Sultanate of Oman,,,,,,,55.923255,21.512583
+COVID-19_Baidu,2020-05-27 23:59:00,8344,2385,249,0,0,0,285.83,29.84,0.05,0.0,0.02,9.03,2.58,0.27,Inputted Data,Country,Africa,Federal Republic of Nigeria,,,,,,,8.675277,9.081999
+COVID-19_Baidu,2020-05-27 23:59:00,8334,1080,440,0,0,0,129.59,52.8,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,华盛顿哥伦比亚特区,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,7998,5852,396,0,0,0,731.68,49.51,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,内华达州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,7774,3255,98,0,0,0,418.7,12.61,2.62,0.03,1.1,260.87,109.23,3.29,Inputted Data,Country,Asia,The Republic of Armenia,,,,,,,45.038189,40.069099
+COVID-19_Baidu,2020-05-27 23:59:00,7661,3430,693,0,0,0,447.72,90.46,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,拉齐奥,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,7619,6083,115,0,0,0,798.4,15.09,0.27,0.0,0.22,23.11,18.45,0.35,Inputted Data,Country,Asia,Malaysia,,,,,,,101.975766,4.210484
+COVID-19_Baidu,2020-05-27 23:59:00,7584,4969,202,0,0,0,655.2,26.64,0.22,0.01,0.15,16.98,11.13,0.45,Inputted Data,Country,Africa,The Kingdom of Morocco,,,,,,,-7.09262,31.791702
+COVID-19_Baidu,2020-05-27 23:59:00,7305,3884,267,0,0,0,531.69,36.55,1.69,0.06,0.9,215.85,114.77,7.89,Inputted Data,Country,Europe,The Republic of Moldova,,,,,,,28.369885,47.411631
+COVID-19_Baidu,2020-05-27 23:59:00,7139,6566,103,0,0,0,919.74,14.43,0.33,0.0,0.31,0.93,0.85,0.01,Inputted Data,Country,Oceania,The Commonwealth of Australia,,,,,,,133.775136,-25.274398
+COVID-19_Baidu,2020-05-27 23:59:00,7136,677,274,0,0,0,94.87,38.4,0.72,0.03,0.07,6.5,0.62,0.25,Inputted Data,Country,South America,The Republic of Bolivia,,,,,,,-63.588653,-16.290154
+COVID-19_Baidu,2020-05-27 23:59:00,7130,2564,325,0,0,0,359.61,45.58,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,新墨西哥州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,7117,2317,34,0,0,0,325.56,4.78,0.29,0.0,0.1,29.72,9.68,0.14,Inputted Data,Country,Africa,The Republic of Ghana,,,,,,,-1.023194,7.946527
+COVID-19_Baidu,2020-05-27 23:59:00,6878,6557,184,0,0,0,953.33,26.75,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,大邱,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,6718,4147,996,0,0,0,617.3,148.26,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,马尔凯,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,6692,5100,312,0,0,0,762.1,46.62,1.28,0.06,0.97,19.86,15.13,0.93,Inputted Data,Country,Europe,The Republic of Finland,,,,,,,25.748151,61.92411
+COVID-19_Baidu,2020-05-27 23:59:00,6180,4332,119,0,0,0,700.97,19.26,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,阿肯色州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,6137,4825,318,0,0,0,786.21,51.82,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,俄克拉何马州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,5436,1996,175,0,0,0,367.18,32.19,0.28,0.01,0.1,11.43,4.2,0.37,Inputted Data,Country,Africa,the Republic of Cameroon,,,,,,,12.354722,7.369722
+COVID-19_Baidu,2020-05-27 23:59:00,5170,4311,288,0,0,0,833.85,55.71,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,东京都,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,4848,2852,169,0,0,0,588.28,34.86,0.16,0.01,0.1,11.09,6.53,0.39,Inputted Data,Country,Asia,Republic Of Iraq,,,,,,,43.679291,33.223191
+COVID-19_Baidu,2020-05-27 23:59:00,4767,3178,405,0,0,0,666.67,84.96,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,坎帕尼亚,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,4689,0,157,0,0,0,0.0,33.48,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,纳瓦霍族,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,4653,3528,50,0,0,0,758.22,10.75,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,南达科他州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,4469,2436,494,0,0,0,545.09,110.54,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,普利亚,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,4415,3441,461,0,0,0,779.39,104.42,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,特伦托,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,4403,2819,52,0,0,0,640.25,11.81,0.53,0.01,0.34,50.84,32.55,0.6,Inputted Data,Country,Asia,The Republic of Azerbaijan,,,,,,,47.576927,40.143105
+COVID-19_Baidu,2020-05-27 23:59:00,4401,493,188,0,0,0,112.02,42.72,0.55,0.02,0.06,39.26,4.4,1.68,Inputted Data,Country,North America,Republic of Honduras,,,,,,,-86.241905,15.199999
+COVID-19_Baidu,2020-05-27 23:59:00,4231,2550,214,0,0,0,602.69,50.58,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,新罕布什尔州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,4146,588,184,0,0,0,141.82,44.38,0.12,0.01,0.02,2.23,0.32,0.1,Inputted Data,Country,Africa,The Republic of Sudan,,,,,,,30.217636,12.862807
+COVID-19_Baidu,2020-05-27 23:59:00,3995,3783,110,0,0,0,946.93,27.53,8.03,0.22,7.6,1544.86,1462.88,42.54,Inputted Data,Country,Europe,The Grand Duchy of Luxembourg,,,,,,,6.129583,49.815273
+COVID-19_Baidu,2020-05-27 23:59:00,3967,1894,148,0,0,0,477.44,37.31,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,俄勒冈州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,3954,289,63,0,0,0,73.09,15.93,0.29,0.0,0.02,36.31,2.65,0.58,Inputted Data,Country,North America,The Republic of Guatemala,,,,,,,-90.230759,15.783471
+COVID-19_Baidu,2020-05-27 23:59:00,3793,1856,505,0,0,0,489.32,133.14,0.38,0.05,0.19,40.77,19.95,5.43,Inputted Data,Country,Europe,Hungary,,,,,,,19.503304,47.162494
+COVID-19_Baidu,2020-05-27 23:59:00,3629,3436,64,0,0,0,946.82,17.64,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,联邦监狱,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,3518,3389,129,0,0,0,963.33,36.67,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,孝感,,,,,113.916902,30.924568
+COVID-19_Baidu,2020-05-27 23:59:00,3430,1729,271,0,0,0,504.08,79.01,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,西西里,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,3333,2659,14,0,0,0,797.78,4.2,0.12,0.0,0.1,7.45,5.94,0.03,Inputted Data,Country,Asia,The Republic of Uzbekistan,,,,,,,64.585262,41.377491
+COVID-19_Baidu,2020-05-27 23:59:00,3324,850,129,0,0,0,255.72,38.81,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,波多黎各,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,3275,1673,20,0,0,0,510.84,6.11,0.32,0.0,0.16,13.32,6.8,0.08,Inputted Data,Country,Africa,The Republic of Guinea,,,,,,,-9.696645,9.945587
+COVID-19_Baidu,2020-05-27 23:59:00,3266,1417,47,0,0,0,433.86,14.39,0.44,0.01,0.19,22.82,9.9,0.33,Inputted Data,Country,Asia,The Republic of Tajikistan,,,,,,,71.276093,38.861034
+COVID-19_Baidu,2020-05-27 23:59:00,3253,1586,38,0,0,0,487.55,11.68,0.26,0.0,0.13,16.58,8.08,0.19,Inputted Data,Country,Africa,the Republic of Senegal,,,,,,,-14.452362,14.497401
+COVID-19_Baidu,2020-05-27 23:59:00,3251,2547,329,0,0,0,783.45,101.2,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,弗留利-威尼斯朱利亚,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,3230,1921,400,0,0,0,594.74,123.84,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,阿布鲁佐,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,3054,2931,57,0,0,0,959.72,18.66,0.05,0.0,0.04,5.94,5.7,0.11,Inputted Data,Country,Asia,Kingdom of Thailand,,,,,,,100.992541,15.870032
+COVID-19_Baidu,2020-05-27 23:59:00,2907,2782,125,0,0,0,957.0,43.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,黄冈,,,,,114.872316,30.453905
+COVID-19_Baidu,2020-05-27 23:59:00,2892,1374,173,0,0,0,475.1,59.82,0.26,0.02,0.12,21.92,10.41,1.31,Inputted Data,Country,Europe,The Hellenic Republic,,,,,,,21.824312,39.074208
+COVID-19_Baidu,2020-05-27 23:59:00,2699,2100,81,0,0,0,778.07,30.01,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,爱达荷州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,2593,2123,291,0,0,0,818.74,112.23,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,博尔扎诺,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,2546,365,68,0,0,0,143.36,26.71,0.04,0.0,0.01,1.09,0.16,0.03,Inputted Data,Country,Africa,Democratic Republic of the Congo,,,,,,,15.307045,-4.322447
+COVID-19_Baidu,2020-05-27 23:59:00,2477,1286,30,0,0,0,519.18,12.11,0.12,0.0,0.06,7.68,3.99,0.09,Inputted Data,Country,Africa,the Republic of Cote d'ivoire,,,,,,,-5.54708,7.539989
+COVID-19_Baidu,2020-05-27 23:59:00,2468,1079,14,0,0,0,437.2,5.67,3.33,0.02,1.46,107.3,46.91,0.61,Inputted Data,Country,Africa,The Republic of Djibouti,,,,,,,42.590275,11.825138
+COVID-19_Baidu,2020-05-27 23:59:00,2460,912,133,0,0,0,370.73,54.07,0.35,0.02,0.13,22.18,8.22,1.2,Inputted Data,Country,Europe,The Republic of Bulgaria,,,,,,,25.48583,42.733883
+COVID-19_Baidu,2020-05-27 23:59:00,2457,1551,54,0,0,0,631.26,21.98,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,北达科他州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,2416,1721,149,0,0,0,712.33,61.67,0.53,0.03,0.37,47.25,33.66,2.91,Inputted Data,Country,Europe,Bosnia and Herzegovina,,,,,,,17.679076,43.915886
+COVID-19_Baidu,2020-05-27 23:59:00,2244,2046,101,0,0,0,911.76,45.01,0.52,0.02,0.48,39.69,36.19,1.79,Inputted Data,Country,Europe,The Republic of Croatia,,,,,,,15.2,45.1
+COVID-19_Baidu,2020-05-27 23:59:00,2238,593,14,0,0,0,264.97,6.26,1.45,0.01,0.38,8.36,2.22,0.05,Inputted Data,Country,Africa,The Gabonese Republic,,,,,,,11.609444,-0.803689
+COVID-19_Baidu,2020-05-27 23:59:00,2109,1318,79,0,0,0,624.94,37.46,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,缅因州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,2109,873,37,0,0,0,413.94,17.54,0.35,0.01,0.14,100.24,41.49,1.76,Inputted Data,Country,North America,The Republic of El Salvador,,,,,,,-88.89653,13.794185
+COVID-19_Baidu,2020-05-27 23:59:00,2014,1453,116,0,0,0,721.45,57.6,0.98,0.06,0.7,79.5,57.36,4.58,Inputted Data,Country,Europe,Republic of North Macedonia,,,,,,,21.745275,41.608635
+COVID-19_Baidu,2020-05-27 23:59:00,1963,1709,82,0,0,0,870.61,41.77,0.17,0.01,0.15,17.71,15.42,0.74,Inputted Data,Country,North America,The Republic of Cuba,,,,,,,-77.781167,21.521757
+COVID-19_Baidu,2020-05-27 23:59:00,1854,1180,74,0,0,0,636.46,39.91,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,西弗吉尼亚州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,1840,1561,66,0,0,0,848.37,35.87,1.43,0.05,1.21,40.68,34.52,1.46,Inputted Data,Country,Europe,Republic of Estonia,,,,,,,25.013607,58.595272
+COVID-19_Baidu,2020-05-27 23:59:00,1804,1792,10,0,0,0,993.35,5.54,5.84,0.03,5.8,17.51,17.4,0.1,Inputted Data,Country,Europe,The Republic of Iceland,,,,,,,-19.020835,64.963051
+COVID-19_Baidu,2020-05-27 23:59:00,1781,1480,78,0,0,0,830.99,43.8,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,大阪府,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,1711,253,67,0,0,0,147.87,39.16,0.17,0.01,0.03,2.68,0.4,0.11,Inputted Data,Country,Africa,The Somalia Democratic Republic,,,,,,,46.199616,5.152149
+COVID-19_Baidu,2020-05-27 23:59:00,1647,1184,66,0,0,0,718.88,40.07,0.56,0.02,0.4,25.26,18.16,1.01,Inputted Data,Country,Europe,The Republic of Lithuania,,,,,,,23.881275,55.169438
+COVID-19_Baidu,2020-05-27 23:59:00,1634,894,20,0,0,0,547.12,12.24,10.27,0.13,5.62,4368.98,2390.37,53.48,Inputted Data,Country,Africa,Territorial Collectivity of Mayotte,,,,,,,45.16667,-12.933
+COVID-19_Baidu,2020-05-27 23:59:00,1592,1581,8,0,0,0,993.09,5.03,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Guangdong,,,,,,113.26653,23.132191
+COVID-19_Baidu,2020-05-27 23:59:00,1580,1528,52,0,0,0,967.09,32.91,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,荆州,,,,,112.239741,30.335165
+COVID-19_Baidu,2020-05-27 23:59:00,1520,1043,16,0,0,0,686.18,10.53,0.26,0.0,0.18,7.66,5.25,0.08,Inputted Data,Country,Asia,The Kyrgyz Republic,,,,,,,74.766098,41.20438
+COVID-19_Baidu,2020-05-27 23:59:00,1515,1327,28,0,0,0,875.91,18.48,0.28,0.01,0.24,31.02,27.17,0.57,Inputted Data,Country,Europe,The Slovak Republic,,,,,,,19.699024,48.669026
+COVID-19_Baidu,2020-05-27 23:59:00,1504,1462,21,0,0,0,972.07,13.96,0.35,0.0,0.34,5.6,5.44,0.08,Inputted Data,Country,Oceania,New Zealand,,,,,,,174.885971,-40.900557
+COVID-19_Baidu,2020-05-27 23:59:00,1471,1354,108,0,0,0,920.46,73.42,0.73,0.05,0.67,72.56,66.79,5.33,Inputted Data,Country,Europe,The Republic of Slovenia,,,,,,,14.995463,46.151241
+COVID-19_Baidu,2020-05-27 23:59:00,1438,197,5,0,0,0,137.0,3.48,3.63,0.01,0.5,4793.33,656.67,16.67,Inputted Data,Country,Asia,The Republic of Maldives,,,,,,,73.54,1.98
+COVID-19_Baidu,2020-05-27 23:59:00,1431,1314,75,0,0,0,918.24,52.41,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,翁布里亚,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,1394,1335,59,0,0,0,957.68,42.32,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,鄂州,,,,,114.894843,30.39194
+COVID-19_Baidu,2020-05-27 23:59:00,1378,1287,54,0,0,0,933.96,39.19,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,庆尚北道,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,1354,1000,130,0,0,0,738.55,96.01,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,撒丁,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,1348,405,52,0,0,0,300.45,38.58,0.03,0.0,0.01,2.31,0.7,0.09,Inputted Data,Country,Africa,The Republic of Kenya,,,,,,,37.906193,-0.023559
+COVID-19_Baidu,2020-05-27 23:59:00,1334,991,73,0,0,0,742.88,54.72,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,神奈川,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,1319,732,10,0,0,0,554.97,7.58,0.06,0.0,0.03,20.1,11.16,0.15,Inputted Data,Country,Asia,The Democratic Socialist Republic of Sri Lanka,,,,,,,80.771797,7.873054
+COVID-19_Baidu,2020-05-27 23:59:00,1307,1262,45,0,0,0,965.57,34.43,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,随州,,,,,113.382458,31.690215
+COVID-19_Baidu,2020-05-27 23:59:00,1276,1254,22,0,0,0,982.76,17.24,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Henan,,,,,,113.753602,34.765515
+COVID-19_Baidu,2020-05-27 23:59:00,1268,1267,1,0,0,0,999.21,0.79,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Zhejiang,,,,,,120.152791,30.267446
+COVID-19_Baidu,2020-05-27 23:59:00,1211,302,11,0,0,0,249.38,9.08,0.04,0.0,0.01,1.33,0.33,0.01,Inputted Data,Country,South America,Bolivarian Republic of Venezuela,,,,,,,-66.58973,6.42375
+COVID-19_Baidu,2020-05-27 23:59:00,1181,1007,143,0,0,0,852.67,121.08,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,瓦莱达奥斯塔,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,1178,42,7,0,0,0,35.65,5.94,0.75,0.0,0.03,32.61,1.16,0.19,Inputted Data,Country,Africa,The Republic of Guinea-Bissau,,,,,,,-15.180413,11.803749
+COVID-19_Baidu,2020-05-27 23:59:00,1175,1135,40,0,0,0,965.96,34.04,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,襄阳,,,,,112.122414,32.008986
+COVID-19_Baidu,2020-05-27 23:59:00,1174,22,33,0,0,0,18.74,28.11,0.12,0.0,0.0,42.31,0.79,1.19,Inputted Data,Country,North America,The Republic of Haiti,,,,,,,-72.285215,18.971187
+COVID-19_Baidu,2020-05-27 23:59:00,1157,823,96,0,0,0,711.32,82.97,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,卡拉布里亚,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,1140,689,26,0,0,0,604.39,22.81,0.28,0.01,0.17,109.62,66.25,2.5,Inputted Data,Country,Asia,The Republic of Lebanon,,,,,,,35.862285,33.854721
+COVID-19_Baidu,2020-05-27 23:59:00,1077,617,70,0,0,0,572.89,65.0,0.08,0.01,0.04,0.87,0.5,0.06,Inputted Data,Country,Africa,The Republic of Mali,,,,,,,-3.996166,17.570692
+COVID-19_Baidu,2020-05-27 23:59:00,1066,734,81,0,0,0,688.56,75.98,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,北海道,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,1066,1034,4,0,0,0,969.98,3.75,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Hong Kong,,,,,,114.163825,22.276284
+COVID-19_Baidu,2020-05-27 23:59:00,1057,741,23,0,0,0,701.04,21.76,0.48,0.01,0.33,16.37,11.47,0.36,Inputted Data,Country,Europe,Republic of Latvia,,,,,,,24.603189,56.879635
+COVID-19_Baidu,2020-05-27 23:59:00,1051,929,48,0,0,0,883.92,45.67,0.1,0.0,0.09,6.42,5.68,0.29,Inputted Data,Country,Africa,The Republic of Tunisia,,,,,,,9.537499,33.886917
+COVID-19_Baidu,2020-05-27 23:59:00,1050,812,33,0,0,0,773.33,31.43,0.35,0.01,0.27,36.52,28.25,1.15,Inputted Data,Country,Europe,The Republic of Albania,,,,,,,20.168331,41.153332
+COVID-19_Baidu,2020-05-27 23:59:00,1043,165,12,0,0,0,158.2,11.51,1.03,0.01,0.16,37.18,5.88,0.43,Inputted Data,Country,Africa,Equatorial Guinea,,,,,,,10.267895,1.650801
+COVID-19_Baidu,2020-05-27 23:59:00,1019,1015,4,0,0,0,996.07,3.93,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Hunan,,,,,,112.98381,28.112444
+COVID-19_Baidu,2020-05-27 23:59:00,1015,976,39,0,0,0,961.58,38.42,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,黄石,,,,,115.03852,30.199652
+COVID-19_Baidu,2020-05-27 23:59:00,997,865,47,0,0,0,867.6,47.14,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,埼玉,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,991,985,6,0,0,0,993.95,6.05,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Anhui,,,,,,117.284922,31.861184
+COVID-19_Baidu,2020-05-27 23:59:00,967,848,54,0,0,0,876.94,55.84,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,佛蒙特州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,956,634,10,0,0,0,663.18,10.46,0.21,0.0,0.14,18.71,12.41,0.2,Inputted Data,Country,North America,Republic of Costa Rica,,,,,,,-83.753428,9.748917
+COVID-19_Baidu,2020-05-27 23:59:00,952,796,63,0,0,0,836.13,66.18,0.06,0.0,0.05,0.75,0.63,0.05,Inputted Data,Country,Africa,The Republic of Niger,,,,,,,8.081666,17.607789
+COVID-19_Baidu,2020-05-27 23:59:00,945,932,13,0,0,0,986.24,13.76,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Heilongjiang,,,,,,126.661669,45.742347
+COVID-19_Baidu,2020-05-27 23:59:00,939,594,17,0,0,0,632.59,18.1,0.85,0.02,0.54,101.51,64.22,1.84,Inputted Data,Country,Asia,the Republic of Cyprus,,,,,,,33.429859,35.126413
+COVID-19_Baidu,2020-05-27 23:59:00,937,936,1,0,0,0,998.93,1.07,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Jiangxi,,,,,,115.909228,28.675696
+COVID-19_Baidu,2020-05-27 23:59:00,931,894,37,0,0,0,960.26,39.74,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,宜昌,,,,,111.286471,30.691967
+COVID-19_Baidu,2020-05-27 23:59:00,928,887,41,0,0,0,955.82,44.18,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,荆门,,,,,112.199265,31.035423
+COVID-19_Baidu,2020-05-27 23:59:00,920,336,7,0,0,0,365.22,7.61,0.07,0.0,0.02,1.22,0.45,0.01,Inputted Data,Country,Africa,The Republic of Zambia,,,,,,,27.849332,-13.133897
+COVID-19_Baidu,2020-05-27 23:59:00,898,774,44,0,0,0,861.92,49.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,千叶,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,886,183,4,0,0,0,206.55,4.51,0.03,0.0,0.01,6.29,1.3,0.03,Inputted Data,Country,Asia,Federal Democratic Republic of Nepal,,,,,,,84.124008,28.394857
+COVID-19_Baidu,2020-05-27 23:59:00,877,382,11,0,0,0,435.58,12.54,0.14,0.0,0.06,2.16,0.94,0.03,Inputted Data,Country,South America,The Republic of Paraguay,,,,,,,-58.443832,-23.442503
+COVID-19_Baidu,2020-05-27 23:59:00,850,607,13,0,0,0,714.12,15.29,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,怀俄明州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,845,672,53,0,0,0,795.27,62.72,0.05,0.0,0.04,3.08,2.45,0.19,Inputted Data,Country,Africa,Burkina Faso,,,,,,,-1.561593,12.238333
+COVID-19_Baidu,2020-05-27 23:59:00,836,821,15,0,0,0,982.06,17.94,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,咸宁,,,,,114.322492,29.841443
+COVID-19_Baidu,2020-05-27 23:59:00,806,6,8,0,0,0,7.44,9.93,0.1,0.0,0.0,1.25,0.01,0.01,Inputted Data,Country,Africa,South Sudan,,,,,,,31.306979,6.876992
+COVID-19_Baidu,2020-05-27 23:59:00,802,618,4,0,0,0,770.57,4.99,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,首尔,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,789,638,22,0,0,0,808.62,27.88,0.23,0.01,0.18,4.48,3.62,0.12,Inputted Data,Country,South America,The Oriental Republic of Uruguay,,,,,,,-55.765835,-32.522779
+COVID-19_Baidu,2020-05-27 23:59:00,788,780,7,0,0,0,989.85,8.88,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Shandong,,,,,,117.020359,36.66853
+COVID-19_Baidu,2020-05-27 23:59:00,774,646,19,0,0,0,834.63,24.55,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,京畿道,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,763,676,51,0,0,0,885.98,66.84,9.08,0.61,8.05,1630.34,1444.44,108.97,Inputted Data,Country,Europe,The Principality of Andorra,,,,,,,1.52,42.51
+COVID-19_Baidu,2020-05-27 23:59:00,759,370,35,0,0,0,487.48,46.11,0.13,0.01,0.06,5.86,2.86,0.27,Inputted Data,Country,North America,The Republic of Nicaragua,,,,,,,-85.207229,12.865416
+COVID-19_Baidu,2020-05-27 23:59:00,754,297,44,0,0,0,393.9,58.36,0.14,0.01,0.06,10.51,4.14,0.61,Inputted Data,Country,Africa,The Republic of Sierra Leone,,,,,,,-11.779889,8.460555
+COVID-19_Baidu,2020-05-27 23:59:00,735,557,12,0,0,0,757.82,16.33,0.16,0.0,0.12,10.55,7.99,0.17,Inputted Data,Country,Asia,Georgia,,,,,,,43.356892,42.315407
+COVID-19_Baidu,2020-05-27 23:59:00,731,181,6,0,0,0,247.61,8.21,0.01,0.0,0.0,0.65,0.16,0.01,Inputted Data,Country,Africa,The Federal Democratic Republic of Ethiopia,,,,,,,40.489673,9.145
+COVID-19_Baidu,2020-05-27 23:59:00,718,586,9,0,0,0,816.16,12.53,0.11,0.0,0.09,7.78,6.35,0.1,Inputted Data,Country,Asia,The Hashemite Kingdom of Jordan,,,,,,,36.238414,30.585164
+COVID-19_Baidu,2020-05-27 23:59:00,712,651,13,0,0,0,914.33,18.26,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Country,Others,Diamond Princess,,,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,712,651,13,0,0,0,914.33,18.26,0.0,0.0,0.0,0.0,0.0,0.0,Statistic Data,Continent,Others,,,,,,,,149.828482,23.206392
+COVID-19_Baidu,2020-05-27 23:59:00,700,303,62,0,0,0,432.86,88.57,0.07,0.01,0.03,0.55,0.24,0.05,Inputted Data,Country,Africa,The Republic of Chad,,,,,,,18.732207,15.454166
+COVID-19_Baidu,2020-05-27 23:59:00,699,613,40,0,0,0,876.97,57.22,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,兵库,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,674,596,25,0,0,0,884.27,37.09,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,福冈,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,672,664,8,0,0,0,988.1,11.9,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,十堰,,,,,110.79799,32.629397
+COVID-19_Baidu,2020-05-27 23:59:00,671,22,1,0,0,0,32.79,1.49,0.14,0.0,0.0,1.08,0.04,0.0,Inputted Data,Country,Africa,The Central African Republic,,,,,,,20.939444,6.611111
+COVID-19_Baidu,2020-05-27 23:59:00,670,655,7,0,0,0,977.61,10.45,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Shanghai,,,,,,121.473701,31.230416
+COVID-19_Baidu,2020-05-27 23:59:00,666,275,42,0,0,0,412.91,63.06,21.16,1.33,8.74,10918.03,4508.2,688.52,Inputted Data,Country,Europe,The Republic of San Marino,,,,,,,12.46,43.94
+COVID-19_Baidu,2020-05-27 23:59:00,653,653,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Jiangsu,,,,,,118.763232,32.061707
+COVID-19_Baidu,2020-05-27 23:59:00,643,593,17,0,0,0,922.24,26.44,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,夏威夷州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,612,491,7,0,0,0,802.29,11.44,1.52,0.02,1.22,1936.71,1553.8,22.15,Inputted Data,Country,Europe,Republic of Malta,,,,,,,14.38,35.94
+COVID-19_Baidu,2020-05-27 23:59:00,612,151,2,0,0,0,246.73,3.27,0.03,0.0,0.01,1.04,0.26,0.0,Inputted Data,Country,Africa,the Republic of Madagascar,,,,,,,46.869107,-18.766947
+COVID-19_Baidu,2020-05-27 23:59:00,593,581,9,0,0,0,979.76,15.18,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Beijing,,,,,,116.407526,39.90403
+COVID-19_Baidu,2020-05-27 23:59:00,579,573,6,0,0,0,989.64,10.36,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Chongqing,,,,,,106.551556,29.563009
+COVID-19_Baidu,2020-05-27 23:59:00,575,553,22,0,0,0,961.74,38.26,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hubei,省直辖县级行政区划,仙桃市,,,,113.453974,30.364953
+COVID-19_Baidu,2020-05-27 23:59:00,564,558,3,0,0,0,989.36,5.32,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Sichuan,,,,,,104.075931,30.651651
+COVID-19_Baidu,2020-05-27 23:59:00,564,267,9,0,0,0,473.4,15.96,0.2,0.0,0.09,51.31,24.29,0.82,Inputted Data,Country,North America,Jamaica,,,,,,,-77.297508,18.109581
+COVID-19_Baidu,2020-05-27 23:59:00,559,512,45,0,0,0,915.92,80.5,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Country,,海峡群岛,,,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,522,397,0,0,0,0,760.54,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,检疫,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,510,442,34,0,0,0,866.67,66.67,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,爱知,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,509,183,21,0,0,0,359.53,41.26,0.01,0.0,0.0,0.54,0.19,0.02,Inputted Data,Country,Africa,The United Republic of Tanzania,,,,,,,34.888822,-6.369028
+COVID-19_Baidu,2020-05-27 23:59:00,504,503,1,0,0,0,998.02,1.98,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Zhejiang,温州,,,,,120.699366,27.994267
+COVID-19_Baidu,2020-05-27 23:59:00,496,481,15,0,0,0,969.76,30.24,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hubei,省直辖县级行政区划,天门市,,,,113.165862,30.653061
+COVID-19_Baidu,2020-05-27 23:59:00,487,147,16,0,0,0,301.85,32.85,0.16,0.01,0.05,1.42,0.43,0.05,Inputted Data,Country,Africa,Republic of the Congo,,,,,,,15.2832,-4.2634
+COVID-19_Baidu,2020-05-27 23:59:00,479,441,17,0,0,0,920.67,35.49,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,蒙大拿州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,459,411,1,0,0,0,895.42,2.18,0.59,0.0,0.53,182.36,163.29,0.4,Inputted Data,Country,Africa,Reunion Island,,,,,,,55.54,-21.12
+COVID-19_Baidu,2020-05-27 23:59:00,441,419,7,0,0,0,950.11,15.87,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Taiwan,,,,,,121.508903,25.044319
+COVID-19_Baidu,2020-05-27 23:59:00,441,68,12,0,0,0,154.2,27.21,2.23,0.06,0.34,440.56,67.93,11.99,Inputted Data,Country,Africa,the Democratic Republic Sao Tome and Principe,,,,,,,6.61,0.19
+COVID-19_Baidu,2020-05-27 23:59:00,434,365,3,0,0,0,841.01,6.91,0.11,0.0,0.1,72.7,61.14,0.5,Inputted Data,Country,Asia,The State of Palestine,,,,,,,35.233154,31.952162
+COVID-19_Baidu,2020-05-27 23:59:00,432,236,22,0,0,0,546.3,50.93,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,莫利塞,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,423,420,3,0,0,0,992.91,7.09,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,深圳,,,,,114.057868,22.543099
+COVID-19_Baidu,2020-05-27 23:59:00,411,362,10,0,0,0,880.78,24.33,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,阿拉斯加州,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,399,336,27,0,0,0,842.11,67.67,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,巴斯利卡塔,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,391,177,13,0,0,0,452.69,33.25,0.06,0.0,0.03,6.89,3.12,0.23,Inputted Data,Country,Africa,The Republic of Togo,,,,,,,0.824782,8.619543
+COVID-19_Baidu,2020-05-27 23:59:00,390,155,4,0,0,0,397.44,10.26,0.77,0.01,0.3,96.7,38.43,0.99,Inputted Data,Country,Africa,The Republic of Cape Verde,,,,,,,-23.34,15.02
+COVID-19_Baidu,2020-05-27 23:59:00,386,386,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Heilongjiang,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,384,146,1,0,0,0,380.21,2.6,1.96,0.01,0.75,4.22,1.6,0.01,Inputted Data,Country,South America,French Guiana,,,,,,,-53.125782,3.933889
+COVID-19_Baidu,2020-05-27 23:59:00,377,375,1,0,0,0,994.69,2.65,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,广州,,,,,113.264434,23.129162
+COVID-19_Baidu,2020-05-27 23:59:00,358,312,15,0,0,0,871.51,41.9,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,京都府,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,357,355,1,0,0,0,994.4,2.8,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Fujian,,,,,,119.295144,26.100779
+COVID-19_Baidu,2020-05-27 23:59:00,339,244,0,0,0,0,719.76,0.0,0.03,0.0,0.02,12.87,9.26,0.0,Inputted Data,Country,Africa,the Republic of Rwanda,,,,,,,29.873888,-1.940278
+COVID-19_Baidu,2020-05-27 23:59:00,336,306,24,0,0,0,910.71,71.43,4.48,0.32,4.08,587.41,534.97,41.96,Inputted Data,Country,Europe,Isle of Man,,,,,,,-4.548056,54.236107
+COVID-19_Baidu,2020-05-27 23:59:00,334,322,10,0,0,0,964.07,29.94,0.26,0.01,0.25,163.73,157.84,4.9,Inputted Data,Country,Africa,the Republic of Mauritius,,,,,,,57.55,-20.35
+COVID-19_Baidu,2020-05-27 23:59:00,329,322,0,0,0,0,978.72,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Shanghai,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,328,322,6,0,0,0,981.71,18.29,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Hebei,,,,,,114.468664,38.037057
+COVID-19_Baidu,2020-05-27 23:59:00,327,278,0,0,0,0,850.15,0.0,0.0,0.0,0.0,0.99,0.84,0.0,Inputted Data,Country,Asia,Socialist Republic of Vietnam,,,,,,,108.277199,14.058324
+COVID-19_Baidu,2020-05-27 23:59:00,326,152,0,0,0,0,466.26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,检疫、隔离及搬运等相关人员,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,324,315,9,0,0,0,972.22,27.78,0.49,0.01,0.47,23.1,22.46,0.64,Inputted Data,Country,Europe,Montenegro,,,,,,,19.37439,42.708678
+COVID-19_Baidu,2020-05-27 23:59:00,308,305,3,0,0,0,990.26,9.74,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Shaanxi,,,,,,108.954239,34.265472
+COVID-19_Baidu,2020-05-27 23:59:00,296,211,24,0,0,0,712.84,81.08,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,石川,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,274,272,2,0,0,0,992.7,7.3,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,信阳,,,,,114.091023,32.146983
+COVID-19_Baidu,2020-05-27 23:59:00,268,15,13,0,0,0,55.97,48.51,0.08,0.0,0.0,0.26,0.01,0.01,Inputted Data,Country,Africa,The Islamic Republic of Mauritania,,,,,,,-10.940835,21.00789
+COVID-19_Baidu,2020-05-27 23:59:00,266,144,26,0,0,0,541.35,97.74,0.07,0.01,0.04,2.39,1.29,0.23,Inputted Data,Country,Africa,The Republic of Liberia,,,,,,,-9.429499,6.428055
+COVID-19_Baidu,2020-05-27 23:59:00,264,260,4,0,0,0,984.85,15.15,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,哈尔滨,,,,,126.534967,45.803775
+COVID-19_Baidu,2020-05-27 23:59:00,261,164,2,0,0,0,628.35,7.66,0.19,0.0,0.12,15.03,9.45,0.12,Inputted Data,Country,Africa,The Kingdom of Swaziland,,,,,,,31.465866,-26.522503
+COVID-19_Baidu,2020-05-27 23:59:00,260,260,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,济宁,,,,,116.587098,35.414921
+COVID-19_Baidu,2020-05-27 23:59:00,254,252,2,0,0,0,992.13,7.87,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Guangxi,,,,,,108.327546,22.815478
+COVID-19_Baidu,2020-05-27 23:59:00,253,69,0,0,0,0,272.73,0.0,0.01,0.0,0.0,1.07,0.29,0.0,Inputted Data,Country,Africa,The Republic of Uganda,,,,,,,32.290275,1.373333
+COVID-19_Baidu,2020-05-27 23:59:00,252,245,7,0,0,0,972.22,27.78,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,恩施州,,,,,109.488172,30.272156
+COVID-19_Baidu,2020-05-27 23:59:00,249,10,49,0,0,0,40.16,196.79,0.01,0.0,0.0,0.47,0.02,0.09,Inputted Data,Country,Asia,The Republic of Yemen,,,,,,,48.516388,15.552727
+COVID-19_Baidu,2020-05-27 23:59:00,242,240,2,0,0,0,991.74,8.26,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,长沙,,,,,112.938814,28.228209
+COVID-19_Baidu,2020-05-27 23:59:00,232,205,1,0,0,0,883.62,4.31,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Inner Mongolia,,,,,,111.765617,40.817498
+COVID-19_Baidu,2020-05-27 23:59:00,230,230,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangxi,南昌,,,,,115.858197,28.682892
+COVID-19_Baidu,2020-05-27 23:59:00,227,180,21,0,0,0,792.95,92.51,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,富山,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,213,71,1,0,0,0,333.33,4.69,0.01,0.0,0.0,0.27,0.09,0.0,Inputted Data,Country,Africa,The Republic of Mozambique,,,,,,,35.529562,-18.665695
+COVID-19_Baidu,2020-05-27 23:59:00,208,118,3,0,0,0,567.31,14.42,0.02,0.0,0.01,1.85,1.05,0.03,Inputted Data,Country,Africa,the Republic of Benin,,,,,,,2.315834,9.30769
+COVID-19_Baidu,2020-05-27 23:59:00,206,124,6,0,0,0,601.94,29.13,0.0,0.0,0.0,0.3,0.18,0.01,Inputted Data,Country,Asia,Republic Of The Union Of Myanmar,,,,,,,95.956223,21.913965
+COVID-19_Baidu,2020-05-27 23:59:00,198,189,9,0,0,0,954.55,45.45,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hubei,省直辖县级行政区划,潜江市,,,,112.896866,30.421215
+COVID-19_Baidu,2020-05-27 23:59:00,198,198,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Shanxi,,,,,,112.562398,37.873531
+COVID-19_Baidu,2020-05-27 23:59:00,197,195,0,0,0,0,989.85,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Guangdong,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,197,91,14,0,0,0,461.93,71.07,0.46,0.03,0.21,179.09,82.73,12.73,Inputted Data,Country,North America,Martinique,,,,,,,-61.02,14.64
+COVID-19_Baidu,2020-05-27 23:59:00,192,188,3,0,0,0,979.17,15.63,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Tianjin,,,,,,117.200983,39.084158
+COVID-19_Baidu,2020-05-27 23:59:00,187,187,0,0,0,0,1000.0,0.0,3.88,0.0,3.88,133.67,133.67,0.0,Inputted Data,Country,Europe,Faroe Islands,,,,,,,-6.911806,61.892635
+COVID-19_Baidu,2020-05-27 23:59:00,185,183,2,0,0,0,989.19,10.81,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Yunnan,,,,,,102.710002,25.045806
+COVID-19_Baidu,2020-05-27 23:59:00,181,181,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Zhejiang,杭州,,,,,120.15507,30.274084
+COVID-19_Baidu,2020-05-27 23:59:00,174,172,0,0,0,0,988.51,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Beijing,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,174,173,1,0,0,0,994.25,5.75,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,合肥,,,,,117.227239,31.820586
+COVID-19_Baidu,2020-05-27 23:59:00,170,143,5,0,0,0,841.18,29.41,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,关岛,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,169,162,6,0,0,0,958.58,35.5,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Hainan,,,,,,110.349228,20.017377
+COVID-19_Baidu,2020-05-27 23:59:00,168,145,9,0,0,0,863.1,53.57,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,茨城,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,167,145,3,0,0,0,868.26,17.96,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,广岛,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,161,115,14,0,0,0,714.29,86.96,0.36,0.03,0.26,90.45,64.61,7.87,Inputted Data,Country,North America,Guadeloupe,,,,,,,-61.551,16.265
+COVID-19_Baidu,2020-05-27 23:59:00,160,155,5,0,0,0,968.75,31.25,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,蚌埠,,,,,117.389719,32.916287
+COVID-19_Baidu,2020-05-27 23:59:00,158,93,0,0,0,0,588.61,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,仁川,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,157,152,5,0,0,0,968.15,31.85,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,郑州,,,,,113.625368,34.746599
+COVID-19_Baidu,2020-05-27 23:59:00,157,157,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Zhejiang,宁波,,,,,121.550357,29.874556
+COVID-19_Baidu,2020-05-27 23:59:00,157,147,0,0,0,0,936.31,0.0,5.63,0.0,5.27,22428.57,21000.0,0.0,Inputted Data,Country,Europe,Gibraltar,,,,,,,-5.35,36.14
+COVID-19_Baidu,2020-05-27 23:59:00,156,155,1,0,0,0,993.59,6.41,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,岳阳,,,,,113.128958,29.357104
+COVID-19_Baidu,2020-05-27 23:59:00,156,153,3,0,0,0,980.77,19.23,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,南阳,,,,,112.528321,32.990833
+COVID-19_Baidu,2020-05-27 23:59:00,155,129,0,0,0,0,832.26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Inner Mongolia,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,155,155,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,阜阳,,,,,115.814204,32.890124
+COVID-19_Baidu,2020-05-27 23:59:00,155,128,2,0,0,0,825.81,12.9,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Jilin,,,,,,125.32599,43.896536
+COVID-19_Baidu,2020-05-27 23:59:00,150,139,7,0,0,0,926.67,46.67,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,岐阜,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,149,112,19,0,0,0,751.68,127.52,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,群马,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,149,147,2,0,0,0,986.58,13.42,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Liaoning,,,,,,123.42944,41.835441
+COVID-19_Baidu,2020-05-27 23:59:00,148,43,0,0,0,0,290.54,0.0,0.33,0.0,0.1,582.68,169.29,0.0,Inputted Data,Country,Asia,Mongolia,,,,,,,103.846656,46.862496
+COVID-19_Baidu,2020-05-27 23:59:00,147,145,2,0,0,0,986.39,13.61,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Guizhou,,,,,,106.70741,26.598194
+COVID-19_Baidu,2020-05-27 23:59:00,146,146,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Zhejiang,台州,,,,,121.420757,28.656386
+COVID-19_Baidu,2020-05-27 23:59:00,145,141,0,0,0,0,972.41,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,忠清南道,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,145,142,3,0,0,0,979.31,20.69,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,成都,,,,,104.066541,30.572269
+COVID-19_Baidu,2020-05-27 23:59:00,144,135,3,0,0,0,937.5,20.83,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,釜山,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,142,134,6,0,0,0,943.66,42.25,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,冲绳,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,141,137,2,0,0,0,971.63,14.18,0.36,0.01,0.35,24.44,23.74,0.35,Inputted Data,Country,Asia,Brunei Darussalam,,,,,,,114.727669,4.535277
+COVID-19_Baidu,2020-05-27 23:59:00,139,139,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,驻马店,,,,,114.022298,33.011529
+COVID-19_Baidu,2020-05-27 23:59:00,139,137,2,0,0,0,985.61,14.39,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Gansu,,,,,,103.826308,36.059421
+COVID-19_Baidu,2020-05-27 23:59:00,139,62,11,0,0,0,446.04,79.14,0.19,0.01,0.08,0.65,0.29,0.05,Inputted Data,Country,South America,The Republic of Guyana,,,,,,,-58.93018,4.860416
+COVID-19_Baidu,2020-05-27 23:59:00,139,91,9,0,0,0,654.68,64.75,2.13,0.14,1.39,2622.64,1716.98,169.81,Inputted Data,Country,North America,Bermuda,,,,,,,-64.7505,32.3078
+COVID-19_Baidu,2020-05-27 23:59:00,137,63,1,0,0,0,459.85,7.3,3.09,0.02,1.42,522.9,240.46,3.82,Inputted Data,Country,North America,Cayman Islands,,,,,,,-81.24,19.2
+COVID-19_Baidu,2020-05-27 23:59:00,130,130,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangxi,新余,,,,,114.917346,27.817808
+COVID-19_Baidu,2020-05-27 23:59:00,124,122,0,0,0,0,983.87,0.0,0.01,0.0,0.01,0.68,0.67,0.0,Inputted Data,Country,Asia,Kingdom of Cambodia,,,,,,,104.990963,12.565679
+COVID-19_Baidu,2020-05-27 23:59:00,123,119,0,0,0,0,967.48,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,庆尚南道,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,123,123,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangxi,上饶,,,,,117.943433,28.454862
+COVID-19_Baidu,2020-05-27 23:59:00,122,109,8,0,0,0,893.44,65.57,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,福井,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,121,41,4,0,0,0,338.84,33.06,0.01,0.0,0.0,0.65,0.22,0.02,Inputted Data,Country,Asia,The Syrian Arab Republic,,,,,,,38.996815,34.802075
+COVID-19_Baidu,2020-05-27 23:59:00,120,117,3,0,0,0,975.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shaanxi,西安,,,,,108.940174,34.341568
+COVID-19_Baidu,2020-05-27 23:59:00,118,114,4,0,0,0,966.1,33.9,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,万州区,,,,108.408661,30.807667
+COVID-19_Baidu,2020-05-27 23:59:00,118,118,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangxi,九江,,,,,116.00193,29.705077
+COVID-19_Baidu,2020-05-27 23:59:00,116,108,8,0,0,0,931.03,68.97,0.09,0.01,0.08,22.62,21.06,1.56,Inputted Data,Country,North America,Republic of Trinidad and Tobago,,,,,,,-61.222503,10.691803
+COVID-19_Baidu,2020-05-27 23:59:00,113,111,1,0,0,0,982.3,8.85,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Shanghai,外地来沪人员,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,108,108,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,亳州,,,,,115.778676,33.844582
+COVID-19_Baidu,2020-05-27 23:59:00,106,106,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangxi,宜春,,,,,114.416778,27.815619
+COVID-19_Baidu,2020-05-27 23:59:00,103,0,3,0,0,0,0.0,29.13,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,大公主船,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,102,101,1,0,0,0,990.2,9.8,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,邵阳,,,,,111.467791,27.238892
+COVID-19_Baidu,2020-05-27 23:59:00,101,37,4,0,0,0,366.34,39.6,0.01,0.0,0.0,0.85,0.31,0.03,Inputted Data,Country,Africa,The Republic of Malawi,,,,,,,34.301525,-13.254308
+COVID-19_Baidu,2020-05-27 23:59:00,101,95,3,0,0,0,940.59,29.7,1.41,0.04,1.33,523.32,492.23,15.54,Inputted Data,Country,North America,Aruba,,,,,,,-69.968338,12.52111
+COVID-19_Baidu,2020-05-27 23:59:00,100,89,1,0,0,0,890.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,滋贺,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,100,46,11,0,0,0,460.0,110.0,0.33,0.04,0.15,7.17,3.3,0.79,Inputted Data,Country,North America,The Commonwealth of The Bahamas,,,,,,,-77.39628,25.03428
+COVID-19_Baidu,2020-05-27 23:59:00,99,98,1,0,0,0,989.9,10.1,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,东莞,,,,,113.751765,23.020536
+COVID-19_Baidu,2020-05-27 23:59:00,98,97,1,0,0,0,989.8,10.2,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,珠海,,,,,113.576726,22.270715
+COVID-19_Baidu,2020-05-27 23:59:00,98,90,4,0,0,0,918.37,40.82,2.97,0.12,2.73,49000.0,45000.0,2000.0,Inputted Data,Country,Europe,The Principality of Monaco,,,,,,,7.42,43.74
+COVID-19_Baidu,2020-05-27 23:59:00,93,93,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,南京,,,,,118.796877,32.060255
+COVID-19_Baidu,2020-05-27 23:59:00,92,71,7,0,0,0,771.74,76.09,0.32,0.02,0.25,213.46,164.73,16.24,Inputted Data,Country,North America,Barbados,,,,,,,-59.54,13.19
+COVID-19_Baidu,2020-05-27 23:59:00,91,82,2,0,0,0,901.1,21.98,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,奈良,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,91,88,3,0,0,0,967.03,32.97,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,商丘,,,,,115.65637,34.414172
+COVID-19_Baidu,2020-05-27 23:59:00,89,89,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,佛山,,,,,113.121416,23.021548
+COVID-19_Baidu,2020-05-27 23:59:00,88,86,1,0,0,0,977.27,11.36,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,宫城,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,87,87,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,苏州,,,,,120.585315,31.298886
+COVID-19_Baidu,2020-05-27 23:59:00,87,21,1,0,0,0,241.38,11.49,0.11,0.0,0.03,40.09,9.68,0.46,Inputted Data,Country,Africa,Union of Comoros,,,,,,,43.16,-11.4
+COVID-19_Baidu,2020-05-27 23:59:00,83,83,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,安庆,,,,,117.063754,30.543494
+COVID-19_Baidu,2020-05-27 23:59:00,82,74,0,0,0,0,902.44,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,新泻,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,82,82,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,常德,,,,,111.698497,29.031673
+COVID-19_Baidu,2020-05-27 23:59:00,82,55,1,0,0,0,670.73,12.2,2.34,0.03,1.57,512.5,343.75,6.25,Inputted Data,Country,Europe,Principality of Liechtenstein,,,,,,,9.56,47.17
+COVID-19_Baidu,2020-05-27 23:59:00,81,71,0,0,0,0,876.54,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,福岛,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,81,45,4,0,0,0,555.56,49.38,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,爱媛,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,80,80,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,株洲,,,,,113.134002,27.82755
+COVID-19_Baidu,2020-05-27 23:59:00,79,79,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,徐州,,,,,117.284124,34.205768
+COVID-19_Baidu,2020-05-27 23:59:00,78,78,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,甘孜,,,,,101.96231,30.04952
+COVID-19_Baidu,2020-05-27 23:59:00,77,59,15,0,0,0,766.23,194.81,2.06,0.4,1.58,3666.67,2809.52,714.29,Inputted Data,Country,North America,Sint Maarten,,,,,,,-63.05483,18.04248
+COVID-19_Baidu,2020-05-27 23:59:00,77,40,3,0,0,0,519.48,38.96,0.01,0.0,0.01,0.04,0.02,0.0,Inputted Data,Country,Africa,State of Libya,,,,,,,17.228331,26.3351
+COVID-19_Baidu,2020-05-27 23:59:00,76,64,0,0,0,0,842.11,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,长野,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,76,76,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,娄底,,,,,111.993497,27.700062
+COVID-19_Baidu,2020-05-27 23:59:00,76,75,1,0,0,0,986.84,13.16,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,周口,,,,,114.696951,33.626149
+COVID-19_Baidu,2020-05-27 23:59:00,76,75,1,0,0,0,986.84,13.16,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangxi,赣州,,,,,114.935029,25.831829
+COVID-19_Baidu,2020-05-27 23:59:00,76,73,3,0,0,0,960.53,39.47,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Xinjiang,,,,,,87.627704,43.793026
+COVID-19_Baidu,2020-05-27 23:59:00,75,70,1,0,0,0,933.33,13.33,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,静冈,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,75,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,朝阳区,,,,116.601144,39.948574
+COVID-19_Baidu,2020-05-27 23:59:00,75,75,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Ningxia,,,,,,106.258754,38.471317
+COVID-19_Baidu,2020-05-27 23:59:00,74,69,3,0,0,0,932.43,40.54,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,高知,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,72,72,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangxi,抚州,,,,,116.358181,27.949217
+COVID-19_Baidu,2020-05-27 23:59:00,72,71,1,0,0,0,986.11,13.89,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Fujian,福州,,,,,119.296494,26.074507
+COVID-19_Baidu,2020-05-27 23:59:00,71,18,4,0,0,0,253.52,56.34,0.01,0.0,0.0,0.06,0.01,0.0,Inputted Data,Country,Africa,the Republic of Angola,,,,,,,17.873887,-11.202692
+COVID-19_Baidu,2020-05-27 23:59:00,69,65,0,0,0,0,942.03,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,山形,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,69,61,6,0,0,0,884.06,86.96,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,美属维尔京群岛,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,69,69,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,六安,,,,,116.521854,31.733699
+COVID-19_Baidu,2020-05-27 23:59:00,67,67,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,中山,,,,,113.392782,22.517645
+COVID-19_Baidu,2020-05-27 23:59:00,66,66,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,淮安,,,,,119.015285,33.610353
+COVID-19_Baidu,2020-05-27 23:59:00,65,47,0,0,0,0,723.08,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,栃木,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,65,64,1,0,0,0,984.62,15.38,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,青岛,,,,,120.382639,36.067082
+COVID-19_Baidu,2020-05-27 23:59:00,64,64,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Shanxi,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,64,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,海淀区,,,,116.329519,39.972134
+COVID-19_Baidu,2020-05-27 23:59:00,63,54,3,0,0,0,857.14,47.62,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,和歌山,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,63,63,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Shaanxi,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,62,62,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,惠州,,,,,114.416196,23.111847
+COVID-19_Baidu,2020-05-27 23:59:00,61,60,0,0,0,0,983.61,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Fujian,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,61,60,1,0,0,0,983.61,16.39,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,浦东新区,,,,121.544379,31.221517
+COVID-19_Baidu,2020-05-27 23:59:00,60,57,1,0,0,0,950.0,16.67,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,山梨,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,60,57,1,0,0,0,950.0,16.67,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,大分,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,60,46,0,0,0,0,766.67,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,忠清北道,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,60,58,2,0,0,0,966.67,33.33,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,宝坻区,,,,117.309863,39.717379
+COVID-19_Baidu,2020-05-27 23:59:00,60,60,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,益阳,,,,,112.35518,28.55386
+COVID-19_Baidu,2020-05-27 23:59:00,60,60,0,0,0,0,1000.0,0.0,0.22,0.0,0.22,14.4,14.4,0.0,Inputted Data,Country,Oceania,French Polynesia,,,,,,,-149.41,-17.68
+COVID-19_Baidu,2020-05-27 23:59:00,58,57,1,0,0,0,982.76,17.24,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,平顶山,,,,,113.192661,33.766169
+COVID-19_Baidu,2020-05-27 23:59:00,58,57,1,0,0,0,982.76,17.24,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hebei,唐山,,,,,118.180193,39.630867
+COVID-19_Baidu,2020-05-27 23:59:00,57,54,3,0,0,0,947.37,52.63,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,新乡,,,,,113.9268,35.303004
+COVID-19_Baidu,2020-05-27 23:59:00,56,48,3,0,0,0,857.14,53.57,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,江原道,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,56,55,0,0,0,0,982.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Tianjin,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,56,56,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Fujian,莆田,,,,,119.007777,25.454084
+COVID-19_Baidu,2020-05-27 23:59:00,56,25,4,0,0,0,446.43,71.43,0.0,0.0,0.0,0.14,0.06,0.01,Inputted Data,Country,Africa,Zimbabwe,,,,,,,29.154857,-19.015438
+COVID-19_Baidu,2020-05-27 23:59:00,55,55,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,南宁,,,,,108.366543,22.817002
+COVID-19_Baidu,2020-05-27 23:59:00,55,55,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Zhejiang,金华,,,,,119.647444,29.079059
+COVID-19_Baidu,2020-05-27 23:59:00,55,55,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,无锡,,,,,120.31191,31.491169
+COVID-19_Baidu,2020-05-27 23:59:00,54,53,1,0,0,0,981.48,18.52,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hainan,三亚,,,,,109.511909,18.252847
+COVID-19_Baidu,2020-05-27 23:59:00,53,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,西城区,,,,116.365868,39.912289
+COVID-19_Baidu,2020-05-27 23:59:00,53,53,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,昆明,,,,,102.832891,24.880095
+COVID-19_Baidu,2020-05-27 23:59:00,53,53,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,安阳,,,,,114.392392,36.097577
+COVID-19_Baidu,2020-05-27 23:59:00,52,49,3,0,0,0,942.31,57.69,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,双鸭山,,,,,131.159133,46.646508
+COVID-19_Baidu,2020-05-27 23:59:00,51,51,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,常州,,,,,119.973987,31.810689
+COVID-19_Baidu,2020-05-27 23:59:00,50,42,1,0,0,0,840.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,蔚山,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,50,50,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Zhejiang,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,49,49,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,临沂,,,,,118.356448,35.104672
+COVID-19_Baidu,2020-05-27 23:59:00,48,37,3,0,0,0,770.83,62.5,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,熊本,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,48,48,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,衡阳,,,,,112.571997,26.89323
+COVID-19_Baidu,2020-05-27 23:59:00,48,48,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,连云港,,,,,119.221611,34.596653
+COVID-19_Baidu,2020-05-27 23:59:00,48,22,1,0,0,0,458.33,20.83,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jilin,吉林,,,,,126.549576,43.837883
+COVID-19_Baidu,2020-05-27 23:59:00,48,45,3,0,0,0,937.5,62.5,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hebei,沧州,,,,,116.838834,38.304477
+COVID-19_Baidu,2020-05-27 23:59:00,47,34,0,0,0,0,723.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,佐贺,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,47,47,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,世宗,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,47,47,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Gansu,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,47,47,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,烟台,,,,,121.447935,37.463822
+COVID-19_Baidu,2020-05-27 23:59:00,47,47,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,济南,,,,,117.119999,36.651216
+COVID-19_Baidu,2020-05-27 23:59:00,47,47,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Fujian,泉州,,,,,118.675675,24.874132
+COVID-19_Baidu,2020-05-27 23:59:00,47,43,4,0,0,0,914.89,85.11,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,绥化,,,,,126.968887,46.653845
+COVID-19_Baidu,2020-05-27 23:59:00,46,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,钻石公主船,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,46,46,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Zhejiang,嘉兴,,,,,120.755486,30.746129
+COVID-19_Baidu,2020-05-27 23:59:00,46,46,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,鸡西,,,,,130.969333,45.295075
+COVID-19_Baidu,2020-05-27 23:59:00,45,40,1,0,0,0,888.89,22.22,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,三重,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,45,40,1,0,0,0,888.89,22.22,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,大田,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,45,45,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jilin,长春,,,,,125.323544,43.817071
+COVID-19_Baidu,2020-05-27 23:59:00,45,45,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Macau,,,,,,113.543028,22.186835
+COVID-19_Baidu,2020-05-27 23:59:00,44,43,1,0,0,0,977.27,22.73,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,北海,,,,,109.119927,21.481254
+COVID-19_Baidu,2020-05-27 23:59:00,44,44,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,永州,,,,,111.613445,26.420394
+COVID-19_Baidu,2020-05-27 23:59:00,44,44,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,潍坊,,,,,119.161755,36.706774
+COVID-19_Baidu,2020-05-27 23:59:00,43,3,0,0,0,0,69.77,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,丰台区,,,,116.287149,39.858427
+COVID-19_Baidu,2020-05-27 23:59:00,43,42,1,0,0,0,976.74,23.26,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,齐齐哈尔,,,,,123.918186,47.354348
+COVID-19_Baidu,2020-05-27 23:59:00,42,42,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,达州,,,,,107.468023,31.209571
+COVID-19_Baidu,2020-05-27 23:59:00,42,42,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Zhejiang,绍兴,,,,,120.580232,30.029752
+COVID-19_Baidu,2020-05-27 23:59:00,42,20,1,0,0,0,476.19,23.81,0.0,0.0,0.0,1.51,0.72,0.04,Inputted Data,Country,Africa,The Republic of Burundi,,,,,,,29.918886,-3.373056
+COVID-19_Baidu,2020-05-27 23:59:00,41,41,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,宿州,,,,,116.964356,33.646373
+COVID-19_Baidu,2020-05-27 23:59:00,41,41,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hebei,张家口,,,,,114.887543,40.824418
+COVID-19_Baidu,2020-05-27 23:59:00,40,40,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,怀化,,,,,109.998488,27.554978
+COVID-19_Baidu,2020-05-27 23:59:00,40,40,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,南通,,,,,120.894291,31.980171
+COVID-19_Baidu,2020-05-27 23:59:00,39,16,0,0,0,0,410.26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,大兴区,,,,116.341014,39.784747
+COVID-19_Baidu,2020-05-27 23:59:00,39,39,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,南充,,,,,106.110698,30.837793
+COVID-19_Baidu,2020-05-27 23:59:00,39,39,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hainan,海口,,,,,110.198293,20.044001
+COVID-19_Baidu,2020-05-27 23:59:00,39,39,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,郴州,,,,,113.014717,25.770509
+COVID-19_Baidu,2020-05-27 23:59:00,39,38,1,0,0,0,974.36,25.64,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,许昌,,,,,113.85264,34.035506
+COVID-19_Baidu,2020-05-27 23:59:00,39,39,0,0,0,0,1000.0,0.0,0.01,0.0,0.01,0.32,0.32,0.0,Inputted Data,Country,Africa,the Commonwealth of Eritrea,,,,,,,39.782334,15.179384
+COVID-19_Baidu,2020-05-27 23:59:00,38,38,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,聊城,,,,,115.985371,36.456703
+COVID-19_Baidu,2020-05-27 23:59:00,38,37,1,0,0,0,973.68,26.32,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,威海,,,,,122.120419,37.513068
+COVID-19_Baidu,2020-05-27 23:59:00,38,38,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,马鞍山,,,,,118.506759,31.670452
+COVID-19_Baidu,2020-05-27 23:59:00,37,35,0,0,0,0,945.95,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,山口,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,37,35,2,0,0,0,945.95,54.05,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,德州,,,,,116.357464,37.434092
+COVID-19_Baidu,2020-05-27 23:59:00,37,37,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,泰州,,,,,119.923116,32.455778
+COVID-19_Baidu,2020-05-27 23:59:00,37,37,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shanxi,晋中,,,,,112.752694,37.687024
+COVID-19_Baidu,2020-05-27 23:59:00,36,36,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Zhejiang,省十里丰监狱,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,36,34,2,0,0,0,944.44,55.56,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Gansu,兰州,,,,,103.834303,36.061089
+COVID-19_Baidu,2020-05-27 23:59:00,36,35,1,0,0,0,972.22,27.78,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guizhou,贵阳,,,,,106.630153,26.647661
+COVID-19_Baidu,2020-05-27 23:59:00,36,36,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,湘潭,,,,,112.944049,27.829738
+COVID-19_Baidu,2020-05-27 23:59:00,36,36,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,漯河,,,,,114.016539,33.581412
+COVID-19_Baidu,2020-05-27 23:59:00,35,33,2,0,0,0,942.86,57.14,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,泰安,,,,,117.087614,36.200252
+COVID-19_Baidu,2020-05-27 23:59:00,35,35,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Fujian,厦门,,,,,118.089425,24.479833
+COVID-19_Baidu,2020-05-27 23:59:00,35,20,1,0,0,0,571.43,28.57,0.02,0.0,0.01,0.06,0.03,0.0,Inputted Data,Country,Africa,The Republic of Botswana,,,,,,,24.684866,-22.328474
+COVID-19_Baidu,2020-05-27 23:59:00,34,34,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Ningxia,银川,,,,,106.230909,38.487193
+COVID-19_Baidu,2020-05-27 23:59:00,34,34,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,芜湖,,,,,118.432941,31.352859
+COVID-19_Baidu,2020-05-27 23:59:00,33,33,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangxi,萍乡,,,,,113.854556,27.622768
+COVID-19_Baidu,2020-05-27 23:59:00,32,32,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guizhou,遵义,,,,,106.927389,27.725654
+COVID-19_Baidu,2020-05-27 23:59:00,32,32,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,桂林,,,,,110.290194,25.273566
+COVID-19_Baidu,2020-05-27 23:59:00,32,31,1,0,0,0,968.75,31.25,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,焦作,,,,,113.241823,35.215892
+COVID-19_Baidu,2020-05-27 23:59:00,32,32,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hebei,保定,,,,,115.464806,38.873891
+COVID-19_Baidu,2020-05-27 23:59:00,32,32,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hebei,邯郸,,,,,114.538961,36.625657
+COVID-19_Baidu,2020-05-27 23:59:00,31,30,1,0,0,0,967.74,32.26,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,洛阳,,,,,112.45404,34.619682
+COVID-19_Baidu,2020-05-27 23:59:00,31,31,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,沈阳,,,,,123.431474,41.805698
+COVID-19_Baidu,2020-05-27 23:59:00,30,30,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,光州市,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,30,30,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,广安,,,,,106.633212,30.455961
+COVID-19_Baidu,2020-05-27 23:59:00,30,29,1,0,0,0,966.67,33.33,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,淄博,,,,,118.054927,36.813487
+COVID-19_Baidu,2020-05-27 23:59:00,30,30,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hebei,廊坊,,,,,116.683752,39.538047
+COVID-19_Baidu,2020-05-27 23:59:00,29,10,0,0,0,0,344.83,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,昌平区,,,,116.231204,40.22066
+COVID-19_Baidu,2020-05-27 23:59:00,29,29,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,铜陵,,,,,117.812079,30.945429
+COVID-19_Baidu,2020-05-27 23:59:00,29,29,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hebei,石家庄,,,,,114.514859,38.042306
+COVID-19_Baidu,2020-05-27 23:59:00,28,28,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,香川,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,28,28,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,江北区,,,,106.574271,29.606703
+COVID-19_Baidu,2020-05-27 23:59:00,28,28,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Ningxia,吴忠,,,,,106.198393,37.99746
+COVID-19_Baidu,2020-05-27 23:59:00,28,27,1,0,0,0,964.29,35.71,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,河池,,,,,108.085261,24.692931
+COVID-19_Baidu,2020-05-27 23:59:00,27,24,1,0,0,0,888.89,37.04,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,青森,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,27,27,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,淮北,,,,,116.798265,33.955844
+COVID-19_Baidu,2020-05-27 23:59:00,27,27,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,淮南,,,,,116.999932,32.625478
+COVID-19_Baidu,2020-05-27 23:59:00,27,27,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,盐城,,,,,120.163561,33.347382
+COVID-19_Baidu,2020-05-27 23:59:00,27,26,1,0,0,0,962.96,37.04,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,大庆,,,,,125.103784,46.589309
+COVID-19_Baidu,2020-05-27 23:59:00,27,6,0,0,0,0,222.22,0.0,0.04,0.0,0.01,0.57,0.13,0.0,Inputted Data,Country,Asia,Kingdom of Bhutan,,,,,,,90.433601,27.514162
+COVID-19_Baidu,2020-05-27 23:59:00,26,26,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shaanxi,安康,,,,,109.029022,32.684714
+COVID-19_Baidu,2020-05-27 23:59:00,26,26,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shaanxi,汉中,,,,,107.023323,33.06748
+COVID-19_Baidu,2020-05-27 23:59:00,26,26,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,开封,,,,,114.307581,34.797239
+COVID-19_Baidu,2020-05-27 23:59:00,26,26,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Fujian,宁德,,,,,119.547932,26.665617
+COVID-19_Baidu,2020-05-27 23:59:00,25,25,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,冈山,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,25,24,0,0,0,0,960.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Shandong,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,25,2,0,0,0,0,80.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Beijing,外地来京人员,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,25,25,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,县,云阳县,,,,108.697324,30.930613
+COVID-19_Baidu,2020-05-27 23:59:00,25,25,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,昭通,,,,,103.717465,27.338257
+COVID-19_Baidu,2020-05-27 23:59:00,25,25,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,汕头,,,,,116.681972,23.354091
+COVID-19_Baidu,2020-05-27 23:59:00,25,25,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,牡丹江,,,,,129.633168,44.551653
+COVID-19_Baidu,2020-05-27 23:59:00,25,18,1,0,0,0,720.0,40.0,0.02,0.0,0.01,2.21,1.59,0.09,Inputted Data,Country,Africa,Islamic Republic of Gambia,,,,,,,-15.310139,13.443182
+COVID-19_Baidu,2020-05-27 23:59:00,25,19,3,0,0,0,760.0,120.0,0.29,0.03,0.22,56.43,42.89,6.77,Inputted Data,Country,North America,Antigua and Barbuda,,,,,,,-61.48,17.2
+COVID-19_Baidu,2020-05-27 23:59:00,24,20,0,0,0,0,833.33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,岛根,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,24,21,0,0,0,0,875.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Sichuan,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,24,24,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,巴中,,,,,106.747477,31.867903
+COVID-19_Baidu,2020-05-27 23:59:00,24,24,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,泸州,,,,,105.442258,28.87181
+COVID-19_Baidu,2020-05-27 23:59:00,24,24,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,柳州,,,,,109.415953,24.325502
+COVID-19_Baidu,2020-05-27 23:59:00,24,24,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,枣庄,,,,,117.323725,34.810487
+COVID-19_Baidu,2020-05-27 23:59:00,24,24,0,0,0,0,1000.0,0.0,0.02,0.0,0.02,1.6,1.6,0.0,Inputted Data,Country,Asia,Democratic Republic of East Timor,,,,,,,125.727539,-8.874217
+COVID-19_Baidu,2020-05-27 23:59:00,23,23,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,合川区,,,,106.27613,29.972084
+COVID-19_Baidu,2020-05-27 23:59:00,23,23,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,綦江区,,,,106.651362,29.028067
+COVID-19_Baidu,2020-05-27 23:59:00,23,23,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Xinjiang,乌鲁木齐,,,,,87.616848,43.825592
+COVID-19_Baidu,2020-05-27 23:59:00,23,23,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guizhou,毕节,,,,,105.283992,27.302589
+COVID-19_Baidu,2020-05-27 23:59:00,23,23,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,江门,,,,,113.081901,22.578738
+COVID-19_Baidu,2020-05-27 23:59:00,23,23,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,扬州,,,,,119.412966,32.39421
+COVID-19_Baidu,2020-05-27 23:59:00,23,22,1,0,0,0,956.52,43.48,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hebei,邢台,,,,,114.504844,37.070589
+COVID-19_Baidu,2020-05-27 23:59:00,23,18,0,0,0,0,782.61,0.0,0.21,0.0,0.17,66.86,52.33,0.0,Inputted Data,Country,North America,Grenada,,,,,,,-61.68,12.12
+COVID-19_Baidu,2020-05-27 23:59:00,22,13,2,0,0,0,590.91,90.91,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,北马里亚纳群岛,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,22,22,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Jiangsu,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,22,22,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,县,奉节县,,,,109.463987,31.018498
+COVID-19_Baidu,2020-05-27 23:59:00,22,22,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,长寿区,,,,107.081283,29.857996
+COVID-19_Baidu,2020-05-27 23:59:00,22,21,1,0,0,0,954.55,45.45,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,宝山区,,,,121.489612,31.405457
+COVID-19_Baidu,2020-05-27 23:59:00,22,22,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,内江,,,,,105.058433,29.580228
+COVID-19_Baidu,2020-05-27 23:59:00,22,22,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,绵阳,,,,,104.679114,31.46745
+COVID-19_Baidu,2020-05-27 23:59:00,22,22,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,湛江,,,,,110.359377,21.270707
+COVID-19_Baidu,2020-05-27 23:59:00,22,22,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangxi,吉安,,,,,114.992509,27.113443
+COVID-19_Baidu,2020-05-27 23:59:00,22,14,0,0,0,0,636.36,0.0,0.01,0.0,0.01,0.03,0.02,0.0,Inputted Data,Country,Africa,The Republic of Namibia,,,,,,,18.49041,-22.95764
+COVID-19_Baidu,2020-05-27 23:59:00,21,19,0,0,0,0,904.76,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,全罗北道,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,21,21,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Liaoning,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,21,21,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,县,忠县,,,,108.039002,30.29956
+COVID-19_Baidu,2020-05-27 23:59:00,21,20,1,0,0,0,952.38,47.62,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,开州区,,,,108.393135,31.160711
+COVID-19_Baidu,2020-05-27 23:59:00,21,20,1,0,0,0,952.38,47.62,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,九龙坡区,,,,106.53192,29.51419
+COVID-19_Baidu,2020-05-27 23:59:00,21,21,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shanxi,太原,,,,,112.548879,37.87059
+COVID-19_Baidu,2020-05-27 23:59:00,20,20,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,县,垫江县,,,,107.33339,30.327717
+COVID-19_Baidu,2020-05-27 23:59:00,20,20,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,渝中区,,,,106.568892,29.55275
+COVID-19_Baidu,2020-05-27 23:59:00,20,20,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Fujian,南平,,,,,118.177708,26.641768
+COVID-19_Baidu,2020-05-27 23:59:00,20,20,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Fujian,漳州,,,,,117.647481,24.512948
+COVID-19_Baidu,2020-05-27 23:59:00,19,19,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Jilin,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,19,19,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,闵行区,,,,121.381709,31.112813
+COVID-19_Baidu,2020-05-27 23:59:00,19,1,0,0,0,0,52.63,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,通州区,,,,116.656435,39.909946
+COVID-19_Baidu,2020-05-27 23:59:00,19,19,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,防城港,,,,,108.353846,21.68686
+COVID-19_Baidu,2020-05-27 23:59:00,19,18,1,0,0,0,947.37,52.63,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,肇庆,,,,,112.465091,23.047191
+COVID-19_Baidu,2020-05-27 23:59:00,19,19,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,鹤壁,,,,,114.297272,35.747225
+COVID-19_Baidu,2020-05-27 23:59:00,19,19,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shanxi,运城,,,,,111.007528,35.026412
+COVID-19_Baidu,2020-05-27 23:59:00,19,14,0,0,0,0,736.84,0.0,0.0,0.0,0.0,0.08,0.06,0.0,Inputted Data,Country,Asia,Lao People's Democratic Republic,,,,,,,102.495496,19.85627
+COVID-19_Baidu,2020-05-27 23:59:00,18,17,0,0,0,0,944.44,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,全罗南道,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,18,18,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,潼南区,,,,105.840556,30.191013
+COVID-19_Baidu,2020-05-27 23:59:00,18,17,1,0,0,0,944.44,55.56,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,徐汇区,,,,121.437866,31.19919
+COVID-19_Baidu,2020-05-27 23:59:00,18,18,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Xinjiang,伊犁,,,,,81.324136,43.916823
+COVID-19_Baidu,2020-05-27 23:59:00,18,18,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,德阳,,,,,104.397894,31.126855
+COVID-19_Baidu,2020-05-27 23:59:00,18,18,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,菏泽,,,,,115.480656,35.23375
+COVID-19_Baidu,2020-05-27 23:59:00,18,18,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangxi,鹰潭,,,,,117.069202,28.260189
+COVID-19_Baidu,2020-05-27 23:59:00,18,18,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,大连,,,,,121.614682,38.914003
+COVID-19_Baidu,2020-05-27 23:59:00,18,18,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Qinghai,,,,,,101.780199,36.620901
+COVID-19_Baidu,2020-05-27 23:59:00,18,14,1,0,0,0,777.78,55.56,0.13,0.01,0.1,40.54,31.53,2.25,Inputted Data,Country,North America,Curaçao,,,,,,,-68.984787,12.134662
+COVID-19_Baidu,2020-05-27 23:59:00,18,14,0,0,0,0,777.78,0.0,0.17,0.0,0.13,46.27,35.99,0.0,Inputted Data,Country,North America,Saint Vincent and the Grenadines,,,,,,,-61.2274208,13.1552696
+COVID-19_Baidu,2020-05-27 23:59:00,18,18,0,0,0,0,1000.0,0.0,0.08,0.0,0.08,0.94,0.94,0.0,Inputted Data,Country,Oceania,New Caledonia,,,,,,,165.618042,-20.904305
+COVID-19_Baidu,2020-05-27 23:59:00,18,18,0,0,0,0,1000.0,0.0,0.11,0.0,0.11,29.22,29.22,0.0,Inputted Data,Country,North America,Saint Lucia,,,,,,,-60.98,13.91
+COVID-19_Baidu,2020-05-27 23:59:00,18,15,0,0,0,0,833.33,0.0,0.02,0.0,0.02,0.99,0.82,0.0,Inputted Data,Country,Oceania,The Republic of Fiji,,,,,,,178.065032,-17.713371
+COVID-19_Baidu,2020-05-27 23:59:00,18,16,2,0,0,0,888.89,111.11,0.06,0.01,0.05,0.78,0.7,0.09,Inputted Data,Country,North America,Belize,,,,,,,-88.49765,17.189877
+COVID-19_Baidu,2020-05-27 23:59:00,17,16,1,0,0,0,941.18,58.82,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,长崎,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,17,16,0,0,0,0,941.18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,宫崎,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,17,17,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Chongqing,两江新区,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,17,17,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,渝北区,,,,106.631187,29.718143
+COVID-19_Baidu,2020-05-27 23:59:00,17,17,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shaanxi,咸阳,,,,,108.708991,34.329605
+COVID-19_Baidu,2020-05-27 23:59:00,17,17,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guizhou,黔南,,,,,107.522097,26.254092
+COVID-19_Baidu,2020-05-27 23:59:00,17,17,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,遂宁,,,,,105.592898,30.532847
+COVID-19_Baidu,2020-05-27 23:59:00,17,17,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,濮阳,,,,,115.029215,35.761829
+COVID-19_Baidu,2020-05-27 23:59:00,17,17,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,池州,,,,,117.491568,30.6648
+COVID-19_Baidu,2020-05-27 23:59:00,17,17,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Zhejiang,丽水,,,,,119.922796,28.46763
+COVID-19_Baidu,2020-05-27 23:59:00,17,17,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,七台河,,,,,131.003138,45.771726
+COVID-19_Baidu,2020-05-27 23:59:00,16,16,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,秋田,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,16,15,1,0,0,0,937.5,62.5,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,静安区,,,,121.459384,31.247105
+COVID-19_Baidu,2020-05-27 23:59:00,16,3,0,0,0,0,187.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,房山区,,,,116.143267,39.749144
+COVID-19_Baidu,2020-05-27 23:59:00,16,16,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,攀枝花,,,,,101.718637,26.582347
+COVID-19_Baidu,2020-05-27 23:59:00,16,16,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,梅州,,,,,116.122238,24.288615
+COVID-19_Baidu,2020-05-27 23:59:00,16,16,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,日照,,,,,119.526888,35.416377
+COVID-19_Baidu,2020-05-27 23:59:00,16,16,0,0,0,0,1000.0,0.0,0.22,0.0,0.22,21.22,21.22,0.0,Inputted Data,Country,North America,The Commonwealth of Dominica,,,,,,,-61.370976,15.414999
+COVID-19_Baidu,2020-05-27 23:59:00,15,15,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Chongqing,石柱县,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,15,15,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,南岸区,,,,106.644428,29.500297
+COVID-19_Baidu,2020-05-27 23:59:00,15,14,1,0,0,0,933.33,66.67,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,河东区,,,,117.251587,39.128291
+COVID-19_Baidu,2020-05-27 23:59:00,15,15,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Qinghai,西宁,,,,,101.778228,36.617144
+COVID-19_Baidu,2020-05-27 23:59:00,15,15,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shaanxi,渭南,,,,,109.509786,34.499995
+COVID-19_Baidu,2020-05-27 23:59:00,15,14,1,0,0,0,933.33,66.67,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,西双版纳,,,,,100.797777,22.007351
+COVID-19_Baidu,2020-05-27 23:59:00,15,14,1,0,0,0,933.33,66.67,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hainan,儋州,,,,,109.580811,19.521134
+COVID-19_Baidu,2020-05-27 23:59:00,15,15,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,滨州,,,,,117.970703,37.38199
+COVID-19_Baidu,2020-05-27 23:59:00,15,15,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,佳木斯,,,,,130.318917,46.799922
+COVID-19_Baidu,2020-05-27 23:59:00,15,14,1,0,0,0,933.33,66.67,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jilin,四平,,,,,124.350398,43.166419
+COVID-19_Baidu,2020-05-27 23:59:00,15,15,0,0,0,0,1000.0,0.0,0.29,0.0,0.29,57.47,57.47,0.0,Inputted Data,Country,North America,The Federation of Saint Kitts and Nevis,,,,,,,-62.43,17.18
+COVID-19_Baidu,2020-05-27 23:59:00,14,14,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,包机,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,14,13,0,0,0,0,928.57,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,济州岛,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,14,14,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,县,巫溪县,,,,109.570062,31.398604
+COVID-19_Baidu,2020-05-27 23:59:00,14,14,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,大足区,,,,105.721733,29.707032
+COVID-19_Baidu,2020-05-27 23:59:00,14,14,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,松江区,,,,121.227747,31.032243
+COVID-19_Baidu,2020-05-27 23:59:00,14,11,0,0,0,0,785.71,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,石景山区,,,,116.222982,39.906611
+COVID-19_Baidu,2020-05-27 23:59:00,14,1,0,0,0,0,71.43,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,东城区,,,,116.416357,39.928353
+COVID-19_Baidu,2020-05-27 23:59:00,14,13,1,0,0,0,928.57,71.43,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,玉溪,,,,,102.546543,24.352036
+COVID-19_Baidu,2020-05-27 23:59:00,14,14,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,阳江,,,,,111.982232,21.857958
+COVID-19_Baidu,2020-05-27 23:59:00,14,14,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,茂名,,,,,110.925456,21.662999
+COVID-19_Baidu,2020-05-27 23:59:00,14,14,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Fujian,三明,,,,,117.638678,26.263406
+COVID-19_Baidu,2020-05-27 23:59:00,14,14,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Zhejiang,衢州,,,,,118.859457,28.970079
+COVID-19_Baidu,2020-05-27 23:59:00,14,14,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,黑河,,,,,127.52856,50.245329
+COVID-19_Baidu,2020-05-27 23:59:00,13,13,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hainan,省直辖县级行政区划,万宁市,,,,110.388793,18.796216
+COVID-19_Baidu,2020-05-27 23:59:00,13,13,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,长宁区,,,,121.424624,31.220367
+COVID-19_Baidu,2020-05-27 23:59:00,13,13,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shaanxi,宝鸡,,,,,107.237974,34.361979
+COVID-19_Baidu,2020-05-27 23:59:00,13,13,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,大理,,,,,100.267638,25.606486
+COVID-19_Baidu,2020-05-27 23:59:00,13,13,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,曲靖,,,,,103.796167,25.489999
+COVID-19_Baidu,2020-05-27 23:59:00,13,13,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,凉山,,,,,102.267335,27.88161
+COVID-19_Baidu,2020-05-27 23:59:00,13,13,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,滁州,,,,,118.317106,32.301556
+COVID-19_Baidu,2020-05-27 23:59:00,13,13,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,宿迁,,,,,118.275198,33.963232
+COVID-19_Baidu,2020-05-27 23:59:00,13,13,0,0,0,0,1000.0,0.0,4.93,0.0,4.93,1.07,1.07,0.0,Inputted Data,Country,South America,Falkland Islands,,,,,,,-59.523613,-51.796253
+COVID-19_Baidu,2020-05-27 23:59:00,12,12,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,河北区,,,,117.196648,39.147869
+COVID-19_Baidu,2020-05-27 23:59:00,12,12,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Gansu,天水,,,,,105.724947,34.580863
+COVID-19_Baidu,2020-05-27 23:59:00,12,12,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,宜宾,,,,,104.643215,28.751768
+COVID-19_Baidu,2020-05-27 23:59:00,12,12,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,清远,,,,,113.056031,23.681763
+COVID-19_Baidu,2020-05-27 23:59:00,12,12,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,镇江,,,,,119.425836,32.187849
+COVID-19_Baidu,2020-05-27 23:59:00,12,11,1,0,0,0,916.67,83.33,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,葫芦岛,,,,,120.836932,40.711052
+COVID-19_Baidu,2020-05-27 23:59:00,12,12,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,锦州,,,,,121.127003,41.095119
+COVID-19_Baidu,2020-05-27 23:59:00,12,12,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shanxi,大同,,,,,113.300129,40.076762
+COVID-19_Baidu,2020-05-27 23:59:00,12,2,0,0,0,0,166.67,0.0,13.03,0.0,2.17,0.0,0.0,0.0,Inputted Data,Country,Europe,Vatican City State,,,,,,,12.453389,41.902916
+COVID-19_Baidu,2020-05-27 23:59:00,12,10,1,0,0,0,833.33,83.33,0.58,0.05,0.49,27.91,23.26,2.33,Inputted Data,Country,North America,Turks and Caicos Islands,,,,,,,-72.305832,21.804132
+COVID-19_Baidu,2020-05-27 23:59:00,12,11,0,0,0,0,916.67,0.0,0.21,0.0,0.2,0.01,0.01,0.0,Inputted Data,Country,North America,Greenland,,,,,,,-42.604303,71.706936
+COVID-19_Baidu,2020-05-27 23:59:00,11,11,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Yunnan,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,11,11,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hubei,省直辖县级行政区划,神农架林区,,,,110.680448,31.743483
+COVID-19_Baidu,2020-05-27 23:59:00,11,11,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,普陀区,,,,121.395555,31.24984
+COVID-19_Baidu,2020-05-27 23:59:00,11,11,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,来宾,,,,,109.221465,23.750306
+COVID-19_Baidu,2020-05-27 23:59:00,11,11,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,玉林,,,,,110.164756,22.636379
+COVID-19_Baidu,2020-05-27 23:59:00,11,11,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,盘锦,,,,,122.070714,41.119997
+COVID-19_Baidu,2020-05-27 23:59:00,11,11,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,丹东,,,,,124.354706,40.000499
+COVID-19_Baidu,2020-05-27 23:59:00,11,11,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Inner Mongolia,鄂尔多斯,,,,,109.781327,39.608266
+COVID-19_Baidu,2020-05-27 23:59:00,11,11,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Inner Mongolia,包头,,,,,109.840347,40.657449
+COVID-19_Baidu,2020-05-27 23:59:00,11,11,0,0,0,0,1000.0,0.0,0.12,0.0,0.12,24.18,24.18,0.0,Inputted Data,Country,Africa,the Republic of Seychelles,,,,,,,55.49,-4.68
+COVID-19_Baidu,2020-05-27 23:59:00,11,9,1,0,0,0,818.18,90.91,0.02,0.0,0.02,0.07,0.06,0.01,Inputted Data,Country,South America,The Republic of Suriname,,,,,,,-56.027783,3.919305
+COVID-19_Baidu,2020-05-27 23:59:00,11,10,1,0,0,0,909.09,90.91,1.18,0.11,1.07,107.84,98.04,9.8,Inputted Data,Country,North America,Montserrat,,,,,,,-62.19,16.74
+COVID-19_Baidu,2020-05-27 23:59:00,10,9,0,0,0,0,900.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,鹿儿岛,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,10,10,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Hebei,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,10,9,1,0,0,0,900.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Xinjiang,第四师,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,10,10,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,县,巫山县,,,,109.879153,31.074834
+COVID-19_Baidu,2020-05-27 23:59:00,10,10,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,县,丰都县,,,,107.730895,29.8635
+COVID-19_Baidu,2020-05-27 23:59:00,10,10,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,铜梁区,,,,106.056404,29.844811
+COVID-19_Baidu,2020-05-27 23:59:00,10,10,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,顺义区,,,,116.654561,40.130347
+COVID-19_Baidu,2020-05-27 23:59:00,10,10,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guizhou,黔东南,,,,,107.982859,26.583442
+COVID-19_Baidu,2020-05-27 23:59:00,10,10,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guizhou,铜仁,,,,,109.189598,27.731514
+COVID-19_Baidu,2020-05-27 23:59:00,10,9,1,0,0,0,900.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guizhou,六盘水,,,,,104.830359,26.592666
+COVID-19_Baidu,2020-05-27 23:59:00,10,10,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,揭阳,,,,,116.372831,23.549993
+COVID-19_Baidu,2020-05-27 23:59:00,10,9,1,0,0,0,900.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,韶关,,,,,113.597522,24.810403
+COVID-19_Baidu,2020-05-27 23:59:00,10,10,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Zhejiang,舟山,,,,,122.207215,29.985295
+COVID-19_Baidu,2020-05-27 23:59:00,10,10,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Zhejiang,湖州,,,,,120.086823,30.894348
+COVID-19_Baidu,2020-05-27 23:59:00,10,10,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shanxi,晋城,,,,,112.851831,35.490701
+COVID-19_Baidu,2020-05-27 23:59:00,10,9,1,0,0,0,900.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hebei,秦皇岛,,,,,119.600492,39.935385
+COVID-19_Baidu,2020-05-27 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,荣昌区,,,,105.594623,29.405002
+COVID-19_Baidu,2020-05-27 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,璧山区,,,,106.227305,29.592024
+COVID-19_Baidu,2020-05-27 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,沙坪坝区,,,,106.456878,29.541145
+COVID-19_Baidu,2020-05-27 23:59:00,9,8,1,0,0,0,888.89,111.11,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hainan,省直辖县级行政区划,澄迈县,,,,110.006755,19.738521
+COVID-19_Baidu,2020-05-27 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,奉贤区,,,,121.474042,30.917795
+COVID-19_Baidu,2020-05-27 23:59:00,9,7,2,0,0,0,777.78,222.22,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,嘉定区,,,,121.2653,31.375602
+COVID-19_Baidu,2020-05-27 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,杨浦区,,,,121.526077,31.259541
+COVID-19_Baidu,2020-05-27 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Gansu,定西,,,,,104.626282,35.580662
+COVID-19_Baidu,2020-05-27 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Gansu,平凉,,,,,106.66524,35.543051
+COVID-19_Baidu,2020-05-27 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,红河,,,,,103.374799,23.36313
+COVID-19_Baidu,2020-05-27 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,保山,,,,,99.161761,25.112046
+COVID-19_Baidu,2020-05-27 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,自贡,,,,,104.778442,29.33903
+COVID-19_Baidu,2020-05-27 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,黄山,,,,,118.337481,29.714655
+COVID-19_Baidu,2020-05-27 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Inner Mongolia,锡林郭勒,,,,,116.048222,43.933454
+COVID-19_Baidu,2020-05-27 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Inner Mongolia,赤峰,,,,,118.886856,42.257817
+COVID-19_Baidu,2020-05-27 23:59:00,8,8,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Gansu,甘南,,,,,102.911027,34.983385
+COVID-19_Baidu,2020-05-27 23:59:00,8,8,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shaanxi,延安,,,,,109.489727,36.585455
+COVID-19_Baidu,2020-05-27 23:59:00,8,8,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shaanxi,铜川,,,,,108.945233,34.896756
+COVID-19_Baidu,2020-05-27 23:59:00,8,8,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,眉山,,,,,103.848538,30.075439
+COVID-19_Baidu,2020-05-27 23:59:00,8,8,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,贵港,,,,,109.598926,23.11153
+COVID-19_Baidu,2020-05-27 23:59:00,8,8,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,钦州,,,,,108.654146,21.979933
+COVID-19_Baidu,2020-05-27 23:59:00,8,8,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,湘西,,,,,109.739172,28.311947
+COVID-19_Baidu,2020-05-27 23:59:00,8,8,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,阜新,,,,,121.670323,42.021619
+COVID-19_Baidu,2020-05-27 23:59:00,8,7,1,0,0,0,875.0,125.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Inner Mongolia,巴彦淖尔,,,,,107.387657,40.743213
+COVID-19_Baidu,2020-05-27 23:59:00,8,8,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shanxi,朔州,,,,,112.432825,39.331595
+COVID-19_Baidu,2020-05-27 23:59:00,8,8,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shanxi,长治,,,,,113.116255,36.195386
+COVID-19_Baidu,2020-05-27 23:59:00,8,8,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hebei,衡水,,,,,115.670177,37.73892
+COVID-19_Baidu,2020-05-27 23:59:00,8,7,1,0,0,0,875.0,125.0,0.37,0.05,0.32,52.29,45.75,6.54,Inputted Data,Country,North America,British Virgin Islands,,,,,,,-64.896335,18.335765
+COVID-19_Baidu,2020-05-27 23:59:00,8,8,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.02,0.02,0.0,Inputted Data,Country,Oceania,The Independent State of Papua New Guinea,,,,,,,143.95555,-6.314993
+COVID-19_Baidu,2020-05-27 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,大渡口区,,,,106.482347,29.484527
+COVID-19_Baidu,2020-05-27 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hainan,省直辖县级行政区划,昌江黎族自治县,,,,109.055724,19.298062
+COVID-19_Baidu,2020-05-27 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,虹口区,,,,121.505133,31.2646
+COVID-19_Baidu,2020-05-27 23:59:00,7,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,密云区,,,,116.843177,40.376834
+COVID-19_Baidu,2020-05-27 23:59:00,7,3,0,0,0,0,428.57,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,怀柔区,,,,116.642349,40.315704
+COVID-19_Baidu,2020-05-27 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shaanxi,商洛,,,,,109.940477,33.870422
+COVID-19_Baidu,2020-05-27 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,丽江,,,,,100.22775,26.855047
+COVID-19_Baidu,2020-05-27 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,雅安,,,,,103.013261,29.980537
+COVID-19_Baidu,2020-05-27 23:59:00,7,6,1,0,0,0,857.14,142.86,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,三门峡,,,,,111.200135,34.772493
+COVID-19_Baidu,2020-05-27 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jilin,辽源,,,,,125.143532,42.887918
+COVID-19_Baidu,2020-05-27 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,铁岭,,,,,123.726166,42.223769
+COVID-19_Baidu,2020-05-27 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Inner Mongolia,呼伦贝尔,,,,,119.765744,49.211574
+COVID-19_Baidu,2020-05-27 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Inner Mongolia,通辽,,,,,122.243444,43.65289
+COVID-19_Baidu,2020-05-27 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Inner Mongolia,呼和浩特,,,,,111.74918,40.842585
+COVID-19_Baidu,2020-05-27 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shanxi,忻州,,,,,112.734174,38.416663
+COVID-19_Baidu,2020-05-27 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hebei,承德,,,,,117.96241,40.954071
+COVID-19_Baidu,2020-05-27 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Tianjin,外地来津人员,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,巴南区,,,,106.53384,29.375528
+COVID-19_Baidu,2020-05-27 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hainan,省直辖县级行政区划,临高县,,,,109.690508,19.912026
+COVID-19_Baidu,2020-05-27 23:59:00,6,5,1,0,0,0,833.33,166.67,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hainan,省直辖县级行政区划,琼海市,,,,110.466258,19.252511
+COVID-19_Baidu,2020-05-27 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,青浦区,,,,121.124178,31.150681
+COVID-19_Baidu,2020-05-27 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,黄浦区,,,,121.46924,31.22986
+COVID-19_Baidu,2020-05-27 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Jilin,四平,公主岭市,,,,124.82283,43.504687
+COVID-19_Baidu,2020-05-27 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,北辰区,,,,117.139343,39.217817
+COVID-19_Baidu,2020-05-27 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,南开区,,,,117.150738,39.138203
+COVID-19_Baidu,2020-05-27 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,和平区,,,,117.208125,39.118897
+COVID-19_Baidu,2020-05-27 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,广元,,,,,105.843357,32.435435
+COVID-19_Baidu,2020-05-27 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangxi,景德镇,,,,,117.178419,29.268835
+COVID-19_Baidu,2020-05-27 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Fujian,龙岩,,,,,117.017536,25.075123
+COVID-19_Baidu,2020-05-27 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,宣城,,,,,118.758816,30.940718
+COVID-19_Baidu,2020-05-27 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jilin,通化,,,,,125.939697,41.728401
+COVID-19_Baidu,2020-05-27 23:59:00,6,5,1,0,0,0,833.33,166.67,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,朝阳,,,,,120.450372,41.573734
+COVID-19_Baidu,2020-05-27 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shanxi,吕梁,,,,,111.144319,37.518314
+COVID-19_Baidu,2020-05-27 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.71,0.0,0.71,285.71,285.71,0.0,Inputted Data,Country,North America,Saint Barthélemy,,,,,,,-62.84978,17.89618
+COVID-19_Baidu,2020-05-27 23:59:00,5,4,1,0,0,0,800.0,200.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,德岛,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,5,5,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,永川区,,,,105.927376,29.356117
+COVID-19_Baidu,2020-05-27 23:59:00,5,5,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,涪陵区,,,,107.389298,29.703113
+COVID-19_Baidu,2020-05-27 23:59:00,5,5,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Henan,省直辖县级行政区划,济源市,,,,112.601919,35.067243
+COVID-19_Baidu,2020-05-27 23:59:00,5,5,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Ningxia,固原,,,,,106.24261,36.015855
+COVID-19_Baidu,2020-05-27 23:59:00,5,5,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,德宏,,,,,98.584895,24.433353
+COVID-19_Baidu,2020-05-27 23:59:00,5,5,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,梧州,,,,,111.279115,23.476962
+COVID-19_Baidu,2020-05-27 23:59:00,5,5,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,潮州,,,,,116.622603,23.65695
+COVID-19_Baidu,2020-05-27 23:59:00,5,5,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,河源,,,,,114.700447,23.743538
+COVID-19_Baidu,2020-05-27 23:59:00,5,5,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,汕尾,,,,,115.375278,22.786211
+COVID-19_Baidu,2020-05-27 23:59:00,5,5,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,张家界,,,,,110.479191,29.117096
+COVID-19_Baidu,2020-05-27 23:59:00,5,5,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,鹤岗,,,,,130.297964,47.349916
+COVID-19_Baidu,2020-05-27 23:59:00,5,5,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jilin,延边,,,,,129.508946,42.891253
+COVID-19_Baidu,2020-05-27 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Chongqing,高新区,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,4,3,1,0,0,0,750.0,250.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Xinjiang,第九师,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,4,3,1,0,0,0,750.0,250.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Xinjiang,第八师,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,梁平区,,,,107.769581,30.65423
+COVID-19_Baidu,2020-05-27 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,江津区,,,,106.259281,29.290069
+COVID-19_Baidu,2020-05-27 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hainan,省直辖县级行政区划,陵水黎族自治县,,,,110.037504,18.506048
+COVID-19_Baidu,2020-05-27 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,崇明区,,,,121.397417,31.623587
+COVID-19_Baidu,2020-05-27 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,金山区,,,,121.34197,30.741991
+COVID-19_Baidu,2020-05-27 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,宁河区,,,,117.826625,39.329858
+COVID-19_Baidu,2020-05-27 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,西青区,,,,117.013949,39.141591
+COVID-19_Baidu,2020-05-27 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,东丽区,,,,117.314324,39.086569
+COVID-19_Baidu,2020-05-27 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,河西区,,,,117.223372,39.109563
+COVID-19_Baidu,2020-05-27 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Xinjiang,昌吉,,,,,87.308224,44.011182
+COVID-19_Baidu,2020-05-27 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Gansu,陇南,,,,,104.921841,33.400684
+COVID-19_Baidu,2020-05-27 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Gansu,白银,,,,,104.138559,36.544756
+COVID-19_Baidu,2020-05-27 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,楚雄,,,,,101.528069,25.045532
+COVID-19_Baidu,2020-05-27 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,普洱,,,,,100.966512,22.825065
+COVID-19_Baidu,2020-05-27 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guizhou,黔西南,,,,,104.906396,25.087825
+COVID-19_Baidu,2020-05-27 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guizhou,安顺,,,,,105.947593,26.253072
+COVID-19_Baidu,2020-05-27 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,资阳,,,,,104.627636,30.128901
+COVID-19_Baidu,2020-05-27 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,贺州,,,,,111.566694,24.403582
+COVID-19_Baidu,2020-05-27 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,鞍山,,,,,122.994329,41.108647
+COVID-19_Baidu,2020-05-27 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shanxi,阳泉,,,,,113.580519,37.856971
+COVID-19_Baidu,2020-05-27 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,鸟取,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,3,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The United States of America,,撤侨人员,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Henan,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Chongqing,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Ningxia,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Xinjiang,第十二师,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hainan,省直辖县级行政区划,保亭黎族苗族自治县,,,,109.702392,18.638189
+COVID-19_Baidu,2020-05-27 23:59:00,3,2,1,0,0,0,666.67,333.33,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hainan,省直辖县级行政区划,定安县,,,,110.358891,19.681434
+COVID-19_Baidu,2020-05-27 23:59:00,3,2,1,0,0,0,666.67,333.33,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hainan,省直辖县级行政区划,东方市,,,,108.653789,19.10198
+COVID-19_Baidu,2020-05-27 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hainan,省直辖县级行政区划,文昌市,,,,110.753975,19.612986
+COVID-19_Baidu,2020-05-27 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,滨海新区,,,,117.78067,39.246083
+COVID-19_Baidu,2020-05-27 23:59:00,3,2,0,0,0,0,666.67,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,门头沟区,,,,116.102009,39.940646
+COVID-19_Baidu,2020-05-27 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Xinjiang,巴音郭楞,,,,,86.145298,41.764115
+COVID-19_Baidu,2020-05-27 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Xinjiang,吐鲁番,,,,,89.189655,42.951384
+COVID-19_Baidu,2020-05-27 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Ningxia,中卫,,,,,105.196902,37.499972
+COVID-19_Baidu,2020-05-27 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Qinghai,海北,,,,,100.900997,36.954413
+COVID-19_Baidu,2020-05-27 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Gansu,临夏,,,,,103.210538,35.601182
+COVID-19_Baidu,2020-05-27 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Gansu,庆阳,,,,,107.643631,35.709077
+COVID-19_Baidu,2020-05-27 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shaanxi,榆林,,,,,109.734589,38.28539
+COVID-19_Baidu,2020-05-27 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,乐山,,,,,103.765568,29.552106
+COVID-19_Baidu,2020-05-27 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,百色,,,,,106.618201,23.902333
+COVID-19_Baidu,2020-05-27 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,大兴安岭,,,,,124.71108,52.335206
+COVID-19_Baidu,2020-05-27 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,辽阳,,,,,123.236944,41.267244
+COVID-19_Baidu,2020-05-27 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,本溪,,,,,123.766485,41.294175
+COVID-19_Baidu,2020-05-27 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Inner Mongolia,乌兰察布,,,,,113.132585,40.994785
+COVID-19_Baidu,2020-05-27 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.23,0.0,0.23,29.41,29.41,0.0,Inputted Data,Country,North America,Anguilla,,,,,,,-63.07,18.22
+COVID-19_Baidu,2020-05-27 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Jiangxi,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Guangxi,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Inner Mongolia,传入本土,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Xinjiang,第六师,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,县,彭水苗族土家族自治县,,,,108.165538,29.293902
+COVID-19_Baidu,2020-05-27 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,县,城口县,,,,108.664214,31.947633
+COVID-19_Baidu,2020-05-27 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,黔江区,,,,108.770678,29.53361
+COVID-19_Baidu,2020-05-27 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,,People's Republic of China,Hainan,省直辖县级行政区划,乐东黎族自治县,,,,109.173055,18.75026
+COVID-19_Baidu,2020-05-27 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,武清区,,,,117.044388,39.384119
+COVID-19_Baidu,2020-05-27 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,津南区,,,,117.391976,38.984526
+COVID-19_Baidu,2020-05-27 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,红桥区,,,,117.151533,39.167345
+COVID-19_Baidu,2020-05-27 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Gansu,张掖,,,,,100.449818,38.925875
+COVID-19_Baidu,2020-05-27 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,文山,,,,,104.216248,23.400733
+COVID-19_Baidu,2020-05-27 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jilin,松原,,,,,124.825117,45.141789
+COVID-19_Baidu,2020-05-27 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Inner Mongolia,乌海,,,,,106.794249,39.655388
+COVID-19_Baidu,2020-05-27 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shanxi,临汾,,,,,111.518976,36.088005
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Hunan,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Anhui,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Chongqing,万盛经开区,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Chongqing,秀山县,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Jiangxi,赣江新区,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Shaanxi,杨凌示范区,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Hainan,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Gansu,外来人员,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Ningxia,宁东管委会,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Xinjiang,第七师,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Guizhou,境外输入,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shaanxi,渭南,韩城市,,,,110.442847,35.476788
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,县,酉阳土家族苗族自治县,,,,108.767747,28.841244
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,武隆区,,,,107.760025,29.325601
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hainan,省直辖县级行政区划,琼中黎族苗族自治县,,,,109.838389,19.033369
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Jilin,通化,梅河口市,,,,125.683832,42.530341
+COVID-19_Baidu,2020-05-27 23:59:00,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,延庆区,,,,115.974848,40.456951
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Xinjiang,阿克苏,,,,,80.260605,41.168779
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Ningxia,石嘴山,,,,,106.383303,38.983236
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Gansu,金昌,,,,,102.188043,38.520089
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Xizang,拉萨,,,,,91.140856,29.645554
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,临沧,,,,,100.079583,23.877573
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,阿坝,,,,,102.224653,31.899413
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,伊春,,,,,128.841147,47.727536
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jilin,白城,,,,,122.839024,45.619641
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,营口,,,,,122.235417,40.667012
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,抚顺,,,,,123.957208,41.880872
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Inner Mongolia,兴安,,,,,122.067042,46.077561
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Xizang,,,,,,91.117212,29.646922
+COVID-19_Baidu,2020-05-27 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.14,0.0,0.14,4.13,4.13,0.0,Inputted Data,Country,North America,The Islands of st pierre and miquelon,,,,,,,-56.166667,46.78333
+COVID-19_Baidu,2020-05-27 23:59:00,0,114,16,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,待确认,,,,,,
+COVID-19_Baidu,2020-05-27 23:59:00,0,347,9,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Beijing,待确认,,,,,,
