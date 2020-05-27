@@ -34,9 +34,9 @@
 
 | Contents | Link |    
 | --- | --- |   
-| Common web colors | http://mararsh.github.io/MyBox_data/colors/zh/WebColors.html |       
-| Chinese traditional colors | http://mararsh.github.io/MyBox_data/colors/zh/ChineseColors.html |       
-| Japnese traditional colors | http://mararsh.github.io/MyBox_data/colors/zh/JapaneseColors.html |         
+| Common web colors | http://mararsh.github.io/MyBox_data/colors/WebColors.html |       
+| Chinese traditional colors | http://mararsh.github.io/MyBox_data/colors/ChineseColors.html |       
+| Japnese traditional colors | http://mararsh.github.io/MyBox_data/colors/JapaneseColors.html |         
 
 
 

@@ -34,9 +34,9 @@
 
 | 内容 | 链接 |    
 | --- | --- |   
-| 常用网页颜色 | http://mararsh.github.io/MyBox_data/colors/zh/常用网页颜色.html |       
-| 中国传统颜色 | http://mararsh.github.io/MyBox_data/colors/zh/中国传统颜色.html |       
-| 日本传统颜色 | http://mararsh.github.io/MyBox_data/colors/zh/日本传统颜色.html |         
+| 常用网页颜色 | http://mararsh.github.io/MyBox_data/colors/常用网页颜色.html |       
+| 中国传统颜色 | http://mararsh.github.io/MyBox_data/colors/中国传统颜色.html |       
+| 日本传统颜色 | http://mararsh.github.io/MyBox_data/colors/日本传统颜色.html |         
 
 
 
