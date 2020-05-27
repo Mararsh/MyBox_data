@@ -22,8 +22,8 @@
 
 | 内容 | 大小 | 链接 |    
 | --- | --- |  --- |   
-| 来自约翰霍普金斯大学的COVID-19历史数据-中文 | 19mb | [Global_zh.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.2/COVID-19_JHU_Chinese.zip) |       
-| 来自约翰霍普金斯大学的COVID-19历史数据-英文 | 19mb | [China_zh.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.2/COVID-19_JHU_English.zip) |       
+| 来自约翰霍普金斯大学的COVID-19历史数据-中文 | 19mb | [Global_zh.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.3/COVID-19_JHU_Chinese.zip) |       
+| 来自约翰霍普金斯大学的COVID-19历史数据-英文 | 19mb | [China_zh.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.3/COVID-19_JHU_English.zip) |       
 
 
 ## 程序引用
