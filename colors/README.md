@@ -21,12 +21,6 @@
 |                  | <https://www.w3.org/TR/css-color-4/#lab-to-rgb>                                                                                             |
 | 色度适应             | <http://brucelindbloom.com/index.html?Eqn_RGB_XYZ_Matrix.html>                                                                              |
 | 色度图              | <http://demonstrations.wolfram.com/CIEChromaticityDiagram/>                                                                                 |
-
-
-## 数据源
-
-| 引用内容 | 链接 |    
-| --- | --- |   
 | 中国传统颜色 | https://tool.lanrentuku.com/color/china.html |       
 | 日本传统颜色 | https://tool.lanrentuku.com/color/japan.html |       
 

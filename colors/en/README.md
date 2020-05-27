@@ -2,8 +2,8 @@
 
 # Colors
 
-## 资源
-| 内容 | 链接 |    
+## Resources
+| Contents | Link |    
 | --- | --- |   
 | ICC Website             | [http://www.color.org](http://www.color.org/)                                                                                               |
 | ICC Profile Tags        | [https://sno.phy.queensu.ca/\~phil/exiftool/TagNames/ICC_Profile.html](https://sno.phy.queensu.ca/~phil/exiftool/TagNames/ICC_Profile.html) |
@@ -21,12 +21,6 @@
 |                         | <https://www.w3.org/TR/css-color-4/#lab-to-rgb>                                                                                             |
 | Chromatic Adaptation    | <http://brucelindbloom.com/index.html?Eqn_RGB_XYZ_Matrix.html>                                                                              |
 | Chromaticity Diagram    | <http://demonstrations.wolfram.com/CIEChromaticityDiagram/>                                                                                 |
-
-
-## Data Sources
-
-| Reference | Link |      
-| --- | --- |   
 | Chinese traditional colors | https://tool.lanrentuku.com/color/china.html |       
 | Japnese traditional colors | https://tool.lanrentuku.com/color/japan.html |       
 
