@@ -19,7 +19,7 @@ All files are in UTF-8 encoding. Except for xlsx, all formats can be viewed and 
 
 Last Updated: 2020-05-27
 
-| Contents | Format | Size | Link |    
+| Contents | Size | Link |    
 | --- | --- |  --- |   
 | COVID-19 histroical data from JHU-Chinese | 19mb | [Global_zh.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.3/COVID-19_JHU_Chinese.zip) |       
 | COVID-19 histroical data from JHU-English | 19mb | [China_zh.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.3/COVID-19_JHU_English.zip) |       
