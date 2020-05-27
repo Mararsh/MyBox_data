@@ -2,8 +2,8 @@
 
 # Data of MyBox 
 
-## [Geography Code](https://github.com/Mararsh/MyBox_data/tree/master/GeographyCode)      
+## [Geography Code](https://github.com/Mararsh/MyBox_data/tree/master/GeographyCode/en)      
    
-## [Epidemic Reports of COVID19](https://github.com/Mararsh/MyBox_data/tree/master/COVID19)   
+## [Epidemic Reports of COVID19](https://github.com/Mararsh/MyBox_data/tree/master/COVID19/en)   
 
 
