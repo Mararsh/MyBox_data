@@ -1,4 +1,4 @@
-# [ReadMe in English](https://github.com/Mararsh/MyBox_data/tree/master/COVID19/en)  ![ReadMe](https://mararsh.github.io/MyBox_data/iconOK.png)   
+# [ReadMe in English](https://github.com/Mararsh/MyBox_data/tree/master/COVID19/en)  ![ReadMe](https://mararsh.github.io/MyBox_data/iconTips.png)   
 
 # COVID-19疫情报告
 
