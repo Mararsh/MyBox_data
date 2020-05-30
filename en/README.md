@@ -1,4 +1,4 @@
-# [中文ReadMe](https://github.com/Mararsh/MyBox_data)   ![ReadMe](https://mararsh.github.io/MyBox/iconTips.png)   
+# [中文ReadMe](https://github.com/Mararsh/MyBox_data)   ![ReadMe](https://mararsh.github.io/MyBox/iconGo.png)   
 
 # Data of MyBox 
 

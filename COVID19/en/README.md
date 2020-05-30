@@ -1,4 +1,4 @@
-# [中文ReadMe](https://github.com/Mararsh/MyBox_data/tree/master/COVID19)  ![ReadMe](https://mararsh.github.io/MyBox_data/iconTips.png)   
+# [中文ReadMe](https://github.com/Mararsh/MyBox_data/tree/master/COVID19)  ![ReadMe](https://mararsh.github.io/MyBox_data/iconGo.png)   
 
 # Epidemic Reports of COVID-19
 

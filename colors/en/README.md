@@ -1,4 +1,4 @@
-# [中文ReadMe](https://github.com/Mararsh/MyBox_data/tree/master/colors)  ![ReadMe](https://mararsh.github.io/MyBox_data/iconTips.png)   
+# [中文ReadMe](https://github.com/Mararsh/MyBox_data/tree/master/colors)  ![ReadMe](https://mararsh.github.io/MyBox_data/iconGo.png)   
 
 # Colors
 
@@ -31,6 +31,9 @@
 | Common web colors | http://mararsh.github.io/MyBox_data/colors/WebColors.html |       
 | Chinese traditional colors | http://mararsh.github.io/MyBox_data/colors/ChineseColors.html |       
 | Japnese traditional colors | http://mararsh.github.io/MyBox_data/colors/JapaneseColors.html |         
-
+| CIE 1931 2 Degree Observer(D50)1nm | http://mararsh.github.io/MyBox_data/colors/CIE1931Observer2Degree1nm.txt |         
+| CIE 1931 2 Degree Observer(D50)5nm | http://mararsh.github.io/MyBox_data/colors/CIE1931Observer2Degree5nm.txt |         
+| CIE 1964 10 Degree Observer(D50)1nm | http://mararsh.github.io/MyBox_data/colors/CIE1964Observer10Degree1nm.txt |         
+| CIE 1964 10 Degree Observer(D50)5nm | http://mararsh.github.io/MyBox_data/colors/CIE1964Observer10Degree5nm.txt |  
 
 
