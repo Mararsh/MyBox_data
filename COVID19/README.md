@@ -16,28 +16,28 @@
 | 来自百度的COVID-19每日数据（国家和中国省市） | https://voice.baidu.com/act/newpneumonia/newpneumonia/?from=osari_pc_3 |       
 | 来自腾讯的COVID-19历史数据（中国省市） | https://api.inews.qq.com/newsqa/v1/query/pubished/daily/list? |       
  
-## 下载
+## 链接
 
-最后更新时间：2020-5-27 
+最后更新时间：2020-06-17 
 
 | 内容 | 大小 | 链接 |    
 | --- | --- |  --- |   
-| 来自约翰霍普金斯大学的COVID-19历史数据-中文 | 19mb | [Global_zh.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.3/COVID-19_JHU_Chinese.zip) |       
-| 来自约翰霍普金斯大学的COVID-19历史数据-英文 | 19mb | [China_zh.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.3/COVID-19_JHU_English.zip) |       
+| COVID-19数据-中文 | 24mb | [COVID19-zh.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.3/COVID19-zh.zip) |       
+| COVID-19数据-英文 | 24mb | [COVID19-en.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.3/COVID19-en.zip) |       
 
 
 ## 程序引用
 
-以下均是直接链接，可以被代码访问到。   
+以下均是直接链接，可以被代码访问到。 最后更新时间：2020-06-17      
 
 | 内容 | html | json | xlsx | xml | csv | 
 | --- | --- | --- | --- | --- | --- | 
-| 来自约翰霍普金斯大学的COVID-19历史数据-全部-按地址排序 |  [9694kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_地址.htm) | [9536kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_地址.json) | [2401kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_地址.xlsx) | [13261kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_地址.xml) | [3739kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_地址.csv) |        
-| 来自约翰霍普金斯大学的COVID-19历史数据-全部-按时间排序 |  [9694kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_时间.htm) | [9536kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_时间.json) | [2599kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_时间.xlsx) | [13261kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_时间.xml) | [3739kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_时间.csv) |         
-| 来自约翰霍普金斯大学的COVID-19历史数据-国家_按地址排序 |  [6164kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_国家_时间.htm) | [6728kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_国家_时间.json) | [1584kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_国家_时间.xlsx) | [8369kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_国家_时间.xml) | [2392kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_国家_时间.csv) |   
-| 来自约翰霍普金斯大学的COVID-19历史数据-国家-按时间排序 |  [6164kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_时间_国家.htm) | [6728kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_时间_国家.json) | [1719kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_时间_国家.xlsx) | [8369kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_时间_国家.xml) | [2392kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_时间_国家.csv) |   
-| 来自腾讯的COVID-19历史数据-直到2020-05-27 |  [1485kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_Tencent_2020-05-27.htm) | [1379kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_Tencent_2020-05-27.json) | [336kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_Tencent_2020-05-27.xlsx) | [1690kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_Tencent_2020-05-27.xml) | [581kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_Tencent_2020-05-27.csv) |   
-| 来自百度的COVID-19今日数据-2020-05-27 |  [314kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_Baidu_2020-05-27.htm) | [283kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_Baidu_2020-05-27.json) | [93kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_Baidu_2020-05-27.xlsx) | [411kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_Baidu_2020-05-27.xml) | [126kb](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_Baidu_2020-05-27.csv) |  
+| 来自约翰霍普金斯大学的COVID-19历史数据-全部-按地址排序 |  [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_地址.htm) | [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_地址.json) | [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_地址.xlsx) | [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_地址.xml) | [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_地址.csv) |        
+| 来自约翰霍普金斯大学的COVID-19历史数据-全部-按时间排序 |  [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_时间.htm) | [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_时间.json) | [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_时间.xlsx) | [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_时间.xml) | [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_时间.csv) |         
+| 来自约翰霍普金斯大学的COVID-19历史数据-国家_按地址排序 |  [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_国家_时间.htm) | [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_国家_时间.json) | [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_国家_时间.xlsx) | [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_国家_时间.xml) | [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_国家_时间.csv) |   
+| 来自约翰霍普金斯大学的COVID-19历史数据-国家-按时间排序 |  [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_时间_国家.htm) | [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_时间_国家.json) | [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_时间_国家.xlsx) | [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_时间_国家.xml) | [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_JHU_时间_国家.csv) |   
+| 来自腾讯的COVID-19历史数据-直到2020-06-17 |  [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_Tencent_2020-06-17.htm) | [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_Tencent_2020-06-17.json) | [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_Tencent_2020-06-17.xlsx) | [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_Tencent_2020-06-17.xml) | [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_Tencent_2020-06-17.csv) |   
+| 来自百度的COVID-19今日数据-2020-06-17 |  [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_Baidu_2020-06-17.htm) | [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_Baidu_2020-06-17.json) | [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_Baidu_2020-06-17.xlsx) | [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_Baidu_2020-06-17.xml) | [链接](http://mararsh.github.io/MyBox_data/COVID19/zh/COVID-19_Baidu_2020-06-17.csv) |  
  
 
 ## 数据定义

@@ -17,26 +17,26 @@ All files are in UTF-8 encoding. Except for xlsx, all formats can be viewed and 
  
 ## Download
 
-Last Updated: 2020-05-27
+Last Updated: 2020-06-17
 
 | Contents | Size | Link |    
 | --- | --- |  --- |   
-| COVID-19 histroical data from JHU-Chinese | 19mb | [Global_zh.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.3/COVID-19_JHU_Chinese.zip) |       
-| COVID-19 histroical data from JHU-English | 19mb | [China_zh.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.3/COVID-19_JHU_English.zip) |       
+| COVID-19-Chinese | 24mb | [COVID19-zh.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.3/COVID19-zh.zip) |       
+| COVID-19-English | 24mb | [COVID19-en.zip](https://github.com/Mararsh/MyBox_data/releases/download/v1.3/COVID19-en.zip) |       
 
 
 ### Referred by Programs 
 
-Following are direct links which can be visited by codes.      
+Following are direct links which can be visited by codes.  Last Updated: 2020-06-17           
 
 | Contents | html | json | xlsx | xml | csv | 
 | --- | --- | --- | --- | --- | --- | 
-| COVID-19 histroical data from JHU-All-order by location |  [10048kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Locations.htm) | [9889kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Locations.json) | [2401kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Locations.xlsx) | [13615kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Locations.xml) | [4093kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Locations.csv) |        
-| COVID-19 histroical data from JHU-All-order by time |  [10048kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times.htm) | [9889kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times.json) | [2600kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times.xlsx) | [13651kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times.xml) | [4093kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times.csv) |         
-| COVID-19 histroical data from JHU-Countries-order by location |  [6346kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Countries_Times.htm) | [6910kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Countries_Times.json) | [1584kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Countries_Times.xlsx) | [8550kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Countries_Times.xml) | [2573kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Countries_Times.csv) |   
-| COVID-19 histroical data from JHU-Countries-order by time |  [6346kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times_Countries.htm) | [6910kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times_Countries.json) | [1720kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times_Countries.xlsx) | [85509kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times_Countries.xml) | [2573kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times_Countries.csv) |   
-| COVID-19 histroical data from Tecent-till 2020-05-27 |  [1579kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Tencent_2020-05-27.htm) | [1473kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Tencent_2020-05-27.json) | [336kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Tencent_2020-05-27.xlsx) | [1783kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Tencent_2020-05-27.xml) | [674kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Tencent_2020-05-27.csv) |   
-| COVID-19 daily data from Baidu-2020-05-27 |  [351kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Baidu_2020-05-27.htm) | [296kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Baidu_2020-05-27.json) | [101kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Baidu_2020-05-27.xlsx) | [474kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Baidu_2020-05-27.xml) | [143kb](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Baidu_2020-05-27.csv) |  
+| COVID-19 histroical data from JHU-All-order by location |  [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Locations.htm) | [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Locations.json) | [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Locations.xlsx) | [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Locations.xml) | [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Locations.csv) |        
+| COVID-19 histroical data from JHU-All-order by time |  [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times.htm) | [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times.json) | [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times.xlsx) | [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times.xml) | [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times.csv) |         
+| COVID-19 histroical data from JHU-Countries-order by location |  [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Countries_Times.htm) | [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Countries_Times.json) | [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Countries_Times.xlsx) | [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Countries_Times.xml) | [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Countries_Times.csv) |   
+| COVID-19 histroical data from JHU-Countries-order by time |  [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times_Countries.htm) | [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times_Countries.json) | [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times_Countries.xlsx) | [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times_Countries.xml) | [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_JHU_Times_Countries.csv) |   
+| COVID-19 histroical data from Tecent-till 2020-06-17 |  [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Tencent_2020-06-17.htm) | [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Tencent_2020-06-17.json) | [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Tencent_2020-06-17.xlsx) | [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Tencent_2020-06-17.xml) | [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Tencent_2020-06-17.csv) |   
+| COVID-19 daily data from Baidu-2020-06-17 |  [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Baidu_2020-06-17.htm) | [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Baidu_2020-06-17.json) | [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Baidu_2020-06-17.xlsx) | [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Baidu_2020-06-17.xml) | [Link](http://mararsh.github.io/MyBox_data/COVID19/en/COVID-19_Baidu_2020-06-17.csv) |  
 
 
 

@@ -1,0 +1,582 @@
+Data Set,Time,Confirmed,Healed,Dead,Increased Confirmed,Increased Healed,Increased Dead,Healed/Confirmed(Permillage),Dead/Confirmed(Permillage),Confirmed/Population(Permillage),Dead/Population(Permillage),Healed/Population(Permillage),Confirmed/SquareKilometers(Permillage),Healed/SquareKilometers(Permillage),Dead/SquareKilometers(Permillage),Data Source,Level,Continent,Country,Province,City,County,Town,Village,Building,Longitude,Latitude
+COVID-19_Baidu,2020-06-17 23:59:00,352776,285441,40311,0,0,0,809.13,114.27,0.0,0.0,0.0,0.0,0.0,0.0,Statistic Data,Global,,,,,,,,,148.770017,27.499299
+COVID-19_Baidu,2020-06-17 23:59:00,237500,178526,34405,0,0,0,751.69,144.86,3.94,0.57,2.96,788.43,592.66,114.22,Inputted Data,Country,Europe,The Republic of Italy,,,,,,,12.56738,41.87194
+COVID-19_Baidu,2020-06-17 23:59:00,237500,178526,34405,0,0,0,751.69,144.86,0.0,0.0,0.0,0.0,0.0,0.0,Statistic Data,Continent,Europe,,,,,,,,24.918,54.376174
+COVID-19_Baidu,2020-06-17 23:59:00,114711,106403,5858,0,0,0,927.57,51.07,0.0,0.0,0.0,0.0,0.0,0.0,Statistic Data,Continent,Asia,,,,,,,,111.23125,33.47486
+COVID-19_Baidu,2020-06-17 23:59:00,92060,60361,16466,0,0,0,655.67,178.86,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,伦巴第,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,84868,79928,4645,0,0,0,941.79,54.73,0.06,0.0,0.06,8.84,8.33,0.48,Statistic Data,Country,Asia,People's Republic of China,,,,,,,104.195397,35.86166
+COVID-19_Baidu,2020-06-17 23:59:00,68135,63623,4512,0,0,0,933.78,66.22,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Hubei,,,,,,114.341861,30.546498
+COVID-19_Baidu,2020-06-17 23:59:00,50340,46471,3869,0,0,0,923.14,76.86,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,武汉,,,,,114.305392,30.593098
+COVID-19_Baidu,2020-06-17 23:59:00,31090,24622,4018,0,0,0,791.96,129.24,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,皮埃蒙特,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,28097,22483,4209,0,0,0,800.19,149.8,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,艾米利亚-罗马涅,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,19221,16521,1982,0,0,0,859.53,103.12,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,威尼托,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,17645,15701,934,0,0,0,889.83,52.93,0.14,0.01,0.12,46.7,41.56,2.47,Inputted Data,Country,Asia,Japan,,,,,,,138.252924,36.204824
+COVID-19_Baidu,2020-06-17 23:59:00,12198,10774,279,0,0,0,883.26,22.87,0.25,0.01,0.22,123.86,109.4,2.83,Inputted Data,Country,Asia,Republic of Korea,,,,,,,127.766922,35.907757
+COVID-19_Baidu,2020-06-17 23:59:00,10191,8637,1091,0,0,0,847.51,107.06,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,托斯卡纳,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,9891,8120,1529,0,0,0,820.95,154.58,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,利古里亚,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,7967,6024,814,0,0,0,756.12,102.17,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,拉齐奥,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,6895,6672,189,0,0,0,967.66,27.41,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,大邱,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,6763,5168,994,0,0,0,764.16,146.98,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,马尔凯,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,5619,4887,314,0,0,0,869.73,55.88,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,东京都,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,4613,3910,430,0,0,0,847.6,93.21,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,坎帕尼亚,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,4516,3628,535,0,0,0,803.37,118.47,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,普利亚,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,4448,3919,465,0,0,0,881.07,104.54,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,特伦托,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,3518,3389,129,0,0,0,963.33,36.67,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,孝感,,,,,113.916902,30.924568
+COVID-19_Baidu,2020-06-17 23:59:00,3460,2374,280,0,0,0,686.13,80.92,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,西西里,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,3297,2855,343,0,0,0,865.94,104.03,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,弗留利-威尼斯朱利亚,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,3280,2355,457,0,0,0,717.99,139.33,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,阿布鲁佐,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,2907,2782,125,0,0,0,957.0,43.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,黄冈,,,,,114.872316,30.453905
+COVID-19_Baidu,2020-06-17 23:59:00,2611,2226,292,0,0,0,852.55,111.83,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,博尔扎诺,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,1790,1668,85,0,0,0,931.84,47.49,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,大阪府,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,1628,1593,8,0,0,0,978.5,4.91,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Guangdong,,,,,,113.26653,23.132191
+COVID-19_Baidu,2020-06-17 23:59:00,1580,1528,52,0,0,0,967.09,32.91,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,荆州,,,,,112.239741,30.335165
+COVID-19_Baidu,2020-06-17 23:59:00,1437,1342,77,0,0,0,933.89,53.58,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,翁布里亚,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,1411,1183,90,0,0,0,838.41,63.78,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,神奈川,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,1394,1335,59,0,0,0,957.68,42.32,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,鄂州,,,,,114.894843,30.39194
+COVID-19_Baidu,2020-06-17 23:59:00,1383,1313,54,0,0,0,949.39,39.05,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,庆尚北道,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,1365,1200,132,0,0,0,879.12,96.7,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,撒丁,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,1307,1262,45,0,0,0,965.57,34.43,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,随州,,,,,113.382458,31.690215
+COVID-19_Baidu,2020-06-17 23:59:00,1276,1254,22,0,0,0,982.76,17.24,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Henan,,,,,,113.753602,34.765515
+COVID-19_Baidu,2020-06-17 23:59:00,1269,1267,1,0,0,0,998.42,0.79,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Zhejiang,,,,,,120.152791,30.267446
+COVID-19_Baidu,2020-06-17 23:59:00,1191,1037,144,0,0,0,870.7,120.91,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,瓦莱达奥斯塔,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,1178,956,91,0,0,0,811.54,77.25,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,北海道,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,1175,1135,40,0,0,0,965.96,34.04,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,襄阳,,,,,112.122414,32.008986
+COVID-19_Baidu,2020-06-17 23:59:00,1162,1029,97,0,0,0,885.54,83.48,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,卡拉布里亚,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,1145,710,5,0,0,0,620.09,4.37,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,首尔,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,1112,1069,4,0,0,0,961.33,3.6,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Hong Kong,,,,,,114.163825,22.276284
+COVID-19_Baidu,2020-06-17 23:59:00,1063,720,22,0,0,0,677.33,20.7,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,京畿道,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,1019,947,52,0,0,0,929.34,51.03,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,埼玉,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,1019,1015,4,0,0,0,996.07,3.93,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Hunan,,,,,,112.98381,28.112444
+COVID-19_Baidu,2020-06-17 23:59:00,1015,976,39,0,0,0,961.58,38.42,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,黄石,,,,,115.03852,30.199652
+COVID-19_Baidu,2020-06-17 23:59:00,991,985,6,0,0,0,993.95,6.05,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Anhui,,,,,,117.284922,31.861184
+COVID-19_Baidu,2020-06-17 23:59:00,947,934,13,0,0,0,986.27,13.73,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Heilongjiang,,,,,,126.661669,45.742347
+COVID-19_Baidu,2020-06-17 23:59:00,932,931,1,0,0,0,998.93,1.07,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Jiangxi,,,,,,115.909228,28.675696
+COVID-19_Baidu,2020-06-17 23:59:00,931,894,37,0,0,0,960.26,39.74,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,宜昌,,,,,111.286471,30.691967
+COVID-19_Baidu,2020-06-17 23:59:00,928,887,41,0,0,0,955.82,44.18,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,荆门,,,,,112.199265,31.035423
+COVID-19_Baidu,2020-06-17 23:59:00,916,846,45,0,0,0,923.58,49.13,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,千叶,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,836,821,15,0,0,0,982.06,17.94,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,咸宁,,,,,114.322492,29.841443
+COVID-19_Baidu,2020-06-17 23:59:00,827,742,28,0,0,0,897.22,33.86,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,福冈,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,792,783,7,0,0,0,988.64,8.84,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Shandong,,,,,,117.020359,36.66853
+COVID-19_Baidu,2020-06-17 23:59:00,731,584,9,0,0,0,798.91,12.31,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Beijing,,,,,,116.407526,39.90403
+COVID-19_Baidu,2020-06-17 23:59:00,699,653,43,0,0,0,934.19,61.52,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,兵库,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,695,668,7,0,0,0,961.15,10.07,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Shanghai,,,,,,121.473701,31.230416
+COVID-19_Baidu,2020-06-17 23:59:00,672,664,8,0,0,0,988.1,11.9,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,十堰,,,,,110.79799,32.629397
+COVID-19_Baidu,2020-06-17 23:59:00,653,653,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Jiangsu,,,,,,118.763232,32.061707
+COVID-19_Baidu,2020-06-17 23:59:00,593,468,0,0,0,0,789.21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,检疫,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,589,565,3,0,0,0,959.25,5.09,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Sichuan,,,,,,104.075931,30.651651
+COVID-19_Baidu,2020-06-17 23:59:00,582,573,6,0,0,0,984.54,10.31,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Chongqing,,,,,,106.551556,29.563009
+COVID-19_Baidu,2020-06-17 23:59:00,575,553,22,0,0,0,961.74,38.26,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hubei,省直辖县级行政区划,仙桃市,,,,113.453974,30.364953
+COVID-19_Baidu,2020-06-17 23:59:00,565,512,48,0,0,0,906.19,84.96,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Country,,海峡群岛,,,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,521,467,34,0,0,0,896.35,65.26,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,爱知,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,504,503,1,0,0,0,998.02,1.98,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Zhejiang,温州,,,,,120.699366,27.994267
+COVID-19_Baidu,2020-06-17 23:59:00,496,481,15,0,0,0,969.76,30.24,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hubei,省直辖县级行政区划,天门市,,,,113.165862,30.653061
+COVID-19_Baidu,2020-06-17 23:59:00,445,434,7,0,0,0,975.28,15.73,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Taiwan,,,,,,121.508903,25.044319
+COVID-19_Baidu,2020-06-17 23:59:00,439,351,23,0,0,0,799.54,52.39,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,莫利塞,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,436,193,0,0,0,0,442.66,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,包机回国及检疫等相关人员,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,423,420,3,0,0,0,992.91,7.09,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,深圳,,,,,114.057868,22.543099
+COVID-19_Baidu,2020-06-17 23:59:00,401,364,27,0,0,0,907.73,67.33,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,The Republic of Italy,,巴斯利卡塔,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,386,386,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Heilongjiang,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,377,376,1,0,0,0,997.35,2.65,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,广州,,,,,113.264434,23.129162
+COVID-19_Baidu,2020-06-17 23:59:00,363,338,18,0,0,0,931.13,49.59,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,京都府,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,362,356,1,0,0,0,983.43,2.76,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Fujian,,,,,,119.295144,26.100779
+COVID-19_Baidu,2020-06-17 23:59:00,354,334,0,0,0,0,943.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Shanghai,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,336,322,6,0,0,0,958.33,17.86,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Hebei,,,,,,114.468664,38.037057
+COVID-19_Baidu,2020-06-17 23:59:00,322,152,1,0,0,0,472.05,3.11,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,仁川,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,314,306,3,0,0,0,974.52,9.55,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Shaanxi,,,,,,108.954239,34.265472
+COVID-19_Baidu,2020-06-17 23:59:00,299,241,27,0,0,0,806.02,90.3,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,石川,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,274,272,2,0,0,0,992.7,7.3,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,信阳,,,,,114.091023,32.146983
+COVID-19_Baidu,2020-06-17 23:59:00,264,260,4,0,0,0,984.85,15.15,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,哈尔滨,,,,,126.534967,45.803775
+COVID-19_Baidu,2020-06-17 23:59:00,260,260,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,济宁,,,,,116.587098,35.414921
+COVID-19_Baidu,2020-06-17 23:59:00,254,252,2,0,0,0,992.13,7.87,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Guangxi,,,,,,108.327546,22.815478
+COVID-19_Baidu,2020-06-17 23:59:00,252,245,7,0,0,0,972.22,27.78,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hubei,恩施州,,,,,109.488172,30.272156
+COVID-19_Baidu,2020-06-17 23:59:00,242,240,2,0,0,0,991.74,8.26,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,长沙,,,,,112.938814,28.228209
+COVID-19_Baidu,2020-06-17 23:59:00,238,234,1,0,0,0,983.19,4.2,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Inner Mongolia,,,,,,111.765617,40.817498
+COVID-19_Baidu,2020-06-17 23:59:00,233,206,0,0,0,0,884.12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Guangdong,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,230,230,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangxi,南昌,,,,,115.858197,28.682892
+COVID-19_Baidu,2020-06-17 23:59:00,227,202,22,0,0,0,889.87,96.92,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,富山,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,198,189,9,0,0,0,954.55,45.45,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hubei,省直辖县级行政区划,潜江市,,,,112.896866,30.421215
+COVID-19_Baidu,2020-06-17 23:59:00,198,198,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Shanxi,,,,,,112.562398,37.873531
+COVID-19_Baidu,2020-06-17 23:59:00,196,189,3,0,0,0,964.29,15.31,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Tianjin,,,,,,117.200983,39.084158
+COVID-19_Baidu,2020-06-17 23:59:00,185,183,2,0,0,0,989.19,10.81,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Yunnan,,,,,,102.710002,25.045806
+COVID-19_Baidu,2020-06-17 23:59:00,181,181,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Zhejiang,杭州,,,,,120.15507,30.274084
+COVID-19_Baidu,2020-06-17 23:59:00,174,173,0,0,0,0,994.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Beijing,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,174,173,1,0,0,0,994.25,5.75,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,合肥,,,,,117.227239,31.820586
+COVID-19_Baidu,2020-06-17 23:59:00,171,163,6,0,0,0,953.22,35.09,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Hainan,,,,,,110.349228,20.017377
+COVID-19_Baidu,2020-06-17 23:59:00,168,155,10,0,0,0,922.62,59.52,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,茨城,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,168,165,3,0,0,0,982.14,17.86,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,广岛,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,161,158,0,0,0,0,981.37,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Inner Mongolia,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,160,155,5,0,0,0,968.75,31.25,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,蚌埠,,,,,117.389719,32.916287
+COVID-19_Baidu,2020-06-17 23:59:00,157,152,5,0,0,0,968.15,31.85,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,郑州,,,,,113.625368,34.746599
+COVID-19_Baidu,2020-06-17 23:59:00,157,157,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Zhejiang,宁波,,,,,121.550357,29.874556
+COVID-19_Baidu,2020-06-17 23:59:00,156,155,1,0,0,0,993.59,6.41,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,岳阳,,,,,113.128958,29.357104
+COVID-19_Baidu,2020-06-17 23:59:00,156,153,3,0,0,0,980.77,19.23,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,南阳,,,,,112.528321,32.990833
+COVID-19_Baidu,2020-06-17 23:59:00,155,155,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,阜阳,,,,,115.814204,32.890124
+COVID-19_Baidu,2020-06-17 23:59:00,155,153,2,0,0,0,987.1,12.9,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Jilin,,,,,,125.32599,43.896536
+COVID-19_Baidu,2020-06-17 23:59:00,154,143,7,0,0,0,928.57,45.45,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,岐阜,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,153,144,0,0,0,0,941.18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,忠清南道,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,152,147,2,0,0,0,967.11,13.16,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Liaoning,,,,,,123.42944,41.835441
+COVID-19_Baidu,2020-06-17 23:59:00,151,128,19,0,0,0,847.68,125.83,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,群马,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,149,137,2,0,0,0,919.46,13.42,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Gansu,,,,,,103.826308,36.059421
+COVID-19_Baidu,2020-06-17 23:59:00,148,142,3,0,0,0,959.46,20.27,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,釜山,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,147,146,0,0,0,0,993.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Zhejiang,台州,,,,,121.420757,28.656386
+COVID-19_Baidu,2020-06-17 23:59:00,147,145,2,0,0,0,986.39,13.61,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Guizhou,,,,,,106.70741,26.598194
+COVID-19_Baidu,2020-06-17 23:59:00,145,142,3,0,0,0,979.31,20.69,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,成都,,,,,104.066541,30.572269
+COVID-19_Baidu,2020-06-17 23:59:00,142,136,6,0,0,0,957.75,42.25,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,冲绳,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,142,3,0,0,0,0,21.13,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,丰台区,,,,116.287149,39.858427
+COVID-19_Baidu,2020-06-17 23:59:00,139,139,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,驻马店,,,,,114.022298,33.011529
+COVID-19_Baidu,2020-06-17 23:59:00,132,124,0,0,0,0,939.39,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,庆尚南道,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,129,129,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangxi,新余,,,,,114.917346,27.817808
+COVID-19_Baidu,2020-06-17 23:59:00,123,123,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangxi,上饶,,,,,117.943433,28.454862
+COVID-19_Baidu,2020-06-17 23:59:00,122,114,8,0,0,0,934.43,65.57,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,福井,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,120,117,3,0,0,0,975.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shaanxi,西安,,,,,108.940174,34.341568
+COVID-19_Baidu,2020-06-17 23:59:00,118,114,4,0,0,0,966.1,33.9,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,万州区,,,,108.408661,30.807667
+COVID-19_Baidu,2020-06-17 23:59:00,116,116,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangxi,九江,,,,,116.00193,29.705077
+COVID-19_Baidu,2020-06-17 23:59:00,113,112,1,0,0,0,991.15,8.85,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Shanghai,外地来沪人员,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,108,108,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,亳州,,,,,115.778676,33.844582
+COVID-19_Baidu,2020-06-17 23:59:00,106,106,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangxi,宜春,,,,,114.416778,27.815619
+COVID-19_Baidu,2020-06-17 23:59:00,102,101,1,0,0,0,990.2,9.8,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,邵阳,,,,,111.467791,27.238892
+COVID-19_Baidu,2020-06-17 23:59:00,100,98,1,0,0,0,980.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,滋贺,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,99,98,1,0,0,0,989.9,10.1,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,东莞,,,,,113.751765,23.020536
+COVID-19_Baidu,2020-06-17 23:59:00,98,97,1,0,0,0,989.8,10.2,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,珠海,,,,,113.576726,22.270715
+COVID-19_Baidu,2020-06-17 23:59:00,93,93,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,南京,,,,,118.796877,32.060255
+COVID-19_Baidu,2020-06-17 23:59:00,92,90,2,0,0,0,978.26,21.74,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,奈良,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,91,88,3,0,0,0,967.03,32.97,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,商丘,,,,,115.65637,34.414172
+COVID-19_Baidu,2020-06-17 23:59:00,89,89,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,佛山,,,,,113.121416,23.021548
+COVID-19_Baidu,2020-06-17 23:59:00,88,87,1,0,0,0,988.64,11.36,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,宫城,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,87,87,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,苏州,,,,,120.585315,31.298886
+COVID-19_Baidu,2020-06-17 23:59:00,83,83,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,安庆,,,,,117.063754,30.543494
+COVID-19_Baidu,2020-06-17 23:59:00,82,72,4,0,0,0,878.05,48.78,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,爱媛,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,82,81,0,0,0,0,987.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,新泻,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,82,82,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,常德,,,,,111.698497,29.031673
+COVID-19_Baidu,2020-06-17 23:59:00,81,79,0,0,0,0,975.31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,福岛,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,80,73,1,0,0,0,912.5,12.5,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,静冈,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,80,80,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,株洲,,,,,113.134002,27.82755
+COVID-19_Baidu,2020-06-17 23:59:00,79,79,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,徐州,,,,,117.284124,34.205768
+COVID-19_Baidu,2020-06-17 23:59:00,78,78,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,甘孜,,,,,101.96231,30.04952
+COVID-19_Baidu,2020-06-17 23:59:00,76,75,0,0,0,0,986.84,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,长野,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,76,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,朝阳区,,,,116.601144,39.948574
+COVID-19_Baidu,2020-06-17 23:59:00,76,76,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,娄底,,,,,111.993497,27.700062
+COVID-19_Baidu,2020-06-17 23:59:00,76,75,1,0,0,0,986.84,13.16,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,周口,,,,,114.696951,33.626149
+COVID-19_Baidu,2020-06-17 23:59:00,76,73,3,0,0,0,960.53,39.47,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Xinjiang,,,,,,87.627704,43.793026
+COVID-19_Baidu,2020-06-17 23:59:00,75,75,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Ningxia,,,,,,106.258754,38.471317
+COVID-19_Baidu,2020-06-17 23:59:00,74,71,3,0,0,0,959.46,40.54,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,高知,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,74,73,1,0,0,0,986.49,13.51,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangxi,赣州,,,,,114.935029,25.831829
+COVID-19_Baidu,2020-06-17 23:59:00,72,68,1,0,0,0,944.44,13.89,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,山梨,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,72,72,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangxi,抚州,,,,,116.358181,27.949217
+COVID-19_Baidu,2020-06-17 23:59:00,72,71,1,0,0,0,986.11,13.89,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Fujian,福州,,,,,119.296494,26.074507
+COVID-19_Baidu,2020-06-17 23:59:00,69,68,0,0,0,0,985.51,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,山形,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,69,64,0,0,0,0,927.54,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Shaanxi,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,69,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,海淀区,,,,116.329519,39.972134
+COVID-19_Baidu,2020-06-17 23:59:00,69,69,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,六安,,,,,116.521854,31.733699
+COVID-19_Baidu,2020-06-17 23:59:00,67,67,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,中山,,,,,113.392782,22.517645
+COVID-19_Baidu,2020-06-17 23:59:00,66,65,0,0,0,0,984.85,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,栃木,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,66,61,0,0,0,0,924.24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Fujian,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,66,66,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,淮安,,,,,119.015285,33.610353
+COVID-19_Baidu,2020-06-17 23:59:00,65,64,1,0,0,0,984.62,15.38,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,青岛,,,,,120.382639,36.067082
+COVID-19_Baidu,2020-06-17 23:59:00,64,64,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Shanxi,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,63,60,3,0,0,0,952.38,47.62,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,和歌山,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,62,62,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,惠州,,,,,114.416196,23.111847
+COVID-19_Baidu,2020-06-17 23:59:00,61,55,0,0,0,0,901.64,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,忠清北道,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,61,60,1,0,0,0,983.61,16.39,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,浦东新区,,,,121.544379,31.221517
+COVID-19_Baidu,2020-06-17 23:59:00,60,59,1,0,0,0,983.33,16.67,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,大分,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,60,52,3,0,0,0,866.67,50.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,江原道,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,60,56,0,0,0,0,933.33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Tianjin,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,60,58,2,0,0,0,966.67,33.33,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,宝坻区,,,,117.309863,39.717379
+COVID-19_Baidu,2020-06-17 23:59:00,60,60,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,益阳,,,,,112.35518,28.55386
+COVID-19_Baidu,2020-06-17 23:59:00,58,57,1,0,0,0,982.76,17.24,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,平顶山,,,,,113.192661,33.766169
+COVID-19_Baidu,2020-06-17 23:59:00,58,57,1,0,0,0,982.76,17.24,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hebei,唐山,,,,,118.180193,39.630867
+COVID-19_Baidu,2020-06-17 23:59:00,57,47,0,0,0,0,824.56,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Gansu,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,57,54,3,0,0,0,947.37,52.63,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,新乡,,,,,113.9268,35.303004
+COVID-19_Baidu,2020-06-17 23:59:00,56,16,0,0,0,0,285.71,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,大兴区,,,,116.341014,39.784747
+COVID-19_Baidu,2020-06-17 23:59:00,56,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,西城区,,,,116.365868,39.912289
+COVID-19_Baidu,2020-06-17 23:59:00,56,56,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Fujian,莆田,,,,,119.007777,25.454084
+COVID-19_Baidu,2020-06-17 23:59:00,55,54,1,0,0,0,981.82,18.18,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hainan,三亚,,,,,109.511909,18.252847
+COVID-19_Baidu,2020-06-17 23:59:00,55,55,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,南宁,,,,,108.366543,22.817002
+COVID-19_Baidu,2020-06-17 23:59:00,55,55,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Zhejiang,金华,,,,,119.647444,29.079059
+COVID-19_Baidu,2020-06-17 23:59:00,55,55,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,无锡,,,,,120.31191,31.491169
+COVID-19_Baidu,2020-06-17 23:59:00,54,43,1,0,0,0,796.3,18.52,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,大田,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,53,47,1,0,0,0,886.79,18.87,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,蔚山,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,53,53,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,昆明,,,,,102.832891,24.880095
+COVID-19_Baidu,2020-06-17 23:59:00,53,53,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,安阳,,,,,114.392392,36.097577
+COVID-19_Baidu,2020-06-17 23:59:00,52,49,3,0,0,0,942.31,57.69,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,双鸭山,,,,,131.159133,46.646508
+COVID-19_Baidu,2020-06-17 23:59:00,51,51,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,常州,,,,,119.973987,31.810689
+COVID-19_Baidu,2020-06-17 23:59:00,50,50,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Zhejiang,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,49,49,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,临沂,,,,,118.356448,35.104672
+COVID-19_Baidu,2020-06-17 23:59:00,48,45,3,0,0,0,937.5,62.5,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,熊本,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,48,28,0,0,0,0,583.33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Sichuan,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,48,48,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,衡阳,,,,,112.571997,26.89323
+COVID-19_Baidu,2020-06-17 23:59:00,48,48,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,连云港,,,,,119.221611,34.596653
+COVID-19_Baidu,2020-06-17 23:59:00,48,47,1,0,0,0,979.17,20.83,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jilin,吉林,,,,,126.549576,43.837883
+COVID-19_Baidu,2020-06-17 23:59:00,48,45,3,0,0,0,937.5,62.5,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hebei,沧州,,,,,116.838834,38.304477
+COVID-19_Baidu,2020-06-17 23:59:00,47,47,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,佐贺,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,47,47,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,世宗,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,47,47,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,烟台,,,,,121.447935,37.463822
+COVID-19_Baidu,2020-06-17 23:59:00,47,47,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,济南,,,,,117.119999,36.651216
+COVID-19_Baidu,2020-06-17 23:59:00,47,47,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Fujian,泉州,,,,,118.675675,24.874132
+COVID-19_Baidu,2020-06-17 23:59:00,47,43,4,0,0,0,914.89,85.11,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,绥化,,,,,126.968887,46.653845
+COVID-19_Baidu,2020-06-17 23:59:00,46,46,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Zhejiang,嘉兴,,,,,120.755486,30.746129
+COVID-19_Baidu,2020-06-17 23:59:00,46,46,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,鸡西,,,,,130.969333,45.295075
+COVID-19_Baidu,2020-06-17 23:59:00,45,44,1,0,0,0,977.78,22.22,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,三重,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,45,45,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jilin,长春,,,,,125.323544,43.817071
+COVID-19_Baidu,2020-06-17 23:59:00,45,45,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Macau,,,,,,113.543028,22.186835
+COVID-19_Baidu,2020-06-17 23:59:00,44,43,1,0,0,0,977.27,22.73,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,北海,,,,,109.119927,21.481254
+COVID-19_Baidu,2020-06-17 23:59:00,44,44,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,永州,,,,,111.613445,26.420394
+COVID-19_Baidu,2020-06-17 23:59:00,44,44,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,潍坊,,,,,119.161755,36.706774
+COVID-19_Baidu,2020-06-17 23:59:00,43,42,1,0,0,0,976.74,23.26,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,齐齐哈尔,,,,,123.918186,47.354348
+COVID-19_Baidu,2020-06-17 23:59:00,42,42,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,达州,,,,,107.468023,31.209571
+COVID-19_Baidu,2020-06-17 23:59:00,42,42,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Zhejiang,绍兴,,,,,120.580232,30.029752
+COVID-19_Baidu,2020-06-17 23:59:00,41,41,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,宿州,,,,,116.964356,33.646373
+COVID-19_Baidu,2020-06-17 23:59:00,41,41,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hebei,张家口,,,,,114.887543,40.824418
+COVID-19_Baidu,2020-06-17 23:59:00,40,40,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,怀化,,,,,109.998488,27.554978
+COVID-19_Baidu,2020-06-17 23:59:00,40,40,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,南通,,,,,120.894291,31.980171
+COVID-19_Baidu,2020-06-17 23:59:00,39,39,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,南充,,,,,106.110698,30.837793
+COVID-19_Baidu,2020-06-17 23:59:00,39,39,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hainan,海口,,,,,110.198293,20.044001
+COVID-19_Baidu,2020-06-17 23:59:00,39,39,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,郴州,,,,,113.014717,25.770509
+COVID-19_Baidu,2020-06-17 23:59:00,39,38,1,0,0,0,974.36,25.64,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,许昌,,,,,113.85264,34.035506
+COVID-19_Baidu,2020-06-17 23:59:00,38,38,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,聊城,,,,,115.985371,36.456703
+COVID-19_Baidu,2020-06-17 23:59:00,38,37,1,0,0,0,973.68,26.32,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,威海,,,,,122.120419,37.513068
+COVID-19_Baidu,2020-06-17 23:59:00,38,38,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,马鞍山,,,,,118.506759,31.670452
+COVID-19_Baidu,2020-06-17 23:59:00,37,36,0,0,0,0,972.97,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,山口,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,37,35,2,0,0,0,945.95,54.05,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,德州,,,,,116.357464,37.434092
+COVID-19_Baidu,2020-06-17 23:59:00,37,37,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,泰州,,,,,119.923116,32.455778
+COVID-19_Baidu,2020-06-17 23:59:00,37,37,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shanxi,晋中,,,,,112.752694,37.687024
+COVID-19_Baidu,2020-06-17 23:59:00,36,36,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Zhejiang,省十里丰监狱,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,36,34,2,0,0,0,944.44,55.56,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Gansu,兰州,,,,,103.834303,36.061089
+COVID-19_Baidu,2020-06-17 23:59:00,36,35,1,0,0,0,972.22,27.78,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guizhou,贵阳,,,,,106.630153,26.647661
+COVID-19_Baidu,2020-06-17 23:59:00,36,36,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,湘潭,,,,,112.944049,27.829738
+COVID-19_Baidu,2020-06-17 23:59:00,36,36,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,漯河,,,,,114.016539,33.581412
+COVID-19_Baidu,2020-06-17 23:59:00,35,33,2,0,0,0,942.86,57.14,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,泰安,,,,,117.087614,36.200252
+COVID-19_Baidu,2020-06-17 23:59:00,35,35,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Fujian,厦门,,,,,118.089425,24.479833
+COVID-19_Baidu,2020-06-17 23:59:00,35,32,0,0,0,0,914.29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hebei,保定,,,,,115.464806,38.873891
+COVID-19_Baidu,2020-06-17 23:59:00,34,34,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Ningxia,银川,,,,,106.230909,38.487193
+COVID-19_Baidu,2020-06-17 23:59:00,34,34,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,芜湖,,,,,118.432941,31.352859
+COVID-19_Baidu,2020-06-17 23:59:00,33,33,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangxi,萍乡,,,,,113.854556,27.622768
+COVID-19_Baidu,2020-06-17 23:59:00,33,31,0,0,0,0,939.39,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,沈阳,,,,,123.431474,41.805698
+COVID-19_Baidu,2020-06-17 23:59:00,32,32,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,光州市,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,32,32,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guizhou,遵义,,,,,106.927389,27.725654
+COVID-19_Baidu,2020-06-17 23:59:00,32,32,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,桂林,,,,,110.290194,25.273566
+COVID-19_Baidu,2020-06-17 23:59:00,32,31,1,0,0,0,968.75,31.25,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,焦作,,,,,113.241823,35.215892
+COVID-19_Baidu,2020-06-17 23:59:00,32,32,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hebei,邯郸,,,,,114.538961,36.625657
+COVID-19_Baidu,2020-06-17 23:59:00,31,30,1,0,0,0,967.74,32.26,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,洛阳,,,,,112.45404,34.619682
+COVID-19_Baidu,2020-06-17 23:59:00,30,30,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,广安,,,,,106.633212,30.455961
+COVID-19_Baidu,2020-06-17 23:59:00,30,29,1,0,0,0,966.67,33.33,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,淄博,,,,,118.054927,36.813487
+COVID-19_Baidu,2020-06-17 23:59:00,30,30,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hebei,廊坊,,,,,116.683752,39.538047
+COVID-19_Baidu,2020-06-17 23:59:00,29,27,0,0,0,0,931.03,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Shandong,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,29,10,0,0,0,0,344.83,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,昌平区,,,,116.231204,40.22066
+COVID-19_Baidu,2020-06-17 23:59:00,29,29,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,铜陵,,,,,117.812079,30.945429
+COVID-19_Baidu,2020-06-17 23:59:00,29,29,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hebei,石家庄,,,,,114.514859,38.042306
+COVID-19_Baidu,2020-06-17 23:59:00,28,28,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,香川,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,28,28,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,江北区,,,,106.574271,29.606703
+COVID-19_Baidu,2020-06-17 23:59:00,28,28,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Ningxia,吴忠,,,,,106.198393,37.99746
+COVID-19_Baidu,2020-06-17 23:59:00,28,27,1,0,0,0,964.29,35.71,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,河池,,,,,108.085261,24.692931
+COVID-19_Baidu,2020-06-17 23:59:00,27,26,1,0,0,0,962.96,37.04,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,青森,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,27,27,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,淮北,,,,,116.798265,33.955844
+COVID-19_Baidu,2020-06-17 23:59:00,27,27,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,淮南,,,,,116.999932,32.625478
+COVID-19_Baidu,2020-06-17 23:59:00,27,27,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,盐城,,,,,120.163561,33.347382
+COVID-19_Baidu,2020-06-17 23:59:00,27,26,1,0,0,0,962.96,37.04,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,大庆,,,,,125.103784,46.589309
+COVID-19_Baidu,2020-06-17 23:59:00,26,26,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shaanxi,安康,,,,,109.029022,32.684714
+COVID-19_Baidu,2020-06-17 23:59:00,26,26,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shaanxi,汉中,,,,,107.023323,33.06748
+COVID-19_Baidu,2020-06-17 23:59:00,26,26,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,开封,,,,,114.307581,34.797239
+COVID-19_Baidu,2020-06-17 23:59:00,26,26,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Fujian,宁德,,,,,119.547932,26.665617
+COVID-19_Baidu,2020-06-17 23:59:00,25,25,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,冈山,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,25,2,0,0,0,0,80.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Beijing,外地来京人员,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,25,25,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,县,云阳县,,,,108.697324,30.930613
+COVID-19_Baidu,2020-06-17 23:59:00,25,25,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,昭通,,,,,103.717465,27.338257
+COVID-19_Baidu,2020-06-17 23:59:00,25,25,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,汕头,,,,,116.681972,23.354091
+COVID-19_Baidu,2020-06-17 23:59:00,25,25,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,牡丹江,,,,,129.633168,44.551653
+COVID-19_Baidu,2020-06-17 23:59:00,24,23,0,0,0,0,958.33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,岛根,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,24,24,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,巴中,,,,,106.747477,31.867903
+COVID-19_Baidu,2020-06-17 23:59:00,24,24,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,泸州,,,,,105.442258,28.87181
+COVID-19_Baidu,2020-06-17 23:59:00,24,24,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,柳州,,,,,109.415953,24.325502
+COVID-19_Baidu,2020-06-17 23:59:00,24,24,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,枣庄,,,,,117.323725,34.810487
+COVID-19_Baidu,2020-06-17 23:59:00,23,23,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,合川区,,,,106.27613,29.972084
+COVID-19_Baidu,2020-06-17 23:59:00,23,23,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,綦江区,,,,106.651362,29.028067
+COVID-19_Baidu,2020-06-17 23:59:00,23,23,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Xinjiang,乌鲁木齐,,,,,87.616848,43.825592
+COVID-19_Baidu,2020-06-17 23:59:00,23,23,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guizhou,毕节,,,,,105.283992,27.302589
+COVID-19_Baidu,2020-06-17 23:59:00,23,23,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,江门,,,,,113.081901,22.578738
+COVID-19_Baidu,2020-06-17 23:59:00,23,23,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,扬州,,,,,119.412966,32.39421
+COVID-19_Baidu,2020-06-17 23:59:00,23,22,1,0,0,0,956.52,43.48,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hebei,邢台,,,,,114.504844,37.070589
+COVID-19_Baidu,2020-06-17 23:59:00,22,22,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Jiangsu,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,22,21,0,0,0,0,954.55,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Liaoning,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,22,22,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,县,奉节县,,,,109.463987,31.018498
+COVID-19_Baidu,2020-06-17 23:59:00,22,22,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,长寿区,,,,107.081283,29.857996
+COVID-19_Baidu,2020-06-17 23:59:00,22,21,1,0,0,0,954.55,45.45,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,宝山区,,,,121.489612,31.405457
+COVID-19_Baidu,2020-06-17 23:59:00,22,22,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,内江,,,,,105.058433,29.580228
+COVID-19_Baidu,2020-06-17 23:59:00,22,22,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,绵阳,,,,,104.679114,31.46745
+COVID-19_Baidu,2020-06-17 23:59:00,22,22,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,湛江,,,,,110.359377,21.270707
+COVID-19_Baidu,2020-06-17 23:59:00,22,22,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangxi,吉安,,,,,114.992509,27.113443
+COVID-19_Baidu,2020-06-17 23:59:00,21,20,0,0,0,0,952.38,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,全罗北道,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,21,21,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,县,忠县,,,,108.039002,30.29956
+COVID-19_Baidu,2020-06-17 23:59:00,21,20,1,0,0,0,952.38,47.62,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,开州区,,,,108.393135,31.160711
+COVID-19_Baidu,2020-06-17 23:59:00,21,20,1,0,0,0,952.38,47.62,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,九龙坡区,,,,106.53192,29.51419
+COVID-19_Baidu,2020-06-17 23:59:00,21,21,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shanxi,太原,,,,,112.548879,37.87059
+COVID-19_Baidu,2020-06-17 23:59:00,20,18,0,0,0,0,900.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,全罗南道,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,20,20,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,县,垫江县,,,,107.33339,30.327717
+COVID-19_Baidu,2020-06-17 23:59:00,20,20,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,渝中区,,,,106.568892,29.55275
+COVID-19_Baidu,2020-06-17 23:59:00,20,3,0,0,0,0,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,房山区,,,,116.143267,39.749144
+COVID-19_Baidu,2020-06-17 23:59:00,20,20,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Fujian,南平,,,,,118.177708,26.641768
+COVID-19_Baidu,2020-06-17 23:59:00,20,20,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Fujian,漳州,,,,,117.647481,24.512948
+COVID-19_Baidu,2020-06-17 23:59:00,19,19,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Jilin,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,19,19,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,闵行区,,,,121.381709,31.112813
+COVID-19_Baidu,2020-06-17 23:59:00,19,1,0,0,0,0,52.63,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,通州区,,,,116.656435,39.909946
+COVID-19_Baidu,2020-06-17 23:59:00,19,1,0,0,0,0,52.63,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,东城区,,,,116.416357,39.928353
+COVID-19_Baidu,2020-06-17 23:59:00,19,19,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,防城港,,,,,108.353846,21.68686
+COVID-19_Baidu,2020-06-17 23:59:00,19,18,1,0,0,0,947.37,52.63,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,肇庆,,,,,112.465091,23.047191
+COVID-19_Baidu,2020-06-17 23:59:00,19,19,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,鹤壁,,,,,114.297272,35.747225
+COVID-19_Baidu,2020-06-17 23:59:00,19,19,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shanxi,运城,,,,,111.007528,35.026412
+COVID-19_Baidu,2020-06-17 23:59:00,18,18,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,潼南区,,,,105.840556,30.191013
+COVID-19_Baidu,2020-06-17 23:59:00,18,17,1,0,0,0,944.44,55.56,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,徐汇区,,,,121.437866,31.19919
+COVID-19_Baidu,2020-06-17 23:59:00,18,18,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Xinjiang,伊犁,,,,,81.324136,43.916823
+COVID-19_Baidu,2020-06-17 23:59:00,18,18,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,德阳,,,,,104.397894,31.126855
+COVID-19_Baidu,2020-06-17 23:59:00,18,18,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,菏泽,,,,,115.480656,35.23375
+COVID-19_Baidu,2020-06-17 23:59:00,18,18,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangxi,鹰潭,,,,,117.069202,28.260189
+COVID-19_Baidu,2020-06-17 23:59:00,18,18,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,大连,,,,,121.614682,38.914003
+COVID-19_Baidu,2020-06-17 23:59:00,18,18,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Qinghai,,,,,,101.780199,36.620901
+COVID-19_Baidu,2020-06-17 23:59:00,17,16,1,0,0,0,941.18,58.82,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,长崎,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,17,17,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,宫崎,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,17,17,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Chongqing,两江新区,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,17,17,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,渝北区,,,,106.631187,29.718143
+COVID-19_Baidu,2020-06-17 23:59:00,17,17,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shaanxi,咸阳,,,,,108.708991,34.329605
+COVID-19_Baidu,2020-06-17 23:59:00,17,17,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guizhou,黔南,,,,,107.522097,26.254092
+COVID-19_Baidu,2020-06-17 23:59:00,17,17,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,遂宁,,,,,105.592898,30.532847
+COVID-19_Baidu,2020-06-17 23:59:00,17,17,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,濮阳,,,,,115.029215,35.761829
+COVID-19_Baidu,2020-06-17 23:59:00,17,17,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,池州,,,,,117.491568,30.6648
+COVID-19_Baidu,2020-06-17 23:59:00,17,17,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Zhejiang,丽水,,,,,119.922796,28.46763
+COVID-19_Baidu,2020-06-17 23:59:00,17,17,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,七台河,,,,,131.003138,45.771726
+COVID-19_Baidu,2020-06-17 23:59:00,16,16,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,秋田,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,16,15,0,0,0,0,937.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Republic of Korea,,济州岛,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,16,15,1,0,0,0,937.5,62.5,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,静安区,,,,121.459384,31.247105
+COVID-19_Baidu,2020-06-17 23:59:00,16,16,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,攀枝花,,,,,101.718637,26.582347
+COVID-19_Baidu,2020-06-17 23:59:00,16,16,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,梅州,,,,,116.122238,24.288615
+COVID-19_Baidu,2020-06-17 23:59:00,16,16,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,日照,,,,,119.526888,35.416377
+COVID-19_Baidu,2020-06-17 23:59:00,15,15,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Chongqing,石柱县,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,15,15,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,南岸区,,,,106.644428,29.500297
+COVID-19_Baidu,2020-06-17 23:59:00,15,14,1,0,0,0,933.33,66.67,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,河东区,,,,117.251587,39.128291
+COVID-19_Baidu,2020-06-17 23:59:00,15,11,0,0,0,0,733.33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,石景山区,,,,116.222982,39.906611
+COVID-19_Baidu,2020-06-17 23:59:00,15,15,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Qinghai,西宁,,,,,101.778228,36.617144
+COVID-19_Baidu,2020-06-17 23:59:00,15,15,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shaanxi,渭南,,,,,109.509786,34.499995
+COVID-19_Baidu,2020-06-17 23:59:00,15,14,1,0,0,0,933.33,66.67,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,西双版纳,,,,,100.797777,22.007351
+COVID-19_Baidu,2020-06-17 23:59:00,15,14,1,0,0,0,933.33,66.67,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hainan,儋州,,,,,109.580811,19.521134
+COVID-19_Baidu,2020-06-17 23:59:00,15,15,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shandong,滨州,,,,,117.970703,37.38199
+COVID-19_Baidu,2020-06-17 23:59:00,15,15,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,佳木斯,,,,,130.318917,46.799922
+COVID-19_Baidu,2020-06-17 23:59:00,15,14,1,0,0,0,933.33,66.67,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jilin,四平,,,,,124.350398,43.166419
+COVID-19_Baidu,2020-06-17 23:59:00,14,14,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,县,巫溪县,,,,109.570062,31.398604
+COVID-19_Baidu,2020-06-17 23:59:00,14,14,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,大足区,,,,105.721733,29.707032
+COVID-19_Baidu,2020-06-17 23:59:00,14,14,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,松江区,,,,121.227747,31.032243
+COVID-19_Baidu,2020-06-17 23:59:00,14,13,1,0,0,0,928.57,71.43,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,玉溪,,,,,102.546543,24.352036
+COVID-19_Baidu,2020-06-17 23:59:00,14,14,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,阳江,,,,,111.982232,21.857958
+COVID-19_Baidu,2020-06-17 23:59:00,14,14,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,茂名,,,,,110.925456,21.662999
+COVID-19_Baidu,2020-06-17 23:59:00,14,14,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Fujian,三明,,,,,117.638678,26.263406
+COVID-19_Baidu,2020-06-17 23:59:00,14,14,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Zhejiang,衢州,,,,,118.859457,28.970079
+COVID-19_Baidu,2020-06-17 23:59:00,14,14,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,黑河,,,,,127.52856,50.245329
+COVID-19_Baidu,2020-06-17 23:59:00,13,13,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hainan,省直辖县级行政区划,万宁市,,,,110.388793,18.796216
+COVID-19_Baidu,2020-06-17 23:59:00,13,13,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,长宁区,,,,121.424624,31.220367
+COVID-19_Baidu,2020-06-17 23:59:00,13,13,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shaanxi,宝鸡,,,,,107.237974,34.361979
+COVID-19_Baidu,2020-06-17 23:59:00,13,13,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,大理,,,,,100.267638,25.606486
+COVID-19_Baidu,2020-06-17 23:59:00,13,13,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,曲靖,,,,,103.796167,25.489999
+COVID-19_Baidu,2020-06-17 23:59:00,13,13,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,凉山,,,,,102.267335,27.88161
+COVID-19_Baidu,2020-06-17 23:59:00,13,13,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,滁州,,,,,118.317106,32.301556
+COVID-19_Baidu,2020-06-17 23:59:00,13,13,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,宿迁,,,,,118.275198,33.963232
+COVID-19_Baidu,2020-06-17 23:59:00,12,12,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,河北区,,,,117.196648,39.147869
+COVID-19_Baidu,2020-06-17 23:59:00,12,12,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Gansu,天水,,,,,105.724947,34.580863
+COVID-19_Baidu,2020-06-17 23:59:00,12,12,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,宜宾,,,,,104.643215,28.751768
+COVID-19_Baidu,2020-06-17 23:59:00,12,12,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,清远,,,,,113.056031,23.681763
+COVID-19_Baidu,2020-06-17 23:59:00,12,12,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangsu,镇江,,,,,119.425836,32.187849
+COVID-19_Baidu,2020-06-17 23:59:00,12,11,1,0,0,0,916.67,83.33,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,葫芦岛,,,,,120.836932,40.711052
+COVID-19_Baidu,2020-06-17 23:59:00,12,12,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,锦州,,,,,121.127003,41.095119
+COVID-19_Baidu,2020-06-17 23:59:00,12,12,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shanxi,大同,,,,,113.300129,40.076762
+COVID-19_Baidu,2020-06-17 23:59:00,11,10,0,0,0,0,909.09,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,鹿儿岛,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,11,11,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Yunnan,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,11,11,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hubei,省直辖县级行政区划,神农架林区,,,,110.680448,31.743483
+COVID-19_Baidu,2020-06-17 23:59:00,11,11,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,普陀区,,,,121.395555,31.24984
+COVID-19_Baidu,2020-06-17 23:59:00,11,11,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,来宾,,,,,109.221465,23.750306
+COVID-19_Baidu,2020-06-17 23:59:00,11,11,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,玉林,,,,,110.164756,22.636379
+COVID-19_Baidu,2020-06-17 23:59:00,11,11,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,盘锦,,,,,122.070714,41.119997
+COVID-19_Baidu,2020-06-17 23:59:00,11,11,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,丹东,,,,,124.354706,40.000499
+COVID-19_Baidu,2020-06-17 23:59:00,11,11,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Inner Mongolia,鄂尔多斯,,,,,109.781327,39.608266
+COVID-19_Baidu,2020-06-17 23:59:00,11,11,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Inner Mongolia,包头,,,,,109.840347,40.657449
+COVID-19_Baidu,2020-06-17 23:59:00,10,10,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Hebei,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,10,9,1,0,0,0,900.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Xinjiang,第四师,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,10,10,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,县,巫山县,,,,109.879153,31.074834
+COVID-19_Baidu,2020-06-17 23:59:00,10,10,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,县,丰都县,,,,107.730895,29.8635
+COVID-19_Baidu,2020-06-17 23:59:00,10,10,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,铜梁区,,,,106.056404,29.844811
+COVID-19_Baidu,2020-06-17 23:59:00,10,10,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,顺义区,,,,116.654561,40.130347
+COVID-19_Baidu,2020-06-17 23:59:00,10,10,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guizhou,黔东南,,,,,107.982859,26.583442
+COVID-19_Baidu,2020-06-17 23:59:00,10,10,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guizhou,铜仁,,,,,109.189598,27.731514
+COVID-19_Baidu,2020-06-17 23:59:00,10,9,1,0,0,0,900.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guizhou,六盘水,,,,,104.830359,26.592666
+COVID-19_Baidu,2020-06-17 23:59:00,10,10,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,揭阳,,,,,116.372831,23.549993
+COVID-19_Baidu,2020-06-17 23:59:00,10,9,1,0,0,0,900.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,韶关,,,,,113.597522,24.810403
+COVID-19_Baidu,2020-06-17 23:59:00,10,10,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Zhejiang,舟山,,,,,122.207215,29.985295
+COVID-19_Baidu,2020-06-17 23:59:00,10,10,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Zhejiang,湖州,,,,,120.086823,30.894348
+COVID-19_Baidu,2020-06-17 23:59:00,10,10,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shanxi,晋城,,,,,112.851831,35.490701
+COVID-19_Baidu,2020-06-17 23:59:00,10,9,1,0,0,0,900.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hebei,秦皇岛,,,,,119.600492,39.935385
+COVID-19_Baidu,2020-06-17 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,荣昌区,,,,105.594623,29.405002
+COVID-19_Baidu,2020-06-17 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,璧山区,,,,106.227305,29.592024
+COVID-19_Baidu,2020-06-17 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,沙坪坝区,,,,106.456878,29.541145
+COVID-19_Baidu,2020-06-17 23:59:00,9,8,1,0,0,0,888.89,111.11,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hainan,省直辖县级行政区划,澄迈县,,,,110.006755,19.738521
+COVID-19_Baidu,2020-06-17 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,奉贤区,,,,121.474042,30.917795
+COVID-19_Baidu,2020-06-17 23:59:00,9,7,2,0,0,0,777.78,222.22,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,嘉定区,,,,121.2653,31.375602
+COVID-19_Baidu,2020-06-17 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,杨浦区,,,,121.526077,31.259541
+COVID-19_Baidu,2020-06-17 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Gansu,定西,,,,,104.626282,35.580662
+COVID-19_Baidu,2020-06-17 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Gansu,平凉,,,,,106.66524,35.543051
+COVID-19_Baidu,2020-06-17 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,红河,,,,,103.374799,23.36313
+COVID-19_Baidu,2020-06-17 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,保山,,,,,99.161761,25.112046
+COVID-19_Baidu,2020-06-17 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,自贡,,,,,104.778442,29.33903
+COVID-19_Baidu,2020-06-17 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,黄山,,,,,118.337481,29.714655
+COVID-19_Baidu,2020-06-17 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Inner Mongolia,锡林郭勒,,,,,116.048222,43.933454
+COVID-19_Baidu,2020-06-17 23:59:00,9,9,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Inner Mongolia,赤峰,,,,,118.886856,42.257817
+COVID-19_Baidu,2020-06-17 23:59:00,8,8,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Gansu,甘南,,,,,102.911027,34.983385
+COVID-19_Baidu,2020-06-17 23:59:00,8,8,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shaanxi,延安,,,,,109.489727,36.585455
+COVID-19_Baidu,2020-06-17 23:59:00,8,8,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shaanxi,铜川,,,,,108.945233,34.896756
+COVID-19_Baidu,2020-06-17 23:59:00,8,7,0,0,0,0,875.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,雅安,,,,,103.013261,29.980537
+COVID-19_Baidu,2020-06-17 23:59:00,8,8,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,眉山,,,,,103.848538,30.075439
+COVID-19_Baidu,2020-06-17 23:59:00,8,8,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,贵港,,,,,109.598926,23.11153
+COVID-19_Baidu,2020-06-17 23:59:00,8,8,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,钦州,,,,,108.654146,21.979933
+COVID-19_Baidu,2020-06-17 23:59:00,8,8,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,湘西,,,,,109.739172,28.311947
+COVID-19_Baidu,2020-06-17 23:59:00,8,8,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,阜新,,,,,121.670323,42.021619
+COVID-19_Baidu,2020-06-17 23:59:00,8,7,1,0,0,0,875.0,125.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Inner Mongolia,巴彦淖尔,,,,,107.387657,40.743213
+COVID-19_Baidu,2020-06-17 23:59:00,8,8,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shanxi,朔州,,,,,112.432825,39.331595
+COVID-19_Baidu,2020-06-17 23:59:00,8,8,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shanxi,长治,,,,,113.116255,36.195386
+COVID-19_Baidu,2020-06-17 23:59:00,8,8,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hebei,衡水,,,,,115.670177,37.73892
+COVID-19_Baidu,2020-06-17 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,大渡口区,,,,106.482347,29.484527
+COVID-19_Baidu,2020-06-17 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hainan,省直辖县级行政区划,昌江黎族自治县,,,,109.055724,19.298062
+COVID-19_Baidu,2020-06-17 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,虹口区,,,,121.505133,31.2646
+COVID-19_Baidu,2020-06-17 23:59:00,7,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,密云区,,,,116.843177,40.376834
+COVID-19_Baidu,2020-06-17 23:59:00,7,3,0,0,0,0,428.57,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,怀柔区,,,,116.642349,40.315704
+COVID-19_Baidu,2020-06-17 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shaanxi,商洛,,,,,109.940477,33.870422
+COVID-19_Baidu,2020-06-17 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,丽江,,,,,100.22775,26.855047
+COVID-19_Baidu,2020-06-17 23:59:00,7,6,1,0,0,0,857.14,142.86,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Henan,三门峡,,,,,111.200135,34.772493
+COVID-19_Baidu,2020-06-17 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jilin,辽源,,,,,125.143532,42.887918
+COVID-19_Baidu,2020-06-17 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,铁岭,,,,,123.726166,42.223769
+COVID-19_Baidu,2020-06-17 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Inner Mongolia,呼伦贝尔,,,,,119.765744,49.211574
+COVID-19_Baidu,2020-06-17 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Inner Mongolia,通辽,,,,,122.243444,43.65289
+COVID-19_Baidu,2020-06-17 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Inner Mongolia,呼和浩特,,,,,111.74918,40.842585
+COVID-19_Baidu,2020-06-17 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shanxi,忻州,,,,,112.734174,38.416663
+COVID-19_Baidu,2020-06-17 23:59:00,7,7,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hebei,承德,,,,,117.96241,40.954071
+COVID-19_Baidu,2020-06-17 23:59:00,6,3,0,0,0,0,500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Chongqing,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Tianjin,外地来津人员,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,巴南区,,,,106.53384,29.375528
+COVID-19_Baidu,2020-06-17 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hainan,省直辖县级行政区划,临高县,,,,109.690508,19.912026
+COVID-19_Baidu,2020-06-17 23:59:00,6,5,1,0,0,0,833.33,166.67,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hainan,省直辖县级行政区划,琼海市,,,,110.466258,19.252511
+COVID-19_Baidu,2020-06-17 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,青浦区,,,,121.124178,31.150681
+COVID-19_Baidu,2020-06-17 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,黄浦区,,,,121.46924,31.22986
+COVID-19_Baidu,2020-06-17 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Jilin,四平,公主岭市,,,,124.82283,43.504687
+COVID-19_Baidu,2020-06-17 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,北辰区,,,,117.139343,39.217817
+COVID-19_Baidu,2020-06-17 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,南开区,,,,117.150738,39.138203
+COVID-19_Baidu,2020-06-17 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,和平区,,,,117.208125,39.118897
+COVID-19_Baidu,2020-06-17 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,广元,,,,,105.843357,32.435435
+COVID-19_Baidu,2020-06-17 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jiangxi,景德镇,,,,,117.178419,29.268835
+COVID-19_Baidu,2020-06-17 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Fujian,龙岩,,,,,117.017536,25.075123
+COVID-19_Baidu,2020-06-17 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Anhui,宣城,,,,,118.758816,30.940718
+COVID-19_Baidu,2020-06-17 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jilin,通化,,,,,125.939697,41.728401
+COVID-19_Baidu,2020-06-17 23:59:00,6,5,1,0,0,0,833.33,166.67,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,朝阳,,,,,120.450372,41.573734
+COVID-19_Baidu,2020-06-17 23:59:00,6,6,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shanxi,吕梁,,,,,111.144319,37.518314
+COVID-19_Baidu,2020-06-17 23:59:00,5,4,1,0,0,0,800.0,200.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,德岛,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,5,5,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,永川区,,,,105.927376,29.356117
+COVID-19_Baidu,2020-06-17 23:59:00,5,5,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,涪陵区,,,,107.389298,29.703113
+COVID-19_Baidu,2020-06-17 23:59:00,5,5,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Henan,省直辖县级行政区划,济源市,,,,112.601919,35.067243
+COVID-19_Baidu,2020-06-17 23:59:00,5,2,0,0,0,0,400.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,门头沟区,,,,116.102009,39.940646
+COVID-19_Baidu,2020-06-17 23:59:00,5,5,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Ningxia,固原,,,,,106.24261,36.015855
+COVID-19_Baidu,2020-06-17 23:59:00,5,5,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,德宏,,,,,98.584895,24.433353
+COVID-19_Baidu,2020-06-17 23:59:00,5,5,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,梧州,,,,,111.279115,23.476962
+COVID-19_Baidu,2020-06-17 23:59:00,5,5,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,潮州,,,,,116.622603,23.65695
+COVID-19_Baidu,2020-06-17 23:59:00,5,5,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,河源,,,,,114.700447,23.743538
+COVID-19_Baidu,2020-06-17 23:59:00,5,5,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangdong,汕尾,,,,,115.375278,22.786211
+COVID-19_Baidu,2020-06-17 23:59:00,5,5,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Hunan,张家界,,,,,110.479191,29.117096
+COVID-19_Baidu,2020-06-17 23:59:00,5,5,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,鹤岗,,,,,130.297964,47.349916
+COVID-19_Baidu,2020-06-17 23:59:00,5,5,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jilin,延边,,,,,129.508946,42.891253
+COVID-19_Baidu,2020-06-17 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Chongqing,高新区,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,4,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Hebei,雄安新区,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,4,3,1,0,0,0,750.0,250.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Xinjiang,第九师,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,4,3,1,0,0,0,750.0,250.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Xinjiang,第八师,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,梁平区,,,,107.769581,30.65423
+COVID-19_Baidu,2020-06-17 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,江津区,,,,106.259281,29.290069
+COVID-19_Baidu,2020-06-17 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hainan,省直辖县级行政区划,陵水黎族自治县,,,,110.037504,18.506048
+COVID-19_Baidu,2020-06-17 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,崇明区,,,,121.397417,31.623587
+COVID-19_Baidu,2020-06-17 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shanghai,市辖区,金山区,,,,121.34197,30.741991
+COVID-19_Baidu,2020-06-17 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,宁河区,,,,117.826625,39.329858
+COVID-19_Baidu,2020-06-17 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,西青区,,,,117.013949,39.141591
+COVID-19_Baidu,2020-06-17 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,东丽区,,,,117.314324,39.086569
+COVID-19_Baidu,2020-06-17 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,河西区,,,,117.223372,39.109563
+COVID-19_Baidu,2020-06-17 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Xinjiang,昌吉,,,,,87.308224,44.011182
+COVID-19_Baidu,2020-06-17 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Gansu,陇南,,,,,104.921841,33.400684
+COVID-19_Baidu,2020-06-17 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Gansu,白银,,,,,104.138559,36.544756
+COVID-19_Baidu,2020-06-17 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,楚雄,,,,,101.528069,25.045532
+COVID-19_Baidu,2020-06-17 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,普洱,,,,,100.966512,22.825065
+COVID-19_Baidu,2020-06-17 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guizhou,黔西南,,,,,104.906396,25.087825
+COVID-19_Baidu,2020-06-17 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guizhou,安顺,,,,,105.947593,26.253072
+COVID-19_Baidu,2020-06-17 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,资阳,,,,,104.627636,30.128901
+COVID-19_Baidu,2020-06-17 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,贺州,,,,,111.566694,24.403582
+COVID-19_Baidu,2020-06-17 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,鞍山,,,,,122.994329,41.108647
+COVID-19_Baidu,2020-06-17 23:59:00,4,4,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shanxi,阳泉,,,,,113.580519,37.856971
+COVID-19_Baidu,2020-06-17 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,鸟取,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Henan,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Ningxia,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Xinjiang,第十二师,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hainan,省直辖县级行政区划,保亭黎族苗族自治县,,,,109.702392,18.638189
+COVID-19_Baidu,2020-06-17 23:59:00,3,2,1,0,0,0,666.67,333.33,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hainan,省直辖县级行政区划,定安县,,,,110.358891,19.681434
+COVID-19_Baidu,2020-06-17 23:59:00,3,2,1,0,0,0,666.67,333.33,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hainan,省直辖县级行政区划,东方市,,,,108.653789,19.10198
+COVID-19_Baidu,2020-06-17 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hainan,省直辖县级行政区划,文昌市,,,,110.753975,19.612986
+COVID-19_Baidu,2020-06-17 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,滨海新区,,,,117.78067,39.246083
+COVID-19_Baidu,2020-06-17 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Xinjiang,巴音郭楞,,,,,86.145298,41.764115
+COVID-19_Baidu,2020-06-17 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Xinjiang,吐鲁番,,,,,89.189655,42.951384
+COVID-19_Baidu,2020-06-17 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Ningxia,中卫,,,,,105.196902,37.499972
+COVID-19_Baidu,2020-06-17 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Qinghai,海北,,,,,100.900997,36.954413
+COVID-19_Baidu,2020-06-17 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Gansu,临夏,,,,,103.210538,35.601182
+COVID-19_Baidu,2020-06-17 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Gansu,庆阳,,,,,107.643631,35.709077
+COVID-19_Baidu,2020-06-17 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shaanxi,榆林,,,,,109.734589,38.28539
+COVID-19_Baidu,2020-06-17 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,乐山,,,,,103.765568,29.552106
+COVID-19_Baidu,2020-06-17 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Guangxi,百色,,,,,106.618201,23.902333
+COVID-19_Baidu,2020-06-17 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,大兴安岭,,,,,124.71108,52.335206
+COVID-19_Baidu,2020-06-17 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,辽阳,,,,,123.236944,41.267244
+COVID-19_Baidu,2020-06-17 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,本溪,,,,,123.766485,41.294175
+COVID-19_Baidu,2020-06-17 23:59:00,3,3,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Inner Mongolia,乌兰察布,,,,,113.132585,40.994785
+COVID-19_Baidu,2020-06-17 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Jiangxi,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Guangxi,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,2,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Hainan,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Heilongjiang,待确认,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Inner Mongolia,传入本土,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Xinjiang,第六师,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,县,彭水苗族土家族自治县,,,,108.165538,29.293902
+COVID-19_Baidu,2020-06-17 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,县,城口县,,,,108.664214,31.947633
+COVID-19_Baidu,2020-06-17 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,黔江区,,,,108.770678,29.53361
+COVID-19_Baidu,2020-06-17 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,,People's Republic of China,Hainan,省直辖县级行政区划,乐东黎族自治县,,,,109.173055,18.75026
+COVID-19_Baidu,2020-06-17 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,武清区,,,,117.044388,39.384119
+COVID-19_Baidu,2020-06-17 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,津南区,,,,117.391976,38.984526
+COVID-19_Baidu,2020-06-17 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Tianjin,市辖区,红桥区,,,,117.151533,39.167345
+COVID-19_Baidu,2020-06-17 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Gansu,张掖,,,,,100.449818,38.925875
+COVID-19_Baidu,2020-06-17 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,文山,,,,,104.216248,23.400733
+COVID-19_Baidu,2020-06-17 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jilin,松原,,,,,124.825117,45.141789
+COVID-19_Baidu,2020-06-17 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Inner Mongolia,乌海,,,,,106.794249,39.655388
+COVID-19_Baidu,2020-06-17 23:59:00,2,2,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Shanxi,临汾,,,,,111.518976,36.088005
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Hunan,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Anhui,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Chongqing,万盛经开区,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Chongqing,秀山县,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Jiangxi,赣江新区,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,1,349,9,0,0,0,349000.0,9000.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Beijing,待确认,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Shaanxi,杨凌示范区,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Gansu,外来人员,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Ningxia,宁东管委会,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Xinjiang,第七师,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,People's Republic of China,Guizhou,境外输入,,,,,,
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Shaanxi,渭南,韩城市,,,,110.442847,35.476788
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,县,酉阳土家族苗族自治县,,,,108.767747,28.841244
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Chongqing,市辖区,武隆区,,,,107.760025,29.325601
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hainan,省直辖县级行政区划,琼中黎族苗族自治县,,,,109.838389,19.033369
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Jilin,通化,梅河口市,,,,125.683832,42.530341
+COVID-19_Baidu,2020-06-17 23:59:00,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Hebei,保定,定州市,,,,114.990159,38.516174
+COVID-19_Baidu,2020-06-17 23:59:00,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,County,Asia,People's Republic of China,Beijing,市辖区,延庆区,,,,115.974848,40.456951
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Xinjiang,阿克苏,,,,,80.260605,41.168779
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Ningxia,石嘴山,,,,,106.383303,38.983236
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Gansu,金昌,,,,,102.188043,38.520089
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Xizang,拉萨,,,,,91.140856,29.645554
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Yunnan,临沧,,,,,100.079583,23.877573
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Sichuan,阿坝,,,,,102.224653,31.899413
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Heilongjiang,伊春,,,,,128.841147,47.727536
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Jilin,白城,,,,,122.839024,45.619641
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,营口,,,,,122.235417,40.667012
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Liaoning,抚顺,,,,,123.957208,41.880872
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,Asia,People's Republic of China,Inner Mongolia,兴安,,,,,122.067042,46.077561
+COVID-19_Baidu,2020-06-17 23:59:00,1,1,0,0,0,0,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,Province,Asia,People's Republic of China,Xizang,,,,,,91.117212,29.646922
+COVID-19_Baidu,2020-06-17 23:59:00,0,151,8,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inputted Data,City,,Japan,,待确认,,,,,,

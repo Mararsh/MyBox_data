@@ -35,6 +35,11 @@
 | CIE 1931 2度观察者（D50）5nm | http://mararsh.github.io/MyBox_data/colors/CIE1931Observer2Degree5nm_zh.txt |         
 | CIE 1964 10度观察者（D50）1nm | http://mararsh.github.io/MyBox_data/colors/CIE1964Observer10Degree1nm_zh.txt |         
 | CIE 1964 10度观察者（D50）5nm | http://mararsh.github.io/MyBox_data/colors/CIE1964Observer10Degree5nm_zh.txt |         
+| 色度适应矩阵 | http://mararsh.github.io/MyBox_data/colors/ChromaticAdaptationMatrices_zh.txt |         
+| 线性RGB到线性RGB的转换矩阵 | http://mararsh.github.io/MyBox_data/colors/LinearRGB2RGBMatrix_zh.txt |         
+| 线性RGB到XYZ的转换矩阵 | http://mararsh.github.io/MyBox_data/colors/LinearRGB2XYZMatrix_zh.txt |         
+| 色彩空间的基色 | http://mararsh.github.io/MyBox_data/colors/RGBColorSpaces_zh.txt |         
+| 标准光源 | http://mararsh.github.io/MyBox_data/colors/StandardIlluminants_zh.txt |         
     
 
 
