@@ -16,7 +16,7 @@
 | 来自百度的COVID-19每日数据（国家和中国省市） | https://voice.baidu.com/act/newpneumonia/newpneumonia/?from=osari_pc_3 |       
 | 来自腾讯的COVID-19历史数据（中国省市） | https://api.inews.qq.com/newsqa/v1/query/pubished/daily/list? |       
  
-## 链接
+## 下载
 
 最后更新时间：2020-06-17 
 
