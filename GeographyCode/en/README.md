@@ -3,7 +3,7 @@
 # Geography Code  
 
 ## Application
-All formats are self-consistent, in which data are written as values and can be used directly by other applications. (Internal format is not supported importing and exporting)        
+All formats are self-consistent, in which data are written as values and can be used directly by other applications. (Importing and exporting of internal format is not supported)          
 All files are in UTF-8 encoding. Except for xlsx, all formats can be viewed and updated by any text editor.      
 
 ## Data Sources
