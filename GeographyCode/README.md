@@ -83,6 +83,9 @@
                 + "  level SMALLINT NOT NULL, " // global/continent/country/province(state)/city/county(region/district)/town/village/building
                 + "  longitude DOUBLE NOT NULL, "
                 + "  latitude DOUBLE NOT NULL, "
+                + "  altitude DOUBLE, "
+                + "  precision DOUBLE, "
+                + "  coordinate_system SMALLINT, " // gps/baidu/gaode/beidou
                 + "  chinese_name VARCHAR(1028), "
                 + "  english_name VARCHAR(1028), "
                 + "  code1 VARCHAR(16), "
@@ -95,9 +98,10 @@
                 + "  alias3 VARCHAR(1028), "
                 + "  alias4 VARCHAR(1028), "
                 + "  alias5 VARCHAR(1028), "
-                + "  area BIGINT, " // km2
+                + "  area BIGINT, " // square meters
                 + "  population BIGINT, "
                 // below are references to build relationships among codes
+                + "  owner BIGINT, " // redundant values  for performance
                 + "  continent BIGINT, "
                 + "  country BIGINT, "
                 + "  province BIGINT, " // or state
@@ -107,7 +111,8 @@
                 + "  village BIGINT, " //  or neighborhood
                 + "  building BIGINT, "
                 + "  comments VARCHAR(32672), "
-                + "  PRIMARY KEY (gcid)"
+                + "  PRIMARY KEY (gcid), "
+                + "  FOREIGN KEY (owner) REFERENCES Geography_Code (gcid) ON DELETE CASCADE ON UPDATE RESTRICT"
                 + " )";
 ```
            
