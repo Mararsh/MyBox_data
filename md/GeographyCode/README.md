@@ -1,11 +1,12 @@
-# [ReadMe in English](https://github.com/Mararsh/MyBox_data/tree/master/GeographyCode/en)   ![ReadMe](https://mararsh.github.io/MyBox/iconGo.png)    
+# [ReadMe in English](https://github.com/Mararsh/MyBox_data/tree/master/md/GeographyCode/en)   ![ReadMe](https://mararsh.github.io/MyBox/iconGo.png)    
 
 # 地理代码
 
 ## 适用范围    
 
 所有文件均是自洽的：数据都是显值，可以被第三方应用直接使用。("MyBox内部格式"仅供参考，不支持导出导入)       
-所有文件均是UTF-8编码。除了xlsx，其它格式均可用任意文本编辑器来查看和修改。   
+所有文件均是UTF-8编码。除了xlsx，其它格式均可用任意文本编辑器来查看和修改。  
+坐标系统为：GCJ-02。 
 
 ## 数据源
 

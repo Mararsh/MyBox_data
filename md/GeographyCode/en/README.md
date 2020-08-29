@@ -1,4 +1,4 @@
-# [中文ReadMe](https://github.com/Mararsh/MyBox_data/tree/master/GeographyCode)  ![ReadMe](https://mararsh.github.io/MyBox_data/iconGo.png)  
+# [中文ReadMe](https://github.com/Mararsh/MyBox_data/tree/master/md/GeographyCode)  ![ReadMe](https://mararsh.github.io/MyBox_data/iconGo.png)  
 
 # Geography Code  
 
