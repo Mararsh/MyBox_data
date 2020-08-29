@@ -33,8 +33,10 @@
 
 | Contents | Link |    
 | --- | --- |   
-| Chinese Historical Capitals (Chinese) | http://mararsh.github.io/MyBox_data/LocationData/Location_Data_ChineseHistoricalCapitals_zh.csv |       
-| Chinese Historical Capitals (English) | http://mararsh.github.io/MyBox_data/LocationData/Location_Data_ChineseHistoricalCapitals_en.csv |       
+| Chinese Historical Capitals (Chinese) | http://mararsh.github.io/MyBox_data/LocationData/ChineseHistoricalCapitals_zh.htm |       
+|  | http://mararsh.github.io/MyBox_data/LocationData/Location_Data_ChineseHistoricalCapitals_zh.csv |       
+| Chinese Historical Capitals (English) | http://mararsh.github.io/http://mararsh.github.io/MyBox_data/LocationData/ChineseHistoricalCapitals_en.htm |       
+|  | http://mararsh.github.io/MyBox_data/LocationData/Location_Data_ChineseHistoricalCapitals_en.csv |       
 | Autumn movement patterns of European Gadwalls (Chinese) | http://mararsh.github.io/MyBox_data/LocationData/Location_Data_EuropeanGadwalls_zh.csv |         
 | Autumn movement patterns of European Gadwalls (English) | http://mararsh.github.io/MyBox_data/LocationData/Location_Data_EuropeanGadwalls_en.csv |         
 | Sperm whales Gulf of Mexico (Chinese) | http://mararsh.github.io/MyBox_data/LocationData/Location_Data_SpermWhales_zh.csv |         

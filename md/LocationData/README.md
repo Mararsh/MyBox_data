@@ -31,9 +31,9 @@
 
 | 内容 | 链接 |    
 | --- | --- |   
-| 中国历代都城（中文） | http://mararsh.github.io/MyBox_data/LocationData/中国历代国都.htm |       
+| 中国历代都城（中文） | http://mararsh.github.io/MyBox_data/LocationData/ChineseHistoricalCapitals_zh.htm |       
 |  | http://mararsh.github.io/MyBox_data/LocationData/Location_Data_ChineseHistoricalCapitals_zh.csv |       
-| 中国历代都城（英文） | http://mararsh.github.io/MyBox_data/LocationData/Chinese Historical Capitals.htm |       
+| 中国历代都城（英文） | http://mararsh.github.io/MyBox_data/LocationData/ChineseHistoricalCapitals_en.htm |       
 |  | http://mararsh.github.io/MyBox_data/LocationData/Location_Data_ChineseHistoricalCapitals_en.csv |       
 | 欧洲赤膀鸭的秋季迁徙模式（中文） | http://mararsh.github.io/MyBox_data/LocationData/Location_Data_EuropeanGadwalls_zh.csv |         
 | 欧洲赤膀鸭的秋季迁徙模式（英文） | http://mararsh.github.io/MyBox_data/LocationData/Location_Data_EuropeanGadwalls_en.csv |         
